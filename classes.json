@@ -1,0 +1,652 @@
+[
+  {
+    "id_cl": "CL_001",
+    "nom_cl": "Anticoagulants oraux",
+    "regle_generale": "Risque hémorragique accru, surtout en contexte de trauma, chute ou saignement actif. Patient stable sans trauma ≠ urgence.",
+    "facteurs_risque_transversaux": [
+      "Traumatisme ou chute",
+      "Saignement actif ou suspect",
+      "Association antiplaquettaire",
+      "Insuffisance rénale ou hépatique",
+      "Patient âgé ou fragile"
+    ],
+    "sous_classes_ids": [
+      "SC_001_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_002",
+    "nom_cl": "Antiplaquettaires",
+    "regle_generale": "Risque hémorragique généralement faible seul, mais devient significatif en contexte de trauma, saignement ou association (DAPT / anticoagulant).",
+    "facteurs_risque_transversaux": [
+      "Traumatisme ou chute",
+      "Saignement actif ou suspect",
+      "Association anticoagulant",
+      "Double antiagrégation (DAPT)",
+      "Patient âgé ou fragile"
+    ],
+    "sous_classes_ids": [
+      "SC_002_01",
+      "SC_002_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_003",
+    "nom_cl": "Opioïdes",
+    "regle_generale": "Risque de sédation et dépression respiratoire surtout en contexte de surdose ou co-ingestion (alcool, benzodiazépines). Distinguer traitement stable vs intoxication.",
+    "facteurs_risque_transversaux": [
+      "Dépression respiratoire",
+      "Altération de l’état de conscience",
+      "Association alcool/benzodiazépines/autres dépresseurs",
+      "Surdosage ou mésusage",
+      "Usage chronique ou sevrage"
+    ],
+    "sous_classes_ids": [
+      "SC_003_01",
+      "SC_003_02",
+      "SC_003_03",
+      "SC_003_04"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_004",
+    "nom_cl": "Benzodiazépines et sédatifs apparentés",
+    "regle_generale": "Risque principal : sédation et altération de l’état mental, majoré en cas d’association avec autres dépresseurs. Impact généralement faible hors contexte intoxication ou polypharmacie.",
+    "facteurs_risque_transversaux": [
+      "Altération de l’état de conscience",
+      "Association opioïdes ou alcool",
+      "Chute ou trauma secondaire à sédation",
+      "Sujet âgé ou fragile",
+      "Usage chronique ou surdosage"
+    ],
+    "sous_classes_ids": [
+      "SC_004_01",
+      "SC_004_02",
+      "SC_004_03"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_005",
+    "nom_cl": "Antidépresseurs (psychotropes)",
+    "regle_generale": "Impact préhospitalier généralement faible. Devient significatif surtout en contexte d’intoxication, surdosage ou polypharmacie.",
+    "facteurs_risque_transversaux": [
+      "Intoxication volontaire ou accidentelle",
+      "Surdosage",
+      "Polypharmacie / interactions",
+      "Altération de l’état mental",
+      "Convulsions (certains agents, ex. bupropion)",
+      "Troubles de conduction en intoxication (tricycliques)"
+    ],
+    "sous_classes_ids": [
+      "SC_005_01",
+      "SC_005_02",
+      "SC_005_03",
+      "SC_005_04"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_006",
+    "nom_cl": "Antipsychotiques",
+    "regle_generale": "Les antipsychotiques peuvent entraîner une sédation et des effets cardiovasculaires (hypotension, allongement QT), avec un impact variable selon la molécule, la dose, les interactions et le contexte d’intoxication.",
+    "facteurs_risque_transversaux": [
+      "Altération de l’état de conscience",
+      "Hypotension ou troubles du rythme",
+      "Allongement de l’intervalle QT",
+      "Effets extrapyramidaux",
+      "Polypharmacie psychotrope",
+      "Intoxication volontaire ou accidentelle"
+    ],
+    "sous_classes_ids": [
+      "SC_006_01",
+      "SC_006_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_007",
+    "nom_cl": "Antihypertenseurs",
+    "regle_generale": "Les antihypertenseurs peuvent modifier la pression artérielle, la fréquence cardiaque et la perfusion. Leur impact préhospitalier est généralement contextuel, surtout en présence d’hypotension, syncope, déshydratation ou association médicamenteuse.",
+    "facteurs_risque_transversaux": [
+      "Hypotension ou syncope",
+      "Bradycardie",
+      "Bloc AV (certaines classes)",
+      "Déshydratation",
+      "Sujet âgé ou fragile",
+      "Association avec autres médicaments cardiovasculaires (ex. bêtabloquant + non-DHP)"
+    ],
+    "sous_classes_ids": [
+      "SC_007_01",
+      "SC_007_02",
+      "SC_007_03",
+      "SC_007_04",
+      "SC_007_05",
+      "SC_007_06",
+      "SC_007_07"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_008",
+    "nom_cl": "Antidiabétiques",
+    "regle_generale": "Les antidiabétiques exposent principalement à des déséquilibres glycémiques (hypoglycémie ou hyperglycémie). Le risque préhospitalier dépend du type d’agent et du contexte clinique (repas manqué, maladie aiguë, déshydratation).",
+    "facteurs_risque_transversaux": [
+      "Hypoglycémie",
+      "Hyperglycémie ou acidocétose",
+      "Altération de l’état de conscience",
+      "Erreur de dosage ou repas manqué",
+      "Infection ou stress aigu",
+      "Insuffisance rénale",
+      "Sujet âgé ou fragile"
+    ],
+    "sous_classes_ids": [
+      "SC_008_01",
+      "SC_008_02",
+      "SC_008_03",
+      "SC_008_04",
+      "SC_008_05",
+      "SC_008_06",
+      "SC_008_07"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_009",
+    "nom_cl": "Anticoagulants injectables",
+    "regle_generale": "Les anticoagulants injectables exposent à un risque hémorragique accru, surtout en contexte de trauma, chute ou saignement actif.",
+    "facteurs_risque_transversaux": [
+      "Traumatisme ou chute",
+      "Saignement actif ou suspect",
+      "Association avec autres anticoagulants ou antiplaquettaires",
+      "Insuffisance rénale",
+      "Sujet âgé ou fragile"
+    ],
+    "sous_classes_ids": [
+      "SC_009_01",
+      "SC_009_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_010",
+    "nom_cl": "Antiarythmiques",
+    "regle_generale": "Les antiarythmiques modifient la conduction et le rythme cardiaque et peuvent exposer à une arythmie sévère, une bradycardie ou une instabilité hémodynamique.",
+    "facteurs_risque_transversaux": [
+      "Bradycardie",
+      "Troubles de conduction",
+      "Allongement QT",
+      "Syncope",
+      "Interaction médicamenteuse"
+    ],
+    "sous_classes_ids": [
+      "SC_010_01",
+      "SC_010_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_011",
+    "nom_cl": "Médicaments respiratoires inhalés",
+    "regle_generale": "Les médicaments respiratoires inhalés sont principalement utilisés pour traiter ou prévenir l’asthme et la BPCO. Leur présence sert surtout d’indicateur de terrain respiratoire plutôt que de facteur décisionnel direct.",
+    "facteurs_risque_transversaux": [
+      "Terrain asthme ou BPCO",
+      "Exacerbation respiratoire récente",
+      "Usage fréquent de bronchodilatateur de secours",
+      "Mauvaise technique d’inhalation",
+      "Polymédication respiratoire"
+    ],
+    "sous_classes_ids": [
+      "SC_011_01",
+      "SC_011_02",
+      "SC_011_03",
+      "SC_011_04",
+      "SC_011_05"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_012",
+    "nom_cl": "Diurétiques",
+    "regle_generale": "Les diurétiques peuvent favoriser une hypovolémie et des déséquilibres électrolytiques, avec risque d’hypotension ou d’arythmie selon le contexte clinique.",
+    "facteurs_risque_transversaux": [
+      "Hypotension ou syncope",
+      "Déshydratation",
+      "Déséquilibres électrolytiques (ex. hypokaliémie)",
+      "Insuffisance rénale",
+      "Sujet âgé ou fragile",
+      "Insuffisance cardiaque sous-jacente"
+    ],
+    "sous_classes_ids": [
+      "SC_012_01",
+      "SC_012_02",
+      "SC_012_03"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_013",
+    "nom_cl": "Hypolipémiants",
+    "regle_generale": "Les hypolipémiants ont un impact préhospitalier généralement faible. Leur présence sert surtout d’indicateur de risque cardiovasculaire sous-jacent.",
+    "facteurs_risque_transversaux": [
+      "Terrain cardiovasculaire (athérosclérose)",
+      "Myalgies ou faiblesse musculaire (rarement décisionnel en aigu)",
+      "Polypharmacie",
+      "Interactions médicamenteuses potentielles"
+    ],
+    "sous_classes_ids": [
+      "SC_013_01",
+      "SC_013_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_014",
+    "nom_cl": "Anti-inflammatoires (AINS)",
+    "regle_generale": "Les anti-inflammatoires non stéroïdiens (AINS) ont un impact préhospitalier généralement faible, mais peuvent augmenter le risque de saignement ou d’atteinte rénale selon le contexte clinique.",
+    "facteurs_risque_transversaux": [
+      "Saignement gastro-intestinal",
+      "Association avec anticoagulant ou antiplaquettaire",
+      "Déshydratation",
+      "Insuffisance rénale",
+      "Sujet âgé ou fragile"
+    ],
+    "sous_classes_ids": [
+      "SC_014_01",
+      "SC_014_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_015",
+    "nom_cl": "Antibiotiques oraux",
+    "regle_generale": "Les antibiotiques oraux ont un impact préhospitalier généralement faible. Leur importance réside surtout dans le risque de réaction allergique ou dans le contexte infectieux sous-jacent.",
+    "facteurs_risque_transversaux": [
+      "Réaction allergique ou anaphylaxie",
+      "Infection sévère ou non contrôlée",
+      "Interaction médicamenteuse (ex. QT long)",
+      "Troubles digestifs importants",
+      "Insuffisance rénale ou hépatique (contexte)"
+    ],
+    "sous_classes_ids": [
+      "SC_015_01",
+      "SC_015_02",
+      "SC_015_03"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_016",
+    "nom_cl": "Antiangineux / vasodilatateurs coronariens",
+    "regle_generale": "Les antiangineux (ex. nitroglycérine) influencent directement l’hémodynamique. Leur pertinence préhospitalière dépend du contexte : douleur thoracique active, hypotension, prise récente ou interaction (ex. inhibiteurs PDE5).",
+    "facteurs_risque_transversaux": [
+      "Hypotension ou syncope",
+      "Douleur thoracique active / SCA suspecté",
+      "Prise récente d’inhibiteur PDE5 (sildénafil, tadalafil)",
+      "Déshydratation ou sepsis",
+      "Association avec autres antihypertenseurs",
+      "Bradycardie ou tachycardie réflexe"
+    ],
+    "sous_classes_ids": [
+      "SC_016_01",
+      "SC_016_02",
+      "SC_016_03"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_017",
+    "nom_cl": "Antiépileptiques / anticonvulsivants",
+    "regle_generale": "Les antiépileptiques signalent un terrain convulsif. En préhospitalier, leur pertinence dépend du contexte : crise active, altération de l’état mental, observance ou interaction avec autres dépresseurs du SNC.",
+    "facteurs_risque_transversaux": [
+      "Crise convulsive actuelle ou récente",
+      "Altération de l’état mental",
+      "Non-observance ou arrêt récent",
+      "Somnolence / ataxie",
+      "Association avec alcool, opioïdes ou benzodiazépines"
+    ],
+    "sous_classes_ids": [
+      "SC_017_01",
+      "SC_017_02",
+      "SC_017_03",
+      "SC_017_04",
+      "SC_017_07"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_018",
+    "nom_cl": "Antihistaminiques / médicaments allergiques",
+    "regle_generale": "Impact préhospitalier généralement faible. Devient pertinent surtout si réaction allergique active (urticaire diffuse, œdème, bronchospasme, hypotension), si sédation/confusion marquée (1re génération, ex. diphenhydramine), ou si co-ingestion avec autres dépresseurs du SNC.",
+    "facteurs_risque_transversaux": [
+      "Réaction allergique active (urticaire diffuse, œdème, bronchospasme, hypotension)",
+      "Sédation / confusion / delirium (1re génération, surtout sujet âgé)",
+      "Chute/trauma secondaire à somnolence",
+      "Effets anticholinergiques (rétention urinaire, agitation/confusion — contexte)",
+      "Association avec alcool, opioïdes, benzodiazépines ou autres sédatifs"
+    ],
+    "sous_classes_ids": [
+      "SC_018_01",
+      "SC_018_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_019",
+    "nom_cl": "Médicaments gastro-intestinaux",
+    "regle_generale": "Impact préhospitalier généralement faible. Ces médicaments servent surtout de marqueurs de contexte gastro-intestinal ou de protection associée (ex. AINS, anticoagulants). Leur pertinence dépend du tableau clinique (douleur abdominale, hémorragie digestive, vomissements persistants, déshydratation).",
+    "facteurs_risque_transversaux": [
+      "Saignement digestif suspecté (méléna, hématémèse, anémie aiguë)",
+      "Vomissements persistants / déshydratation",
+      "Association avec AINS, anticoagulants ou antiplaquettaires",
+      "Douleur abdominale aiguë"
+    ],
+    "sous_classes_ids": [
+      "SC_019_01",
+      "SC_019_02",
+      "SC_019_03",
+      "SC_019_04"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_020",
+    "nom_cl": "Endocrinologie / hormones (substitution)",
+    "regle_generale": "Impact terrain habituellement faible; l’importance devient contextuelle en cas de problème d’observance ou si tableau clinique compatible (rare en préhospitalier).",
+    "facteurs_risque_transversaux": [
+      "Observance irrégulière (contexte)",
+      "Symptômes endocriniens marqués (rare en préhos)",
+      "Polypharmacie (contexte)"
+    ],
+    "sous_classes_ids": [
+      "SC_020_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_021",
+    "nom_cl": "Corticostéroïdes systémiques / immunomodulateurs",
+    "regle_generale": "Impact préhospitalier généralement contextuel. Les corticostéroïdes et immunomodulateurs servent surtout de marqueurs de pathologie chronique et d’immunosuppression. L’importance augmente en cas d’usage chronique, d’omission récente ou de tableau infectieux aigu.",
+    "facteurs_risque_transversaux": [
+      "Usage chronique prolongé",
+      "Non-observance / omission récente",
+      "Immunosuppression",
+      "Infection ou sepsis suspecté",
+      "Hyperglycémie (contexte diabète)"
+    ],
+    "sous_classes_ids": [
+      "SC_021_01",
+      "SC_021_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_022",
+    "nom_cl": "Myorelaxants (principalement centraux)",
+    "regle_generale": "Impact préhospitalier généralement contextuel. Les myorelaxants centraux peuvent contribuer à la sédation, aux étourdissements et aux chutes, surtout en association avec d'autres dépresseurs du système nerveux central.",
+    "facteurs_risque_transversaux": [
+      "Somnolence ou sédation",
+      "Étourdissements ou ataxie",
+      "Chute récente",
+      "Association avec opioïdes, benzodiazépines ou alcool",
+      "Sujet âgé",
+      "Polypharmacie dépresseurs du SNC"
+    ],
+    "sous_classes_ids": [
+      "SC_022_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_023",
+    "nom_cl": "Urgence / anaphylaxie (auto-injecteur)",
+    "regle_generale": "La présence d’un auto-injecteur d’épinéphrine indique un risque connu d’anaphylaxie. L’impact préhospitalier devient majeur si un épisode allergique actif est suspecté.",
+    "facteurs_risque_transversaux": [
+      "Réaction allergique active",
+      "Détérioration rapide possible",
+      "Atteinte respiratoire",
+      "Hypotension",
+      "Ré-exposition à allergène"
+    ],
+    "sous_classes_ids": [
+      "SC_023_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_024",
+    "nom_cl": "Stimulants du SNC / TDAH",
+    "regle_generale": "Impact préhospitalier généralement faible. Sert surtout de marqueur de traitement stimulant, avec pertinence contextuelle en cas de palpitations, douleur thoracique, anxiété marquée, agitation ou prise concomitante d'autres stimulants.",
+    "facteurs_risque_transversaux": [
+      "Tachycardie ou palpitations",
+      "Hypertension",
+      "Anxiété / agitation",
+      "Douleur thoracique",
+      "Association avec autres stimulants ou substances",
+      "Perte d'appétit / déshydratation (contexte)"
+    ],
+    "sous_classes_ids": [
+      "SC_024_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_025",
+    "nom_cl": "Stabilisateurs de l’humeur (lithium)",
+    "regle_generale": "Le lithium possède une fenêtre thérapeutique étroite. Le risque préhospitalier devient significatif en cas de déshydratation, insuffisance rénale ou interaction médicamenteuse, pouvant entraîner une toxicité neurologique progressive.",
+    "facteurs_risque_transversaux": [
+      "Déshydratation / hypovolémie",
+      "Insuffisance rénale",
+      "Altération de l’état mental",
+      "Tremblements / ataxie",
+      "Interactions médicamenteuses (diurétiques, AINS, IEC/ARA)"
+    ],
+    "sous_classes_ids": [
+      "SC_025_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_026",
+    "nom_cl": "Antiémétiques",
+    "regle_generale": "Impact préhospitalier généralement contextuel. Certains antiémétiques peuvent prolonger le QT ou contribuer à la sédation, mais servent surtout de marqueur clinique (vomissements, déshydratation).",
+    "facteurs_risque_transversaux": [
+      "Vomissements actifs / déshydratation",
+      "Association avec autres médicaments à risque QT",
+      "Troubles électrolytiques (contexte)",
+      "Sédation (selon agent)"
+    ],
+    "sous_classes_ids": [
+      "SC_026_01",
+      "SC_026_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_027",
+    "nom_cl": "Analgésiques / antipyrétiques OTC",
+    "regle_generale": "Impact préhospitalier généralement faible; ces médicaments sont surtout des marqueurs de douleur/fièvre. L’enjeu terrain devient pertinent surtout en cas de surdosage (volontaire/accidentel), de produits combinés (double acétaminophène) ou de co-ingestions.",
+    "facteurs_risque_transversaux": [
+      "Marqueur de douleur ou fièvre (contexte clinique)",
+      "Surdosage volontaire/accidentel (contexte)",
+      "Produits combinés / doublons d’acétaminophène (polyprise)",
+      "Co-ingestions (alcool, opioïdes, etc.)",
+      "Maladie hépatique / alcoolisme (contexte)"
+    ],
+    "sous_classes_ids": [
+      "SC_027_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_028",
+    "nom_cl": "Néphrologie / troubles électrolytiques",
+    "regle_generale": "Ces médicaments indiquent généralement une maladie rénale chronique, une dialyse ou un déséquilibre électrolytique traité. En préhospitalier, ils servent principalement de marqueurs de terrain fragile et de risque électrolytique contextuel.",
+    "facteurs_risque_transversaux": [
+      "Insuffisance rénale chronique / dialyse",
+      "Risque électrolytique (contexte)",
+      "Déshydratation / diarrhée / vomissements",
+      "Association IEC/ARA / diurétiques épargneurs K+ / AINS",
+      "Fragilité / âge avancé"
+    ],
+    "sous_classes_ids": [
+      "SC_028_01",
+      "SC_028_02",
+      "SC_028_03",
+      "SC_028_04"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_029",
+    "nom_cl": "Urologie — HBP / LUTS",
+    "regle_generale": "Les alpha-1 bloquants utilisés pour l’HBP peuvent entraîner une hypotension orthostatique et augmenter le risque de chute ou de syncope, surtout chez les patients âgés ou en association avec d’autres antihypertenseurs.",
+    "facteurs_risque_transversaux": [
+      "Hypotension orthostatique",
+      "Chutes / syncope (contexte)",
+      "Association avec autres antihypertenseurs / vasodilatateurs",
+      "Association avec inhibiteurs PDE5",
+      "Sujet âgé / fragilité"
+    ],
+    "sous_classes_ids": [
+      "SC_029_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_030",
+    "nom_cl": "Suppléments et produits de santé courants",
+    "regle_generale": "Impact préhospitalier généralement faible. Ces produits servent surtout de marqueurs contextuels et ne doivent pas être confondus avec des médicaments non reconnus.",
+    "facteurs_risque_transversaux": [
+      "Polypharmacie",
+      "Confusion possible avec la médication active",
+      "Usage chronique de produits OTC",
+      "Patient âgé ou fragile"
+    ],
+    "sous_classes_ids": [
+      "SC_030_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_031",
+    "nom_cl": "Neurologie dégénérative / Parkinson / cognition",
+    "regle_generale": "Impact préhospitalier généralement contextuel. Ces médicaments servent surtout de marqueurs d'un terrain neurologique chronique (Parkinson, trouble cognitif), avec vigilance accrue en cas de chute, dysautonomie, confusion ou altération fonctionnelle aiguë.",
+    "facteurs_risque_transversaux": [
+      "Chute ou traumatisme",
+      "Hypotension orthostatique",
+      "Confusion / délirium",
+      "Altération fonctionnelle aiguë",
+      "Fragilité neurologique ou cognitive"
+    ],
+    "sous_classes_ids": [
+      "SC_031_01",
+      "SC_031_02"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_032",
+    "nom_cl": "Santé osseuse / ostéoporose",
+    "regle_generale": "Impact préhospitalier généralement faible. Sert surtout de marqueur d'ostéoporose ou de fragilité osseuse; l'importance terrain est surtout contextuelle en cas de chute, fracture ou douleur osseuse.",
+    "facteurs_risque_transversaux": [
+      "Chute ou traumatisme",
+      "Fracture suspectée",
+      "Fragilité osseuse",
+      "Douleur osseuse / rachidienne (contexte)"
+    ],
+    "sous_classes_ids": [
+      "SC_032_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_033",
+    "nom_cl": "Urologie / vessie hyperactive et symptomatiques urinaires",
+    "regle_generale": "Impact préhospitalier généralement faible. Ces médicaments servent surtout de marqueurs d’un contexte urinaire symptomatique; les anticholinergiques vésicaux et agonistes bêta-3 peuvent contribuer à rétention urinaire, confusion ou chute chez le patient fragile.",
+    "facteurs_risque_transversaux": [
+      "Douleur urinaire ou dysurie",
+      "Rétention urinaire (contexte)",
+      "Confusion chez sujet âgé",
+      "Fièvre ou infection urinaire suspectée",
+      "Rétention urinaire",
+      "Effets anticholinergiques / confusion (sujet âgé)",
+      "Chute ou altération fonctionnelle"
+    ],
+    "sous_classes_ids": [
+      "SC_033_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_034",
+    "nom_cl": "Oncologie / hormonothérapies",
+    "regle_generale": "Impact préhospitalier généralement contextuel. Ces médicaments servent surtout de marqueurs d’un cancer hormonodépendant ou d’un traitement oncologique chronique; leur importance terrain augmente surtout en cas de faiblesse marquée, douleur osseuse, infection, confusion, déshydratation ou complication aiguë du cancer.",
+    "facteurs_risque_transversaux": [
+      "Fragilité générale / cancer actif",
+      "Douleur osseuse ou métastatique (contexte)",
+      "Déshydratation / faiblesse marquée",
+      "Infection ou neutropénie suspectée (contexte)",
+      "Douleur abdominale / hépatique (certains agents, contexte)",
+      "Polypharmacie oncologique"
+    ],
+    "sous_classes_ids": [
+      "SC_034_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_cl": "CL_035",
+    "nom_cl": "Traitements des dépendances / prévention de rechute",
+    "regle_generale": "Impact préhospitalier généralement contextuel. Ces médicaments servent surtout de marqueurs d’un trouble lié à l’usage de substances ou d’une prévention de rechute. La naltrexone est particulièrement pertinente car elle peut bloquer l’effet des opioïdes et compliquer l’analgésie.",
+    "facteurs_risque_transversaux": [
+      "Douleur aiguë avec analgésie opioïde potentiellement moins efficace",
+      "Trouble lié à l’usage d’alcool ou d’opioïdes (contexte)",
+      "Co-consommations ou intoxication",
+      "Sevrage ou rechute récente",
+      "Atteinte hépatique connue (contexte)"
+    ],
+    "sous_classes_ids": [
+      "SC_035_01"
+    ],
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  }
+]

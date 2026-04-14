@@ -1,0 +1,86 @@
+[
+  {
+    "id_profile": "PROFILE_001",
+    "nom_profile": "Anticoagulation",
+    "slug": "profil_anticoagulation",
+    "categorie": "risque_terrain",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_002",
+    "nom_profile": "Sédation / chute",
+    "slug": "profil_sedation_chute",
+    "categorie": "risque_terrain",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_003",
+    "nom_profile": "Insuffisance cardiaque / diurétiques",
+    "slug": "profil_insuffisance_cardiaque_diuretiques",
+    "categorie": "risque_terrain",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_004",
+    "nom_profile": "Pulmonaire probable",
+    "slug": "profil_pulmonaire_probable",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_005",
+    "nom_profile": "Antécédents cardiaques probables",
+    "slug": "profil_cardio_contexte",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_006",
+    "nom_profile": "Neurologique / épilepsie",
+    "slug": "profil_neurologique_epilepsie",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_007",
+    "nom_profile": "Diabète",
+    "slug": "profil_diabete",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_008",
+    "nom_profile": "Douleur chronique",
+    "slug": "profil_douleur_chronique",
+    "categorie": "vigilance",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_009",
+    "nom_profile": "Anxio-dépressif",
+    "slug": "profil_anxio_depressif",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_010",
+    "nom_profile": "Urologique",
+    "slug": "profil_urologique",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_011",
+    "nom_profile": "Oncologique / hormonothérapie",
+    "slug": "profil_oncologique_hormonotherapie",
+    "categorie": "profil_chronique",
+    "actif": true
+  },
+  {
+    "id_profile": "PROFILE_012",
+    "nom_profile": "Polypharmacie lourde",
+    "slug": "profil_polypharmacie_lourde",
+    "categorie": "profil_chronique",
+    "actif": true
+  }
+]

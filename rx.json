@@ -1,0 +1,4447 @@
+[
+  {
+    "id_rx": "RX_001",
+    "molecule": "Apixaban",
+    "noms_commerciaux": [
+      "Eliquis"
+    ],
+    "alias_ocr": [
+      "Apixaban Teva",
+      "Apixaban Sandoz",
+      "Apixaban Apotex",
+      "Apo apixaban",
+      "Teva Apixaban",
+      "Sandoz Apixaban"
+    ],
+    "id_cl": "CL_001",
+    "id_sc": "SC_001_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_002",
+    "molecule": "Rivaroxaban",
+    "noms_commerciaux": [
+      "Xarelto"
+    ],
+    "alias_ocr": [
+      "Apo rivaroxaban",
+      "Rivaroxaban Teva",
+      "Rivaroxaban Sandoz",
+      "Teva Rivaroxaban",
+      "Sandoz Rivaroxaban"
+    ],
+    "id_cl": "CL_001",
+    "id_sc": "SC_001_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_003",
+    "molecule": "Edoxaban",
+    "noms_commerciaux": [
+      "Lixiana"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_001",
+    "id_sc": "SC_001_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_004",
+    "molecule": "Dabigatran",
+    "noms_commerciaux": [
+      "Pradaxa"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_001",
+    "id_sc": "SC_001_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_005",
+    "molecule": "Warfarine",
+    "noms_commerciaux": [
+      "Coumadin"
+    ],
+    "alias_ocr": [
+      "Warfarin"
+    ],
+    "id_cl": "CL_001",
+    "id_sc": "SC_001_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_006",
+    "molecule": "Acide acétylsalicylique",
+    "noms_commerciaux": [
+      "Aspirin",
+      "Entrophen",
+      "Rivasa"
+    ],
+    "alias_ocr": [
+      "AAS",
+      "ASA",
+      "AAS 81",
+      "AAS 81MG",
+      "ASA 81",
+      "ASA 81MG",
+      "ASA EC",
+      "ASA EC 81",
+      "ASA EC 81MG",
+      "ECASA",
+      "ACIDE ACETYL SALICYLIQUE",
+      "ASPIRINE",
+      "ASPIRIN 81",
+      "ASPIRIN 81MG",
+      "ASPIRIN EC",
+      "ASPIRIN EC 81",
+      "ASPIRIN EC 81MG",
+      "ENTERIC ASPIRIN",
+      "NOVASEN",
+      "ACIDE ACETYLSALICYLIQUE",
+      "ACIDE ACÉTYLSALICYLIQUE",
+      "ACIDE ACÉTYL SALICYLIQUE",
+      "ASPIRIN",
+      "ENTROPHEN",
+      "RIVASA",
+      "RIVASA EC",
+      "RIVASA-Ec",
+      "RIVASA-EC",
+      "RIVASA FC",
+      "RIVASA-FC",
+      "RIVASA 80",
+      "RIVASA FC 80",
+      "RIVASA 80MG",
+      "RIVASA FC 80MG"
+    ],
+    "id_cl": "CL_002",
+    "id_sc": "SC_002_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_007",
+    "molecule": "Clopidogrel",
+    "noms_commerciaux": [
+      "Plavix"
+    ],
+    "alias_ocr": [
+      "Clopidogrel Teva",
+      "Clopidogrel Sandoz",
+      "Clopidogrel Apotex",
+      "Apo Clopidogrel",
+      "Teva Clopidogrel",
+      "Sandoz Clopidogrel"
+    ],
+    "id_cl": "CL_002",
+    "id_sc": "SC_002_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_008",
+    "molecule": "Prasugrel",
+    "noms_commerciaux": [
+      "Effient"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_002",
+    "id_sc": "SC_002_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_009",
+    "molecule": "Ticagrelor",
+    "noms_commerciaux": [
+      "Brilinta"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_002",
+    "id_sc": "SC_002_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_010",
+    "molecule": "Morphine",
+    "noms_commerciaux": [
+      "MS Contin",
+      "Statex"
+    ],
+    "alias_ocr": [
+      "Morphine orale"
+    ],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_011",
+    "molecule": "Oxycodone",
+    "noms_commerciaux": [
+      "OxyContin",
+      "Percocet"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_012",
+    "molecule": "Hydromorphone",
+    "noms_commerciaux": [
+      "Dilaudid"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_013",
+    "molecule": "Fentanyl",
+    "noms_commerciaux": [
+      "Duragesic",
+      "Abstral"
+    ],
+    "alias_ocr": [
+      "Fentanyl patch",
+      "Fentanyl transdermique",
+      "Fentanyl TD",
+      "Fentanyl TTS",
+      "mcg hr fentanyl",
+      "mcg h fentanyl",
+      "FENTANYL 25",
+      "FENTANYL 50",
+      "FENTANYL 75",
+      "FENTANYL 100"
+    ],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_014",
+    "molecule": "Méthadone",
+    "noms_commerciaux": [
+      "Methadose"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_015",
+    "molecule": "Codéine",
+    "noms_commerciaux": [
+      "Codeine Contin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_016",
+    "molecule": "Tramadol",
+    "noms_commerciaux": [
+      "Ultram"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_017",
+    "molecule": "Buprénorphine",
+    "noms_commerciaux": [
+      "Suboxone",
+      "Subutex"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_018",
+    "molecule": "Diazépam",
+    "noms_commerciaux": [
+      "Valium"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_019",
+    "molecule": "Lorazépam",
+    "noms_commerciaux": [
+      "Ativan"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_020",
+    "molecule": "Clonazépam",
+    "noms_commerciaux": [
+      "Rivotril"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_021",
+    "molecule": "Alprazolam",
+    "noms_commerciaux": [
+      "Xanax"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_022",
+    "molecule": "Zopiclone",
+    "noms_commerciaux": [
+      "Imovane"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_023",
+    "molecule": "Zolpidem",
+    "noms_commerciaux": [
+      "Stilnox"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_024",
+    "molecule": "Sertraline",
+    "noms_commerciaux": [
+      "Zoloft"
+    ],
+    "alias_ocr": [
+      "Sertraline Teva",
+      "Sertraline Sandoz",
+      "Bio Sertraline",
+      "Sertralne",
+      "Serraline",
+      "Serr4l1ne"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_025",
+    "molecule": "Citalopram",
+    "noms_commerciaux": [
+      "Celexa"
+    ],
+    "alias_ocr": [
+      "Citalopram Teva",
+      "Citalopram Sandoz"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_026",
+    "molecule": "Escitalopram",
+    "noms_commerciaux": [
+      "Cipralex"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_027",
+    "molecule": "Venlafaxine",
+    "noms_commerciaux": [
+      "Effexor"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_028",
+    "molecule": "Amitriptyline",
+    "noms_commerciaux": [
+      "Elavil"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_029",
+    "molecule": "Quetiapine",
+    "noms_commerciaux": [
+      "Seroquel"
+    ],
+    "alias_ocr": [
+      "Quetiapine Teva",
+      "Quetiapine Sandoz"
+    ],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_030",
+    "molecule": "Olanzapine",
+    "noms_commerciaux": [
+      "Zyprexa"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_031",
+    "molecule": "Risperidone",
+    "noms_commerciaux": [
+      "Risperdal"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_032",
+    "molecule": "Haloperidol",
+    "noms_commerciaux": [
+      "Haldol"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_033",
+    "molecule": "Chlorpromazine",
+    "noms_commerciaux": [
+      "Largactil"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_034",
+    "molecule": "Métoprolol",
+    "noms_commerciaux": [
+      "Lopressor"
+    ],
+    "alias_ocr": [
+      "Apo metoprolol",
+      "Metoprolol Teva",
+      "Metoprolol Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_035",
+    "molecule": "Atenolol",
+    "noms_commerciaux": [
+      "Tenormin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_036",
+    "molecule": "Amlodipine",
+    "noms_commerciaux": [
+      "Norvasc"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_037",
+    "molecule": "Diltiazem",
+    "noms_commerciaux": [
+      "Cardizem"
+    ],
+    "alias_ocr": [
+      "diltiaz",
+      "apo diltiaz",
+      "diltiazem cd",
+      "diltiazem xr",
+      "Diltiaz CD 180",
+      "Apo Diltiaz CD 180",
+      "diltiazem lc"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_04",
+    "actif": true,
+    "meta": {
+      "statut": "A_VALIDER"
+    },
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_038",
+    "molecule": "Ramipril",
+    "noms_commerciaux": [
+      "Altace"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_039",
+    "molecule": "Losartan",
+    "noms_commerciaux": [
+      "Cozaar"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_040",
+    "molecule": "Insuline glargine",
+    "noms_commerciaux": [
+      "Lantus",
+      "Basaglar",
+      "Toujeo"
+    ],
+    "alias_ocr": [
+      "Insulin glargine",
+      "Basaglar",
+      "Basaglar KwikPen",
+      "Toujeo",
+      "Toujeo SoloStar",
+      "Insuline glargine U300",
+      "Insulin glargine U300"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_041",
+    "molecule": "Insuline aspart",
+    "noms_commerciaux": [
+      "NovoRapid"
+    ],
+    "alias_ocr": [
+      "Insulin aspart"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_042",
+    "molecule": "Metformine",
+    "noms_commerciaux": [
+      "Glucophage"
+    ],
+    "alias_ocr": [
+      "Metformin",
+      "Glucophage XR",
+      "Metformin XR",
+      "Metformin ER"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_043",
+    "molecule": "Gliclazide",
+    "noms_commerciaux": [
+      "Diamicron"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_044",
+    "molecule": "Héparine non fractionnée",
+    "noms_commerciaux": [
+      "Heparin"
+    ],
+    "alias_ocr": [
+      "Heparine"
+    ],
+    "id_cl": "CL_009",
+    "id_sc": "SC_009_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_045",
+    "molecule": "Enoxaparine",
+    "noms_commerciaux": [
+      "Lovenox"
+    ],
+    "alias_ocr": [
+      "Enoxaparin"
+    ],
+    "id_cl": "CL_009",
+    "id_sc": "SC_009_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_046",
+    "molecule": "Dalteparine",
+    "noms_commerciaux": [
+      "Fragmin"
+    ],
+    "alias_ocr": [
+      "Dalteparin"
+    ],
+    "id_cl": "CL_009",
+    "id_sc": "SC_009_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_047",
+    "molecule": "Fondaparinux",
+    "noms_commerciaux": [
+      "Arixtra"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_009",
+    "id_sc": "SC_009_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_048",
+    "molecule": "Amiodarone",
+    "noms_commerciaux": [
+      "Cordarone"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_049",
+    "molecule": "Sotalol",
+    "noms_commerciaux": [
+      "Betapace"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_050",
+    "molecule": "Flecainide",
+    "noms_commerciaux": [
+      "Tambocor"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_051",
+    "molecule": "Digoxine",
+    "noms_commerciaux": [
+      "Lanoxin"
+    ],
+    "alias_ocr": [
+      "Digoxin"
+    ],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_052",
+    "molecule": "Salbutamol",
+    "noms_commerciaux": [
+      "Ventolin"
+    ],
+    "alias_ocr": [
+      "Albuterol"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_053",
+    "molecule": "Formotérol",
+    "noms_commerciaux": [
+      "Foradil"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_054",
+    "molecule": "Salmétérol",
+    "noms_commerciaux": [
+      "Serevent"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_055",
+    "molecule": "Fluticasone",
+    "noms_commerciaux": [
+      "Flovent"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_056",
+    "molecule": "Budesonide",
+    "noms_commerciaux": [
+      "Pulmicort"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_057",
+    "molecule": "Furosémide",
+    "noms_commerciaux": [
+      "Lasix"
+    ],
+    "alias_ocr": [
+      "Furosemide orthographe alternative"
+    ],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_058",
+    "molecule": "Bumétanide",
+    "noms_commerciaux": [
+      "Burinex"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_059",
+    "molecule": "Hydrochlorothiazide",
+    "noms_commerciaux": [
+      "HydroDIURIL"
+    ],
+    "alias_ocr": [
+      "HCTZ"
+    ],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_060",
+    "molecule": "Spironolactone",
+    "noms_commerciaux": [
+      "Aldactone"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_061",
+    "molecule": "Atorvastatine",
+    "noms_commerciaux": [
+      "Lipitor"
+    ],
+    "alias_ocr": [
+      "Atorvastatin",
+      "Atorvastatin Calcium",
+      "Atorvastatin Calciu",
+      "Atorvastatin Calcium 20",
+      "Atorvastatin Calcium 20 mg"
+    ],
+    "id_cl": "CL_013",
+    "id_sc": "SC_013_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_062",
+    "molecule": "Rosuvastatine",
+    "noms_commerciaux": [
+      "Crestor"
+    ],
+    "alias_ocr": [
+      "Rosuvastatin",
+      "Apo Rosuvastatin",
+      "Rosuvastatin plaq 20"
+    ],
+    "id_cl": "CL_013",
+    "id_sc": "SC_013_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_063",
+    "molecule": "Simvastatine",
+    "noms_commerciaux": [
+      "Zocor"
+    ],
+    "alias_ocr": [
+      "Simvastatin"
+    ],
+    "id_cl": "CL_013",
+    "id_sc": "SC_013_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_064",
+    "molecule": "Ézétimibe",
+    "noms_commerciaux": [
+      "Ezetrol"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_013",
+    "id_sc": "SC_013_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_065",
+    "molecule": "Ibuprofène",
+    "noms_commerciaux": [
+      "Advil",
+      "Motrin"
+    ],
+    "alias_ocr": [
+      "Ibuprofen"
+    ],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_066",
+    "molecule": "Naproxène",
+    "noms_commerciaux": [
+      "Naprosyn"
+    ],
+    "alias_ocr": [
+      "Naproxen",
+      "Aleve"
+    ],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_067",
+    "molecule": "Diclofénac",
+    "noms_commerciaux": [
+      "Voltaren"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_068",
+    "molecule": "Amoxicilline",
+    "noms_commerciaux": [
+      "Amoxil"
+    ],
+    "alias_ocr": [
+      "Amoxicillin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_069",
+    "molecule": "Azithromycine",
+    "noms_commerciaux": [
+      "Zithromax"
+    ],
+    "alias_ocr": [
+      "Azithromycin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_070",
+    "molecule": "Ciprofloxacine",
+    "noms_commerciaux": [
+      "Cipro"
+    ],
+    "alias_ocr": [
+      "Ciprofloxacin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_071",
+    "molecule": "Clarithromycine",
+    "noms_commerciaux": [
+      "Biaxin"
+    ],
+    "alias_ocr": [
+      "Clarithromycin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_072",
+    "molecule": "Nitroglycérine",
+    "noms_commerciaux": [
+      "Nitrostat",
+      "Nitrolingual",
+      "Nitrospray",
+      "Nitro-Dur",
+      "Mylan Nitro"
+    ],
+    "alias_ocr": [
+      "NTG",
+      "nitroglycerin",
+      "nitro dur",
+      "nitroderm",
+      "nitro derm",
+      "timbre nitro",
+      "patch nitro",
+      "nitro patch",
+      "nitroglycerin patch",
+      "nitroglycerine timbre",
+      "nitroglycerine patch",
+      "Nitroglycerin transdermal patch"
+    ],
+    "id_cl": "CL_016",
+    "id_sc": "SC_016_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_073",
+    "molecule": "Ipratropium",
+    "noms_commerciaux": [
+      "Atrovent"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_074",
+    "molecule": "Tiotropium",
+    "noms_commerciaux": [
+      "Spiriva"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_075",
+    "molecule": "Budésonide/Formotérol",
+    "noms_commerciaux": [
+      "Symbicort"
+    ],
+    "alias_ocr": [
+      "Budesonide Formoterol"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_076",
+    "molecule": "Fluticasone/Salmétérol",
+    "noms_commerciaux": [
+      "Advair"
+    ],
+    "alias_ocr": [
+      "Fluticasone Salmeterol"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_077",
+    "molecule": "Gabapentine",
+    "noms_commerciaux": [
+      "Neurontin"
+    ],
+    "alias_ocr": [
+      "Gabapentin"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_078",
+    "molecule": "Prégabaline",
+    "noms_commerciaux": [
+      "Lyrica"
+    ],
+    "alias_ocr": [
+      "Pregabalin"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_079",
+    "molecule": "Insuline lispro",
+    "noms_commerciaux": [
+      "Humalog"
+    ],
+    "alias_ocr": [
+      "Insulin lispro"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_080",
+    "molecule": "Insuline régulière",
+    "noms_commerciaux": [
+      "Humulin R",
+      "Novolin R"
+    ],
+    "alias_ocr": [
+      "Insulin regular",
+      "Toronto",
+      "Novolin ge Toronto",
+      "Novolin Toronto",
+      "Insulin Toronto",
+      "Insuline Toronto",
+      "Humulin Regular",
+      "Novolin Regular"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_081",
+    "molecule": "Glyburide",
+    "noms_commerciaux": [
+      "Diabeta"
+    ],
+    "alias_ocr": [
+      "Glibenclamide"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_082",
+    "molecule": "Bisoprolol",
+    "noms_commerciaux": [
+      "Monocor"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_083",
+    "molecule": "Carvédilol",
+    "noms_commerciaux": [
+      "Coreg"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_084",
+    "molecule": "Vérapamil",
+    "noms_commerciaux": [
+      "Isoptin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_085",
+    "molecule": "Diphenhydramine",
+    "noms_commerciaux": [
+      "Benadryl"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_086",
+    "molecule": "Cétirizine",
+    "noms_commerciaux": [
+      "Reactine"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_087",
+    "molecule": "Loratadine",
+    "noms_commerciaux": [
+      "Claritin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_088",
+    "molecule": "Fexofénadine",
+    "noms_commerciaux": [
+      "Allegra"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_089",
+    "molecule": "Oméprazole",
+    "noms_commerciaux": [
+      "Losec"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_090",
+    "molecule": "Pantoprazole",
+    "noms_commerciaux": [
+      "Pantoloc"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_091",
+    "molecule": "Famotidine",
+    "noms_commerciaux": [
+      "Pepcid"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_092",
+    "molecule": "Lévothyroxine",
+    "noms_commerciaux": [
+      "Synthroid",
+      "Eltroxin"
+    ],
+    "alias_ocr": [
+      "Levo T"
+    ],
+    "id_cl": "CL_020",
+    "id_sc": "SC_020_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_093",
+    "molecule": "Prednisone",
+    "noms_commerciaux": [
+      "Deltasone"
+    ],
+    "alias_ocr": [
+      "prednisone 5",
+      "prednisone 10",
+      "prednisone 20",
+      "prednisone 50",
+      "Prednisone alias terrain"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_094",
+    "molecule": "Prednisolone",
+    "noms_commerciaux": [
+      "Orapred"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_095",
+    "molecule": "Dexaméthasone",
+    "noms_commerciaux": [
+      "Decadron"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_096",
+    "molecule": "Hydrocortisone",
+    "noms_commerciaux": [
+      "Solu-Cortef"
+    ],
+    "alias_ocr": [
+      "Solu Cortef"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_097",
+    "molecule": "Fluoxétine",
+    "noms_commerciaux": [
+      "Prozac"
+    ],
+    "alias_ocr": [
+      "Apo Fluoxetine",
+      "Teva Fluoxetine",
+      "Sandoz Fluoxetine",
+      "Fluoxetine Teva",
+      "Fluoxetine Sandoz"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_098",
+    "molecule": "Paroxétine",
+    "noms_commerciaux": [
+      "Paxil"
+    ],
+    "alias_ocr": [
+      "Apo Paroxetine",
+      "Teva Paroxetine",
+      "Sandoz Paroxetine",
+      "Paroxetine Teva",
+      "Paroxetine Sandoz"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_099",
+    "molecule": "Fluvoxamine",
+    "noms_commerciaux": [
+      "Luvox"
+    ],
+    "alias_ocr": [
+      "Apo Fluvoxamine",
+      "Teva Fluvoxamine",
+      "Sandoz Fluvoxamine",
+      "Fluvoxamine Teva",
+      "Fluvoxamine Sandoz"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_100",
+    "molecule": "Duloxétine",
+    "noms_commerciaux": [
+      "Cymbalta"
+    ],
+    "alias_ocr": [
+      "Apo Duloxetine",
+      "Teva Duloxetine",
+      "Sandoz Duloxetine",
+      "Duloxetine Teva",
+      "Duloxetine Sandoz"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_101",
+    "molecule": "Desvenlafaxine",
+    "noms_commerciaux": [
+      "Pristiq"
+    ],
+    "alias_ocr": [
+      "Apo Desvenlafaxine",
+      "Teva Desvenlafaxine",
+      "Sandoz Desvenlafaxine",
+      "Desvenlafaxine Teva",
+      "Desvenlafaxine Sandoz"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_102",
+    "molecule": "Propranolol",
+    "noms_commerciaux": [
+      "Inderal"
+    ],
+    "alias_ocr": [
+      "Apo Propranolol",
+      "Teva Propranolol",
+      "Sandoz Propranolol",
+      "Propranolol Teva",
+      "Propranolol Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_103",
+    "molecule": "Nadolol",
+    "noms_commerciaux": [
+      "Corgard"
+    ],
+    "alias_ocr": [
+      "Apo Nadolol",
+      "Teva Nadolol",
+      "Sandoz Nadolol",
+      "Nadolol Teva",
+      "Nadolol Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_104",
+    "molecule": "Lisinopril",
+    "noms_commerciaux": [
+      "Prinivil",
+      "Zestril"
+    ],
+    "alias_ocr": [
+      "Apo Lisinopril",
+      "Teva Lisinopril",
+      "Sandoz Lisinopril",
+      "Lisinopril Teva",
+      "Lisinopril Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_105",
+    "molecule": "Énalapril",
+    "noms_commerciaux": [
+      "Vasotec"
+    ],
+    "alias_ocr": [
+      "Apo Enalapril",
+      "Teva Enalapril",
+      "Sandoz Enalapril",
+      "Enalapril Teva",
+      "Enalapril Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_106",
+    "molecule": "Périndopril",
+    "noms_commerciaux": [
+      "Coversyl"
+    ],
+    "alias_ocr": [
+      "Apo Perindopril",
+      "Teva Perindopril",
+      "Sandoz Perindopril",
+      "Perindopril Teva",
+      "Perindopril Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_107",
+    "molecule": "Valsartan",
+    "noms_commerciaux": [
+      "Diovan"
+    ],
+    "alias_ocr": [
+      "Apo Valsartan",
+      "Teva Valsartan",
+      "Sandoz Valsartan",
+      "Valsartan Teva",
+      "Valsartan Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_108",
+    "molecule": "Irbesartan",
+    "noms_commerciaux": [
+      "Avapro"
+    ],
+    "alias_ocr": [
+      "Apo Irbesartan",
+      "Teva Irbesartan",
+      "Sandoz Irbesartan",
+      "Irbesartan Teva",
+      "Irbesartan Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_109",
+    "molecule": "Candesartan",
+    "noms_commerciaux": [
+      "Atacand"
+    ],
+    "alias_ocr": [
+      "Apo Candesartan",
+      "Teva Candesartan",
+      "Sandoz Candesartan",
+      "Candesartan Teva",
+      "Candesartan Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_110",
+    "molecule": "Telmisartan",
+    "noms_commerciaux": [
+      "Micardis"
+    ],
+    "alias_ocr": [
+      "Apo Telmisartan",
+      "Teva Telmisartan",
+      "Sandoz Telmisartan",
+      "Telmisartan Teva",
+      "Telmisartan Sandoz"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_111",
+    "molecule": "Glimepiride",
+    "noms_commerciaux": [
+      "Amaryl"
+    ],
+    "alias_ocr": [
+      "Apo Glimepiride",
+      "Teva Glimepiride",
+      "Sandoz Glimepiride",
+      "Glimepiride Teva",
+      "Glimepiride Sandoz"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_112",
+    "molecule": "Insuline NPH",
+    "noms_commerciaux": [
+      "Humulin N",
+      "Novolin N"
+    ],
+    "alias_ocr": [
+      "Insulin NPH",
+      "NPH"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_113",
+    "molecule": "Insuline détémir",
+    "noms_commerciaux": [
+      "Levemir"
+    ],
+    "alias_ocr": [
+      "Insulin detemir",
+      "Levemir FlexPen",
+      "Levemir Flextouch"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_114",
+    "molecule": "Insuline dégludec",
+    "noms_commerciaux": [
+      "Tresiba"
+    ],
+    "alias_ocr": [
+      "Insulin degludec",
+      "Tresiba FlexTouch"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_115",
+    "molecule": "Torsemide",
+    "noms_commerciaux": [
+      "Demadex"
+    ],
+    "alias_ocr": [
+      "Torsemid",
+      "Apo Torsemide",
+      "Teva Torsemide",
+      "Sandoz Torsemide",
+      "Torsemide Teva",
+      "Torsemide Sandoz"
+    ],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_116",
+    "molecule": "Chlorthalidone",
+    "noms_commerciaux": [
+      "Hygroton"
+    ],
+    "alias_ocr": [
+      "Chlortalidone",
+      "Apo Chlorthalidone",
+      "Teva Chlorthalidone",
+      "Sandoz Chlorthalidone"
+    ],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_117",
+    "molecule": "Indapamide",
+    "noms_commerciaux": [
+      "Lozide"
+    ],
+    "alias_ocr": [
+      "Apo Indapamide",
+      "Teva Indapamide",
+      "Sandoz Indapamide",
+      "Indapamide Teva",
+      "Indapamide Sandoz"
+    ],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_118",
+    "molecule": "Pravastatine",
+    "noms_commerciaux": [
+      "Pravachol"
+    ],
+    "alias_ocr": [
+      "Pravastatin",
+      "Apo Pravastatin",
+      "Teva Pravastatin",
+      "Sandoz Pravastatin",
+      "Pravastatin Teva",
+      "Pravastatin Sandoz"
+    ],
+    "id_cl": "CL_013",
+    "id_sc": "SC_013_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_119",
+    "molecule": "Lovastatine",
+    "noms_commerciaux": [
+      "Mevacor"
+    ],
+    "alias_ocr": [
+      "Lovastatin",
+      "Apo Lovastatin",
+      "Teva Lovastatin",
+      "Sandoz Lovastatin",
+      "Lovastatin Teva",
+      "Lovastatin Sandoz"
+    ],
+    "id_cl": "CL_013",
+    "id_sc": "SC_013_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_120",
+    "molecule": "Desloratadine",
+    "noms_commerciaux": [
+      "Aerius"
+    ],
+    "alias_ocr": [
+      "Aerius RediTabs",
+      "Apo Desloratadine",
+      "Teva Desloratadine",
+      "Sandoz Desloratadine"
+    ],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_121",
+    "molecule": "Ésomprazole",
+    "noms_commerciaux": [
+      "Nexium"
+    ],
+    "alias_ocr": [
+      "Esomeprazole",
+      "Apo Esomeprazole",
+      "Teva Esomeprazole",
+      "Sandoz Esomeprazole",
+      "Esomeprazole Teva",
+      "Esomeprazole Sandoz"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_122",
+    "molecule": "Lansoprazole",
+    "noms_commerciaux": [
+      "Prevacid"
+    ],
+    "alias_ocr": [
+      "Apo Lansoprazole",
+      "Teva Lansoprazole",
+      "Sandoz Lansoprazole",
+      "Lansoprazole Teva",
+      "Lansoprazole Sandoz"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_123",
+    "molecule": "Midazolam",
+    "noms_commerciaux": [
+      "Versed"
+    ],
+    "alias_ocr": [
+      "Midazolam Teva",
+      "Midazolam Sandoz",
+      "Midazolam Apotex"
+    ],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_124",
+    "molecule": "Oxazépam",
+    "noms_commerciaux": [
+      "Serax"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_125",
+    "molecule": "Temazépam",
+    "noms_commerciaux": [
+      "Restoril"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_126",
+    "molecule": "Zaléplon",
+    "noms_commerciaux": [
+      "Sonata"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_127",
+    "molecule": "Nortriptyline",
+    "noms_commerciaux": [
+      "Aventyl"
+    ],
+    "alias_ocr": [
+      "Nortriptyline Teva",
+      "Nortriptyline Sandoz",
+      "Nortriptyline Apotex"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_128",
+    "molecule": "Loxapine",
+    "noms_commerciaux": [
+      "Loxapac"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_129",
+    "molecule": "Labetalol",
+    "noms_commerciaux": [
+      "Trandate"
+    ],
+    "alias_ocr": [
+      "Labetalol Teva",
+      "Labetalol Sandoz",
+      "Labetalol Apotex"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_130",
+    "molecule": "Nifédipine",
+    "noms_commerciaux": [
+      "Adalat"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_131",
+    "molecule": "Terbutaline",
+    "noms_commerciaux": [
+      "Bricanyl"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_132",
+    "molecule": "Céphalexine",
+    "noms_commerciaux": [
+      "Keflex"
+    ],
+    "alias_ocr": [
+      "Cephalexin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_133",
+    "molecule": "Amoxicilline/Acide clavulanique",
+    "noms_commerciaux": [
+      "Clavulin",
+      "Augmentin"
+    ],
+    "alias_ocr": [
+      "Amoxicilline clavulanate",
+      "Amoxicillin clavulanate",
+      "Amox Clav",
+      "Amoxicilline Acide clavulanique",
+      "Amoxi Clav",
+      "Amoxi-Clav",
+      "Amoxi Clav 875-125",
+      "Amoxi-Clav 875-125",
+      "Jamp Amoxi Clav",
+      "Jamp Amoxi-Clav",
+      "Amoxiclav",
+      "amoxi clav, 875-125 mg"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_134",
+    "molecule": "Doxycycline",
+    "noms_commerciaux": [
+      "Vibramycin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_135",
+    "molecule": "Clindamycine",
+    "noms_commerciaux": [
+      "Dalacin C"
+    ],
+    "alias_ocr": [
+      "Clindamycin",
+      "Dalacin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_136",
+    "molecule": "Triméthoprime/Sulfaméthoxazole",
+    "noms_commerciaux": [
+      "Septra",
+      "Bactrim"
+    ],
+    "alias_ocr": [
+      "TMP SMX",
+      "Trimethoprim sulfamethoxazole",
+      "Trimethoprime sulfamethoxazole"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_137",
+    "molecule": "Lévofloxacine",
+    "noms_commerciaux": [
+      "Levaquin"
+    ],
+    "alias_ocr": [
+      "Levofloxacin"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_138",
+    "molecule": "Célécoxib",
+    "noms_commerciaux": [
+      "Celebrex"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_139",
+    "molecule": "Kétorolac",
+    "noms_commerciaux": [
+      "Toradol"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_140",
+    "molecule": "Isosorbide mononitrate",
+    "noms_commerciaux": [
+      "Imdur"
+    ],
+    "alias_ocr": [
+      "Isosorbide mono",
+      "Imdur 30 mg",
+      "Imdur 60 mg",
+      "Imdur 120 mg",
+      "ISMN"
+    ],
+    "id_cl": "CL_016",
+    "id_sc": "SC_016_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_141",
+    "molecule": "Isosorbide dinitrate",
+    "noms_commerciaux": [
+      "Isordil"
+    ],
+    "alias_ocr": [
+      "Isordil 5 mg",
+      "Isordil 10 mg",
+      "Isordil 20 mg"
+    ],
+    "id_cl": "CL_016",
+    "id_sc": "SC_016_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_142",
+    "molecule": "Buprénorphine transdermique",
+    "noms_commerciaux": [
+      "Butrans"
+    ],
+    "alias_ocr": [
+      "Buprenorphine patch",
+      "Butrans 5 mcg",
+      "Butrans 10 mcg",
+      "Butrans 20 mcg"
+    ],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_143",
+    "molecule": "Dipyridamole + acide acétylsalicylique",
+    "noms_commerciaux": [
+      "Aggrenox"
+    ],
+    "alias_ocr": [
+      "Dipyridamole ASA",
+      "Dipyridamole + ASA",
+      "Dipyridamole aspirin",
+      "Aspirin + dipyridamole"
+    ],
+    "id_cl": "CL_002",
+    "id_sc": "SC_002_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_144",
+    "molecule": "Tinzaparine",
+    "noms_commerciaux": [
+      "Innohep"
+    ],
+    "alias_ocr": [
+      "Innohep injection",
+      "Innohep SC"
+    ],
+    "id_cl": "CL_009",
+    "id_sc": "SC_009_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_145",
+    "molecule": "Baclofen",
+    "noms_commerciaux": [
+      "Baclofen"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_022",
+    "id_sc": "SC_022_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_146",
+    "molecule": "Methocarbamol",
+    "noms_commerciaux": [
+      "Robaxin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_022",
+    "id_sc": "SC_022_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_147",
+    "molecule": "Cyclobenzaprine",
+    "noms_commerciaux": [
+      "Flexeril"
+    ],
+    "alias_ocr": [
+      "Cyclobenzaprine HCL",
+      "Cyclobenzaprine Hydrochloride",
+      "Flexeril 5",
+      "Flexeril 10",
+      "Apo Cyclobenzaprine",
+      "Teva Cyclobenzaprine",
+      "Sandoz Cyclobenzaprine",
+      "PMS Cyclobenzaprine",
+      "Cyclobenzaprine 10mg",
+      "Cyclobenzaprine 5mg"
+    ],
+    "id_cl": "CL_022",
+    "id_sc": "SC_022_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_148",
+    "molecule": "Trazodone",
+    "noms_commerciaux": [
+      "Desyrel"
+    ],
+    "alias_ocr": [
+      "Trazodone HCL",
+      "Trazodone Hydrochloride",
+      "Trazodona",
+      "Apo Trazodone",
+      "Teva Trazodone",
+      "Sandoz Trazodone",
+      "Trazodone XR",
+      "Trazodone ER"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_149",
+    "molecule": "Acétaminophène",
+    "noms_commerciaux": [
+      "Tylenol",
+      "Atasol",
+      "Tempra",
+      "Panadol"
+    ],
+    "alias_ocr": [
+      "Acetaminophen",
+      "Paracetamol",
+      "APAP"
+    ],
+    "id_cl": "CL_027",
+    "id_sc": "SC_027_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_150",
+    "molecule": "Épinéphrine",
+    "noms_commerciaux": [
+      "EpiPen",
+      "Allerject"
+    ],
+    "alias_ocr": [
+      "Epi Pen",
+      "EpiPen Jr",
+      "EpiPen Junior",
+      "EpiPen2Pak",
+      "Anapen"
+    ],
+    "id_cl": "CL_023",
+    "id_sc": "SC_023_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_151",
+    "molecule": "Levetiracetam",
+    "noms_commerciaux": [
+      "Keppra"
+    ],
+    "alias_ocr": [
+      "Keppra XR",
+      "Keppra ER",
+      "Apo Levetiracetam",
+      "Teva Levetiracetam",
+      "Sandoz Levetiracetam",
+      "Levetiracetam orthographe alternative"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_152",
+    "molecule": "Lithium",
+    "noms_commerciaux": [
+      "Lithobid"
+    ],
+    "alias_ocr": [
+      "Lithium Carbonate",
+      "Apo Lithium",
+      "Teva Lithium",
+      "Sandoz Lithium"
+    ],
+    "id_cl": "CL_025",
+    "id_sc": "SC_025_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_153",
+    "molecule": "Bupropion",
+    "noms_commerciaux": [
+      "Wellbutrin",
+      "Zyban"
+    ],
+    "alias_ocr": [
+      "Buproprion",
+      "Wellbutrin XL",
+      "Wellbutrin SR",
+      "Wellbutrin XR",
+      "Apo Bupropion",
+      "Teva Bupropion",
+      "Sandoz Bupropion"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_154",
+    "molecule": "Semaglutide",
+    "noms_commerciaux": [
+      "Ozempic",
+      "Wegovy",
+      "Rybelsus"
+    ],
+    "alias_ocr": [
+      "0zempic",
+      "Semaglutide pen",
+      "Semaglutide injector"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_155",
+    "molecule": "Empagliflozin",
+    "noms_commerciaux": [
+      "Jardiance"
+    ],
+    "alias_ocr": [
+      "Apo Empagliflozin",
+      "Teva Empagliflozin",
+      "Sandoz Empagliflozin",
+      "empagliflozine"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_156",
+    "molecule": "Ondansetron",
+    "noms_commerciaux": [
+      "Zofran"
+    ],
+    "alias_ocr": [
+      "Ondansetron HCL",
+      "Zofran Zydis",
+      "Apo Ondansetron",
+      "Teva Ondansetron",
+      "Sandoz Ondansetron"
+    ],
+    "id_cl": "CL_026",
+    "id_sc": "SC_026_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_157",
+    "molecule": "Valproate",
+    "noms_commerciaux": [
+      "Epival",
+      "Depakote"
+    ],
+    "alias_ocr": [
+      "Divalproex",
+      "Valproic Acid",
+      "Epival ER",
+      "Depakote ER",
+      "Apo Valproate",
+      "Teva Valproate",
+      "Sandoz Valproate",
+      "Apo Divalproex",
+      "Teva Divalproex",
+      "Sandoz Divalproex"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_158",
+    "molecule": "Dexlansoprazole",
+    "noms_commerciaux": [
+      "Dexilant"
+    ],
+    "alias_ocr": [
+      "dexilant 30",
+      "dexilant 60",
+      "dexilant mr",
+      "dexilant dr",
+      "dexlansoprazole dr",
+      "dexlansoprazole mr"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_159",
+    "molecule": "Mirtazapine",
+    "noms_commerciaux": [
+      "Remeron"
+    ],
+    "alias_ocr": [
+      "remeron soltab",
+      "mirtazapine odt",
+      "mirtazapine orally disintegrating",
+      "mirtazapine 7 5",
+      "mirtazapine 15",
+      "mirtazapine 30",
+      "mirtazapine 45"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_160",
+    "molecule": "Brivaracetam",
+    "noms_commerciaux": [
+      "Brivlera",
+      "Briviact"
+    ],
+    "alias_ocr": [
+      "brivaracetam 10",
+      "brivaracetam 25",
+      "brivaracetam 50",
+      "brivaracetam 75",
+      "brivaracetam 100"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_161",
+    "molecule": "Lacosamide",
+    "noms_commerciaux": [
+      "Vimpat"
+    ],
+    "alias_ocr": [
+      "lacosamide 50",
+      "lacosamide 100",
+      "lacosamide 150",
+      "lacosamide 200",
+      "lacosamide tab",
+      "lacosamide tablet"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_162",
+    "molecule": "Melatonin",
+    "noms_commerciaux": [],
+    "alias_ocr": [
+      "melatonine",
+      "option melatonine",
+      "option melatonin",
+      "melatonine 1",
+      "melatonine 3",
+      "melatonine 5",
+      "melatonine 10",
+      "melatonin 1",
+      "melatonin 3",
+      "melatonin 5",
+      "melatonin 10",
+      "timed release melatonin",
+      "controlled release melatonin",
+      "sr melatonin",
+      "cr melatonin",
+      "Jamieson melatonine",
+      "Jamieson melatonin",
+      "webber melatonine",
+      "webber melatonin"
+    ],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_164",
+    "molecule": "Potassium chloride (KCl)",
+    "noms_commerciaux": [
+      "K-Dur"
+    ],
+    "alias_ocr": [
+      "kdur",
+      "potassium",
+      "potassium chloride",
+      "chlorure de potassium",
+      "mk20",
+      "k20 soluble",
+      "Potasium chloride",
+      "Potassium chloride 600",
+      "Potassium chloride 600 mg",
+      "Potasium chloride 600 mg",
+      "Potassium chloride KCl"
+    ],
+    "id_cl": "CL_028",
+    "id_sc": "SC_028_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_165",
+    "molecule": "Sacubitril/valsartan",
+    "noms_commerciaux": [
+      "Entresto"
+    ],
+    "alias_ocr": [
+      "sacubitril valsartan",
+      "lcz696",
+      "entresto 24 26",
+      "entresto 49 51",
+      "entresto 97 103"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_166",
+    "molecule": "Dapagliflozin",
+    "noms_commerciaux": [
+      "Farxiga",
+      "Forxiga"
+    ],
+    "alias_ocr": [
+      "dapagliflozine",
+      "farxiga 5",
+      "farxiga 10",
+      "dapagliflozin 5",
+      "dapagliflozin 10"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_167",
+    "molecule": "Naloxone",
+    "noms_commerciaux": [
+      "Narcan"
+    ],
+    "alias_ocr": [
+      "naloxone spray",
+      "naloxone nasal"
+    ],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_168",
+    "molecule": "Hydrocodone/Acetaminophen",
+    "noms_commerciaux": [
+      "Vicodin",
+      "Hysingla"
+    ],
+    "alias_ocr": [
+      "Hydrocodone",
+      "Hydrocodone APAP",
+      "Hydrocodone acetaminophen",
+      "Hydrocodone ER",
+      "Hydrocodone XR"
+    ],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_170",
+    "molecule": "Clonidine",
+    "noms_commerciaux": [
+      "Catapres"
+    ],
+    "alias_ocr": [
+      "Catapres TTS",
+      "clonidine patch",
+      "timbre clonidine"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_172",
+    "molecule": "Ranolazine",
+    "noms_commerciaux": [
+      "Ranexa"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_016",
+    "id_sc": "SC_016_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_173",
+    "molecule": "Sildenafil",
+    "noms_commerciaux": [
+      "Viagra"
+    ],
+    "alias_ocr": [
+      "sildenafil 25",
+      "sildenafil 50",
+      "sildenafil 100"
+    ],
+    "id_cl": "CL_016",
+    "id_sc": "SC_016_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_174",
+    "molecule": "Tadalafil",
+    "noms_commerciaux": [
+      "Cialis"
+    ],
+    "alias_ocr": [
+      "tadalafil 5",
+      "tadalafil 10",
+      "tadalafil 20"
+    ],
+    "id_cl": "CL_016",
+    "id_sc": "SC_016_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_175",
+    "molecule": "Metoclopramide",
+    "noms_commerciaux": [
+      "Maxeran",
+      "Reglan"
+    ],
+    "alias_ocr": [
+      "metoclopramide HCL"
+    ],
+    "id_cl": "CL_026",
+    "id_sc": "SC_026_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_176",
+    "molecule": "Prochlorperazine",
+    "noms_commerciaux": [
+      "Stemetil"
+    ],
+    "alias_ocr": [
+      "prochlorperazine maleate"
+    ],
+    "id_cl": "CL_026",
+    "id_sc": "SC_026_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_177",
+    "molecule": "Lamotrigine",
+    "noms_commerciaux": [
+      "Lamictal"
+    ],
+    "alias_ocr": [
+      "lamotrigine 25",
+      "lamotrigine 100",
+      "lamotrigine 200"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_07",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_178",
+    "molecule": "Phenytoin",
+    "noms_commerciaux": [
+      "Dilantin"
+    ],
+    "alias_ocr": [
+      "phenytoin sodium"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_180",
+    "molecule": "Aripiprazole",
+    "noms_commerciaux": [
+      "Abilify"
+    ],
+    "alias_ocr": [
+      "aripiprazole 2",
+      "aripiprazole 5",
+      "aripiprazole 10",
+      "aripiprazole 15",
+      "aripiprazole 20"
+    ],
+    "id_cl": "CL_006",
+    "id_sc": "SC_006_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_182",
+    "molecule": "Canagliflozin",
+    "noms_commerciaux": [
+      "Invokana"
+    ],
+    "alias_ocr": [
+      "invokana 100",
+      "invokana 300"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_183",
+    "molecule": "Sitagliptin",
+    "noms_commerciaux": [
+      "Januvia"
+    ],
+    "alias_ocr": [
+      "januvia 50",
+      "januvia 100"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_184",
+    "molecule": "Insuline 70/30 (mélange)",
+    "noms_commerciaux": [
+      "Humulin 70/30",
+      "Novolin 70/30"
+    ],
+    "alias_ocr": [
+      "70 30",
+      "Humulin 70 30",
+      "Novolin 70 30",
+      "insulin 70 30",
+      "Insuline 70 30",
+      "Insuline 70 30 melange"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_190",
+    "molecule": "Liraglutide",
+    "noms_commerciaux": [
+      "Victoza",
+      "Saxenda"
+    ],
+    "alias_ocr": [
+      "liraglutide pen"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_191",
+    "molecule": "Dulaglutide",
+    "noms_commerciaux": [
+      "Trulicity"
+    ],
+    "alias_ocr": [
+      "trulicity pen"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_195",
+    "molecule": "olmesartan / hydrochlorothiazide",
+    "noms_commerciaux": [
+      "Olmetec Plus"
+    ],
+    "alias_ocr": [
+      "olmesartan hctz",
+      "olmesartan-hctz",
+      "olmesartan hct",
+      "olmesartan hydrochlorothiazide",
+      "olmesartan hctz 40-25",
+      "olmesartan hctz 20-12.5",
+      "auro olmesartan hctz",
+      "sandoz olmesartan hctz",
+      "teva olmesartan hctz",
+      "olmesartan hctz tab",
+      "olmesartan hctz co"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_196",
+    "molecule": "relugolix",
+    "noms_commerciaux": [
+      "Orgovyx"
+    ],
+    "alias_ocr": [
+      "orgovyx 120mg",
+      "relugolix 120mg",
+      "orgovyx co",
+      "orgovyx comprimé",
+      "orgovyx tab",
+      "Orgovyx 120 mg",
+      "Relugolix 120 mg"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_197",
+    "molecule": "Umeclidinium/vilanterol",
+    "noms_commerciaux": [
+      "Anoro"
+    ],
+    "alias_ocr": [
+      "Umeclidinium Vilanterol",
+      "Anoro Ellipta"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_198",
+    "molecule": "Fluticasone/umeclidinium/vilanterol",
+    "noms_commerciaux": [
+      "Trelegy"
+    ],
+    "alias_ocr": [
+      "Trelegy Ellipta",
+      "Fluticasone Umeclidinium Vilanterol"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_199",
+    "molecule": "Rabeprazole",
+    "noms_commerciaux": [
+      "Pariet"
+    ],
+    "alias_ocr": [
+      "rabeprazole 10",
+      "rabeprazole 20"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_200",
+    "molecule": "Sucralfate",
+    "noms_commerciaux": [
+      "Sulcrate"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_201",
+    "molecule": "Tizanidine",
+    "noms_commerciaux": [
+      "Zanaflex"
+    ],
+    "alias_ocr": [
+      "tizanidine 2",
+      "tizanidine 4"
+    ],
+    "id_cl": "CL_022",
+    "id_sc": "SC_022_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_202",
+    "molecule": "Hydroxyzine",
+    "noms_commerciaux": [
+      "Atarax"
+    ],
+    "alias_ocr": [
+      "hydroxyzine pamoate",
+      "hydroxyzine HCL"
+    ],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_207",
+    "molecule": "Dronedarone",
+    "noms_commerciaux": [
+      "Multaq"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_208",
+    "molecule": "Montelukast",
+    "noms_commerciaux": [
+      "Singulair"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_209",
+    "molecule": "Chlordiazepoxide",
+    "noms_commerciaux": [
+      "Librium"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_210",
+    "molecule": "Indomethacin",
+    "noms_commerciaux": [
+      "Indocin"
+    ],
+    "alias_ocr": [
+      "Indometacine"
+    ],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_211",
+    "molecule": "Cefuroxime",
+    "noms_commerciaux": [
+      "Ceftin"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_212",
+    "molecule": "Metronidazole",
+    "noms_commerciaux": [
+      "Flagyl"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_216",
+    "molecule": "Hydralazine",
+    "noms_commerciaux": [
+      "Apresoline"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_217",
+    "molecule": "Loperamide",
+    "noms_commerciaux": [
+      "Imodium"
+    ],
+    "alias_ocr": [
+      "PMS Loperamide",
+      "Loperamide 2mg",
+      "Loperamide HCl",
+      "Loperamide Hydrochloride"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_218",
+    "molecule": "Polyethylene glycol 3350",
+    "noms_commerciaux": [
+      "RestoraLAX",
+      "EMOLAX"
+    ],
+    "alias_ocr": [
+      "PEG 3350",
+      "PEG3350",
+      "Polyethylene glycol",
+      "Macrogol 3350",
+      "Poudre PEG 3350"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_219",
+    "molecule": "Senna",
+    "noms_commerciaux": [
+      "Senokot"
+    ],
+    "alias_ocr": [
+      "SennaTabs",
+      "Sennosides",
+      "PMS Senna",
+      "Senna 8 6mg",
+      "Sennosides 8 6mg"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_220",
+    "molecule": "Sodium polystyrene sulfonate",
+    "noms_commerciaux": [
+      "Solystat"
+    ],
+    "alias_ocr": [
+      "Sodium polystyrene",
+      "Polystyrene sulfonate",
+      "Sodium polystyrene sulphonate",
+      "Polystyrene sulphonate",
+      "Sod polystyrene sulfonate",
+      "Kayexalate",
+      "PMS Sodium polystyrene sulfonate"
+    ],
+    "id_cl": "CL_028",
+    "id_sc": "SC_028_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_221",
+    "molecule": "Calcitriol",
+    "noms_commerciaux": [
+      "Rocaltrol"
+    ],
+    "alias_ocr": [
+      "Calcitriol Odan",
+      "Calcitriol 0 25",
+      "Calcitriol 0 5"
+    ],
+    "id_cl": "CL_028",
+    "id_sc": "SC_028_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_222",
+    "molecule": "Sucroferric oxyhydroxide",
+    "noms_commerciaux": [
+      "Velphoro"
+    ],
+    "alias_ocr": [
+      "Velphoro 500"
+    ],
+    "id_cl": "CL_028",
+    "id_sc": "SC_028_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_223",
+    "molecule": "Calcium carbonate",
+    "noms_commerciaux": [
+      "Calcium carbonate"
+    ],
+    "alias_ocr": [
+      "Carbonate de calcium",
+      "Caltrate",
+      "Tums",
+      "Carbonate calcium",
+      "CaCO3"
+    ],
+    "id_cl": "CL_028",
+    "id_sc": "SC_028_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_224",
+    "molecule": "Methyldopa",
+    "noms_commerciaux": [
+      "Aldomet"
+    ],
+    "alias_ocr": [
+      "methyldopa 250",
+      "methyldopa 500"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_225",
+    "molecule": "Guanfacine",
+    "noms_commerciaux": [
+      "Intuniv"
+    ],
+    "alias_ocr": [
+      "guanfacine er",
+      "guanfacine xr"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_226",
+    "molecule": "Linagliptin",
+    "noms_commerciaux": [
+      "Trajenta"
+    ],
+    "alias_ocr": [
+      "trajenta 5"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_227",
+    "molecule": "Saxagliptin",
+    "noms_commerciaux": [
+      "Onglyza"
+    ],
+    "alias_ocr": [
+      "onglyza 2 5",
+      "onglyza 5"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_228",
+    "molecule": "Alogliptin",
+    "noms_commerciaux": [
+      "Nesina"
+    ],
+    "alias_ocr": [
+      "alogliptin 6 25",
+      "alogliptin 12 5",
+      "alogliptin 25"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_229",
+    "molecule": "Glucagon",
+    "noms_commerciaux": [
+      "Glucagen",
+      "Baqsimi"
+    ],
+    "alias_ocr": [
+      "glucagon kit",
+      "glucagon nasal"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_07",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_230",
+    "molecule": "Allopurinol",
+    "noms_commerciaux": [
+      "Zyloprim"
+    ],
+    "alias_ocr": [
+      "allopurinol 100",
+      "allopurinol 300"
+    ],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_231",
+    "molecule": "Colchicine",
+    "noms_commerciaux": [
+      "Colcrys"
+    ],
+    "alias_ocr": [
+      "colchicine 0 6",
+      "colchicine 0 5"
+    ],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_232",
+    "molecule": "Febuxostat",
+    "noms_commerciaux": [
+      "Uloric"
+    ],
+    "alias_ocr": [
+      "febuxostat 40",
+      "febuxostat 80"
+    ],
+    "id_cl": "CL_014",
+    "id_sc": "SC_014_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_233",
+    "molecule": "Carbidopa/Levodopa",
+    "noms_commerciaux": [
+      "Sinemet",
+      "Prolopa"
+    ],
+    "alias_ocr": [
+      "Carbidopa Levodopa",
+      "levodopa",
+      "carbidopa"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_234",
+    "molecule": "Pramipexole",
+    "noms_commerciaux": [
+      "Mirapex"
+    ],
+    "alias_ocr": [
+      "pramipexole 0 25",
+      "pramipexole 1"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_235",
+    "molecule": "Ropinirole",
+    "noms_commerciaux": [
+      "Requip"
+    ],
+    "alias_ocr": [
+      "ropinirole 0 25",
+      "ropinirole 1",
+      "ropinirole 2"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_236",
+    "molecule": "Alendronate",
+    "noms_commerciaux": [
+      "Fosamax"
+    ],
+    "alias_ocr": [
+      "alendronate 70",
+      "alendronate 10"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_237",
+    "molecule": "Risedronate",
+    "noms_commerciaux": [
+      "Actonel"
+    ],
+    "alias_ocr": [
+      "risedronate 35",
+      "risedronate 150"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_238",
+    "molecule": "Ibandronate",
+    "noms_commerciaux": [
+      "Boniva"
+    ],
+    "alias_ocr": [
+      "ibandronate 150"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_05",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_239",
+    "molecule": "Phenazopyridine",
+    "noms_commerciaux": [
+      "Pyridium"
+    ],
+    "alias_ocr": [
+      "phenazopyridine 100",
+      "phenazopyridine 200"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_240",
+    "molecule": "Tamsulosin",
+    "noms_commerciaux": [
+      "Flomax"
+    ],
+    "alias_ocr": [
+      "tamsulosin 0 4",
+      "tamsulosin 0 8"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_241",
+    "molecule": "Finasteride",
+    "noms_commerciaux": [
+      "Proscar",
+      "Propecia"
+    ],
+    "alias_ocr": [
+      "finasteride 5",
+      "finasteride 1"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_242",
+    "molecule": "Dutasteride",
+    "noms_commerciaux": [
+      "Avodart"
+    ],
+    "alias_ocr": [
+      "dutasteride 0 5"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_243",
+    "molecule": "Clobetasol (topique)",
+    "noms_commerciaux": [
+      "Temovate"
+    ],
+    "alias_ocr": [
+      "Clobetasol",
+      "clobetasol propionate",
+      "clobetasol 0 05"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_244",
+    "molecule": "Mometasone (topique)",
+    "noms_commerciaux": [
+      "Elocon"
+    ],
+    "alias_ocr": [
+      "Mometasone",
+      "mometasone furoate",
+      "mometasone 0 1"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_245",
+    "molecule": "Betamethasone (topique)",
+    "noms_commerciaux": [
+      "Diprosone",
+      "Ectosone",
+      "Teva-Ectosone",
+      "ratio-Ectosone"
+    ],
+    "alias_ocr": [
+      "Betamethasone",
+      "betamethasone dipropionate",
+      "betamethasone 0 05",
+      "Teva Ectosone",
+      "ratio Ectosone",
+      "ectosone 0.1",
+      "ectosone cream",
+      "ectosone creme",
+      "teva ectosone cream",
+      "teva ectosone creme",
+      "betamethasone valerate",
+      "betamethasone valerate 0.1",
+      "betamethasone valerate cream",
+      "betamethasone valerate creme",
+      "betamethasone 0.1",
+      "betamethasone 0 1"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_246",
+    "molecule": "Sitagliptine/Metformine",
+    "noms_commerciaux": [
+      "Janumet"
+    ],
+    "alias_ocr": [
+      "Sitagliptin Metformin",
+      "Sitagliptine Metformine",
+      "Janumet XR",
+      "Janumet"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_247",
+    "molecule": "Empagliflozine/Metformine",
+    "noms_commerciaux": [
+      "Synjardy"
+    ],
+    "alias_ocr": [
+      "Empagliflozin Metformin",
+      "Empagliflozine Metformine",
+      "Synjardy XR",
+      "Synjardy"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_248",
+    "molecule": "Dapagliflozine/Metformine",
+    "noms_commerciaux": [
+      "Xigduo"
+    ],
+    "alias_ocr": [
+      "Dapagliflozin Metformin",
+      "Dapagliflozine Metformine",
+      "Xigduo XR",
+      "Xigduo"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_249",
+    "molecule": "Empagliflozine/Linagliptine",
+    "noms_commerciaux": [
+      "Glyxambi"
+    ],
+    "alias_ocr": [
+      "Empagliflozin Linagliptin",
+      "Empagliflozine Linagliptine",
+      "Glyxambi"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_06",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_250",
+    "molecule": "Saxagliptine/Metformine",
+    "noms_commerciaux": [
+      "Komboglyze"
+    ],
+    "alias_ocr": [
+      "Saxagliptin Metformin",
+      "Saxagliptine Metformine",
+      "Komboglyze XR"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_251",
+    "molecule": "Linagliptine/Metformine",
+    "noms_commerciaux": [
+      "Jentadueto"
+    ],
+    "alias_ocr": [
+      "Linagliptin Metformin",
+      "Linagliptine Metformine",
+      "Jentadueto"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_252",
+    "molecule": "Alogliptine/Metformine",
+    "noms_commerciaux": [
+      "Kazano"
+    ],
+    "alias_ocr": [
+      "Alogliptin Metformin",
+      "Alogliptine Metformine",
+      "Kazano"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_253",
+    "molecule": "Olmesartan",
+    "noms_commerciaux": [
+      "Olmetec"
+    ],
+    "alias_ocr": [
+      "Apo Olmesartan",
+      "Teva Olmesartan",
+      "Sandoz Olmesartan"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_254",
+    "molecule": "Valsartan/Hydrochlorothiazide",
+    "noms_commerciaux": [
+      "Diovan HCT"
+    ],
+    "alias_ocr": [
+      "Valsartan HCTZ",
+      "Valsartan Hydrochlorothiazide",
+      "Valsartan HCT"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_255",
+    "molecule": "Telmisartan/Hydrochlorothiazide",
+    "noms_commerciaux": [
+      "Micardis HCT"
+    ],
+    "alias_ocr": [
+      "Telmisartan HCTZ",
+      "Telmisartan Hydrochlorothiazide",
+      "Telmisartan HCT"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_256",
+    "molecule": "Irbesartan/Hydrochlorothiazide",
+    "noms_commerciaux": [
+      "Avalide"
+    ],
+    "alias_ocr": [
+      "Irbesartan HCTZ",
+      "Irbesartan Hydrochlorothiazide",
+      "Irbesartan HCT"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_257",
+    "molecule": "Candesartan/Hydrochlorothiazide",
+    "noms_commerciaux": [
+      "Atacand Plus"
+    ],
+    "alias_ocr": [
+      "Candesartan HCTZ",
+      "Candesartan Hydrochlorothiazide",
+      "Candesartan HCT"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_258",
+    "molecule": "Périndopril/Indapamide",
+    "noms_commerciaux": [
+      "Coversyl Plus"
+    ],
+    "alias_ocr": [
+      "Perindopril Indapamide"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_259",
+    "molecule": "Nébivolol",
+    "noms_commerciaux": [
+      "Bystolic"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_260",
+    "molecule": "Éplérénone",
+    "noms_commerciaux": [
+      "Inspra"
+    ],
+    "alias_ocr": [],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_261",
+    "molecule": "Tiotropium/Olodatérol",
+    "noms_commerciaux": [
+      "Stiolto"
+    ],
+    "alias_ocr": [
+      "Tiotropium Olodaterol",
+      "Stiolto Respimat"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_262",
+    "molecule": "Glycopyrronium/Indacatérol",
+    "noms_commerciaux": [
+      "Ultibro"
+    ],
+    "alias_ocr": [
+      "Glycopyrronium Indacaterol",
+      "Ultibro Breezhaler"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_263",
+    "molecule": "Fluticasone/Vilanterol",
+    "noms_commerciaux": [
+      "Breo Ellipta"
+    ],
+    "alias_ocr": [
+      "Fluticasone Vilanterol",
+      "Breo"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_264",
+    "molecule": "Budésonide/Glycopyrronium/Formotérol",
+    "noms_commerciaux": [
+      "Breztri"
+    ],
+    "alias_ocr": [
+      "Budesonide Glycopyrronium Formoterol",
+      "Breztri Aerosphere"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_04",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_265",
+    "molecule": "Umeclidinium",
+    "noms_commerciaux": [
+      "Incruse"
+    ],
+    "alias_ocr": [
+      "Incruse Ellipta"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_266",
+    "molecule": "Aclidinium",
+    "noms_commerciaux": [
+      "Tudorza"
+    ],
+    "alias_ocr": [
+      "Tudorza Genuair"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_03",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_267",
+    "molecule": "Alfuzosine",
+    "noms_commerciaux": [
+      "Xatral"
+    ],
+    "alias_ocr": [
+      "Alfuzosin"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_268",
+    "molecule": "Silodosine",
+    "noms_commerciaux": [
+      "Rapaflo"
+    ],
+    "alias_ocr": [
+      "Silodosin"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_269",
+    "molecule": "Dutastéride/Tamsulosine",
+    "noms_commerciaux": [
+      "Jalyn"
+    ],
+    "alias_ocr": [
+      "Dutasteride Tamsulosin",
+      "Dutastéride Tamsulosine"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_270",
+    "molecule": "Térazosine",
+    "noms_commerciaux": [
+      "Hytrin"
+    ],
+    "alias_ocr": [
+      "Terazosin"
+    ],
+    "id_cl": "CL_029",
+    "id_sc": "SC_029_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_271",
+    "molecule": "Cholécalciférol (vitamine D3)",
+    "noms_commerciaux": [
+      "D-Tabs",
+      "D-Gel",
+      "AG Vitamine D"
+    ],
+    "alias_ocr": [
+      "Cholecalciferol",
+      "Vitamine D",
+      "Vitamin D",
+      "Vitamine D3",
+      "Vitamin D3",
+      "D Tabs",
+      "Dtabs",
+      "D Gel",
+      "Dgel",
+      "Jamp Vitamine D",
+      "Vit D",
+      "Vit D3",
+      "1000UI vitamine d",
+      "2000UI vitamine d",
+      "10000UI vitamine d",
+      "AG-VITAMINE D",
+      "AG VITAMINE D 2000 UI",
+      "D-TABS 10000UI",
+      "D TABS 10000 UI",
+      "D GEL 1000UI",
+      "D-GEL-1000",
+      "D GEL 1000",
+      "Vitamin D3 1000",
+      "Vitamin D3 2000",
+      "Vitamin D3 10000",
+      "Vitamine D3 1000",
+      "Vitamine D3 2000",
+      "Vitamine D3 10000",
+      "D3 1000UI",
+      "D3 2000UI",
+      "D3 10000UI"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_272",
+    "molecule": "Cyanocobalamine (vitamine B12)",
+    "noms_commerciaux": [],
+    "alias_ocr": [
+      "Vitamine B12",
+      "Vitamin B12",
+      "Vit B12",
+      "Cyanocobalamin",
+      "Cyanocobalamine",
+      "Jamp Vitamine B12",
+      "Jamp Vitamin B12",
+      "Vitamine B 12",
+      "Vitamin B 12",
+      "JAMP-VITAMINE B12",
+      "JAMP VITAMINE B12 250MCG",
+      "JAMP VITAMINE B12 1000MCG",
+      "VITAMINE B12 250MCG",
+      "VITAMINE B12 1000MCG",
+      "VITAMIN B12 250MCG",
+      "VITAMIN B12 1000MCG",
+      "B12 250MCG",
+      "Luxa-D",
+      "Luxa D",
+      "Luxad",
+      "LUXA-D",
+      "LUXA D",
+      "LUXAD",
+      "Luxa D 2000",
+      "Luxa-D 2000",
+      "Luxa D 2000 UI",
+      "Luxa-D 2000 UI",
+      "LUXA D 2000 UI",
+      "LUXA-D 2000UI",
+      "B12 1000MCG"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_273",
+    "molecule": "Magnésium",
+    "noms_commerciaux": [
+      "Maglucate",
+      "M Magnesium",
+      "M Magnesium Complex",
+      "Jamp Magnesium"
+    ],
+    "alias_ocr": [
+      "Magnesium gluconate",
+      "Magnesium glucconate",
+      "Magnesium complex",
+      "M MAGNESIUM GLUCONATE",
+      "M MAGNESIUM GLUCONATE 500MG",
+      "MAGNESIUM GLUCONATE 500MG",
+      "M MAGNESIUM COMPLEX 250MG",
+      "MAGNESIUM COMPLEX 250MG",
+      "JAMP MAGNESIUM 500MG",
+      "JAMP-MAGNESIUM",
+      "MAGLUCATE 500MG",
+      "MAGLUCATE 500 MG"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_274",
+    "molecule": "Sulfate ferreux",
+    "noms_commerciaux": [],
+    "alias_ocr": [
+      "Ferrous sulfate",
+      "Fer sulfate",
+      "Jamp sulfate ferreux",
+      "Fer",
+      "Iron supplement",
+      "JAMP-SULFATE FERREUX",
+      "JAMP SULFATE FERREUX 300MG",
+      "SULFATE FERREUX 300MG",
+      "FERROUS SULFATE 300MG",
+      "FERROUS SULPHATE",
+      "IRON"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_275",
+    "molecule": "Multivitamine",
+    "noms_commerciaux": [
+      "Centrum",
+      "Centrum Femme 50+"
+    ],
+    "alias_ocr": [
+      "Multivitamin",
+      "Multi vitamine",
+      "Centrum femme",
+      "Centrum homme",
+      "Multivitamines",
+      "CENTRUM FEMME 50 PLUS",
+      "CENTRUM 50+",
+      "CENTRUM 50 PLUS",
+      "MULTI-VITAMINE"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_276",
+    "molecule": "Huile de foie de morue",
+    "noms_commerciaux": [
+      "Cod Liver Oil",
+      "Cod Liver Oil ABD"
+    ],
+    "alias_ocr": [
+      "cod liver oil ard",
+      "cod liver oil 2500",
+      "COD LIVER OIL-ABD",
+      "CODLIVEROIL",
+      "COD LIVER OIL ABD 2500"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_277",
+    "molecule": "Mélatonine",
+    "noms_commerciaux": [
+      "Option+",
+      "Option+ Melatonin"
+    ],
+    "alias_ocr": [
+      "Melatonin",
+      "OPTION+ MELATONINE",
+      "OPTION MELATONIN",
+      "OPTION+ MELATONINE 5MG",
+      "OPTION+ MELATONIN 5MG",
+      "OPTION MELATONIN 5 MG",
+      "MELATONIN 5MG",
+      "MELATONINE 5MG"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_278",
+    "molecule": "Méthylphénidate",
+    "noms_commerciaux": [
+      "Ritalin",
+      "Concerta",
+      "Biphentin"
+    ],
+    "alias_ocr": [
+      "PMS Methylphenidate",
+      "PMS Methylphenidate CR",
+      "PMS Methylphenidate LP",
+      "Methylphenidate CR",
+      "Methylphenidate LP",
+      "Methylphenidate ER",
+      "Methylphenidate SR",
+      "Methylphenidate 30",
+      "Methylphenidate 30 mg",
+      "Methylphenidate caps",
+      "Methylphenidate caps lp",
+      "Methylphenidate capsules lp"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_08",
+    "actif": true,
+    "statut_validation": "A_VALIDER"
+  },
+  {
+    "id_rx": "RX_279",
+    "molecule": "Méthylprednisolone",
+    "noms_commerciaux": [
+      "Medrol",
+      "Solu-Medrol"
+    ],
+    "alias_ocr": [
+      "Methylprednisolone",
+      "Méthylprednisolone",
+      "Medrol",
+      "Solu Medrol",
+      "Solu-Medrol",
+      "methylprednisolone 4",
+      "methylprednisolone 8",
+      "methylprednisolone 16",
+      "methylprednisolone 32"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_280",
+    "molecule": "Losartan/Hydrochlorothiazide",
+    "noms_commerciaux": [
+      "Hyzaar"
+    ],
+    "alias_ocr": [
+      "Losartan Hydrochlorothiazide",
+      "Losartan/Hydrochlorothiazide",
+      "Hyzaar",
+      "Losartan HCT",
+      "Losartan HCTZ",
+      "losartanhct",
+      "losartanhctz",
+      "Cozaar HCT"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_281",
+    "molecule": "Ranitidine",
+    "noms_commerciaux": [
+      "Zantac"
+    ],
+    "alias_ocr": [
+      "ranitidine",
+      "zantac",
+      "ranitidin",
+      "ranitidne"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_02",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_282",
+    "molecule": "Thiamine (vitamine B1)",
+    "noms_commerciaux": [
+      "Opus Vitamine B1"
+    ],
+    "alias_ocr": [
+      "Vitamine B1",
+      "Vitamin B1",
+      "Vit B1",
+      "Thiamine",
+      "OPUS-VITAMINE B1",
+      "OPUS VITAMINE B1",
+      "Opus Vitamine B1",
+      "Opus-Vitamine B1",
+      "opus-vitamine b1",
+      "opus vitamine b1",
+      "opus-vitamine bi",
+      "opus vitamine bi",
+      "vitamine bi",
+      "vit b1 100",
+      "vitamine b1 100mcg",
+      "vitamine b1 100 mg",
+      "Vit.B1",
+      "Vit.B1 100",
+      "Vit.B1 100 mg",
+      "Vit.B1 100 mg CO",
+      "vit.bi 100 mg co",
+      "vit.b1 100 mg co",
+      "opus vit.b1 100 mg co",
+      "opus vit b1 100 mg co"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_283",
+    "molecule": "Vitamine K2",
+    "noms_commerciaux": [],
+    "alias_ocr": [
+      "Vitamine K2",
+      "Vitamin K2",
+      "Vit K2",
+      "K2",
+      "GELULE VERT K2",
+      "GELULE VERTE K2",
+      "GELULE VERT (K2)",
+      "GELULE VERTE (K2)",
+      "gelule vert k2",
+      "gelule verte k2",
+      "gelule vert (k2)",
+      "gelule verte (k2)",
+      "capsule verte k2",
+      "capsule vert k2"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_284",
+    "molecule": "Toltérodine",
+    "noms_commerciaux": [
+      "Detrol",
+      "Detrol LA"
+    ],
+    "alias_ocr": [
+      "Tolterodine",
+      "Tolterodine LA",
+      "Tolterodine ER",
+      "Tolterodine XR",
+      "Detrol",
+      "Detrol LA",
+      "Apo Tolterodine",
+      "Teva Tolterodine",
+      "Sandoz Tolterodine",
+      "Jamp Tolterodine",
+      "Mint Tolterodine",
+      "PMS Tolterodine",
+      "Ran Tolterodine"
+    ],
+    "id_cl": "CL_033",
+    "id_sc": "SC_033_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_285",
+    "molecule": "Mépéridine",
+    "noms_commerciaux": [
+      "Demerol"
+    ],
+    "alias_ocr": [
+      "Meperidine",
+      "Meperidine HCL",
+      "Meperidine Hydrochloride",
+      "Mepéridine",
+      "Demerol",
+      "Apo Meperidine",
+      "Teva Meperidine",
+      "Sandoz Meperidine",
+      "Jamp Meperidine",
+      "Mint Meperidine",
+      "PMS Meperidine",
+      "Ran Meperidine"
+    ],
+    "id_cl": "CL_003",
+    "id_sc": "SC_003_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_286",
+    "molecule": "Bicalutamide",
+    "noms_commerciaux": [
+      "Casodex"
+    ],
+    "alias_ocr": [
+      "bicalutamide 50",
+      "casodex 50"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_287",
+    "molecule": "Enzalutamide",
+    "noms_commerciaux": [
+      "Xtandi"
+    ],
+    "alias_ocr": [
+      "enzalutamide 40",
+      "xtandi 40"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_288",
+    "molecule": "Abiratérone",
+    "noms_commerciaux": [
+      "Zytiga"
+    ],
+    "alias_ocr": [
+      "abiraterone",
+      "abiraterone acetate",
+      "zytiga 250",
+      "zytiga 500"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_289",
+    "molecule": "Tamoxifène",
+    "noms_commerciaux": [
+      "Nolvadex"
+    ],
+    "alias_ocr": [
+      "tamoxifen",
+      "tamoxifen 10",
+      "tamoxifen 20",
+      "nolvadex 20"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_290",
+    "molecule": "Létrozole",
+    "noms_commerciaux": [
+      "Femara"
+    ],
+    "alias_ocr": [
+      "letrozole",
+      "letrozole 2.5",
+      "femara 2.5"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_291",
+    "molecule": "Anastrozole",
+    "noms_commerciaux": [
+      "Arimidex"
+    ],
+    "alias_ocr": [
+      "anastrozole 1",
+      "arimidex 1"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_292",
+    "molecule": "Leuprolide",
+    "noms_commerciaux": [
+      "Lupron",
+      "Eligard"
+    ],
+    "alias_ocr": [
+      "leuprolide acetate",
+      "lupron depot",
+      "eligard injection"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_293",
+    "molecule": "Naltrexone",
+    "noms_commerciaux": [
+      "Revia"
+    ],
+    "alias_ocr": [
+      "Apo Naltrexone",
+      "Teva Naltrexone",
+      "Sandoz Naltrexone",
+      "Jamp Naltrexone",
+      "Mint Naltrexone",
+      "PMS Naltrexone",
+      "Naltrexone 50",
+      "Naltrexone 50 mg",
+      "Apo Naltrexone 50 mg"
+    ],
+    "id_cl": "CL_035",
+    "id_sc": "SC_035_01",
+    "actif": true,
+    "statut_validation": "valide"
+  },
+  {
+    "id_rx": "RX_294",
+    "molecule": "Vortioxétine",
+    "noms_commerciaux": [
+      "Trintellix"
+    ],
+    "alias_ocr": [
+      "Vortioxetine",
+      "Apo Vortioxetine",
+      "Teva Vortioxetine",
+      "Sandoz Vortioxetine",
+      "Jamp Vortioxetine",
+      "Mint Vortioxetine",
+      "PMS Vortioxetine",
+      "Vortioxetine 5",
+      "Vortioxetine 10",
+      "Vortioxetine 20",
+      "Vortioxetine 5 mg",
+      "Vortioxetine 10 mg",
+      "Vortioxetine 20 mg",
+      "Trintellix 5",
+      "Trintellix 10",
+      "Trintellix 20"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_01",
+    "actif": true,
+    "statut_validation": "valide"
+  }
+]
