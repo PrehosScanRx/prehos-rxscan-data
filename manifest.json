@@ -1,0 +1,11 @@
+{
+  "version": "2026-04-14-01",
+  "updatedAt": "2026-04-14T20:00:00Z",
+  "files": {
+    "rx": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/rx.json",
+    "classes": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/classes.json",
+    "sous_classes": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/sous_classes.json",
+    "ocrVariants": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/ocrVariants.json",
+    "profiles": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/profiles.json"
+  }
+}
