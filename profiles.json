@@ -1,7 +1,7 @@
 [
   {
     "id_profile": "PROFILE_001",
-    "nom_profile": "Anticoagulation",
+    "nom_profile": "Anticoagulation TEST",
     "slug": "profil_anticoagulation",
     "categorie": "risque_terrain",
     "actif": true
