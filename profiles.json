@@ -2,7 +2,7 @@
   {
     "id_profile": "PROFILE_001",
     "nom_profile": "Anticoagulation",
-    "short_label": "Anticoagulation TEST",
+    "short_label": "Anticoagulation",
     "slug": "profil_anticoagulation",
     "categorie": "risque_terrain",
     "actif": true
