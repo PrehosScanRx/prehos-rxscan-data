@@ -4443,5 +4443,29 @@
     "id_sc": "SC_005_01",
     "actif": true,
     "statut_validation": "valide"
-  }
+  },
+  {
+  "id_rx": "RX_295",
+  "molecule": "Bupropion",
+  "noms_commerciaux": [
+    "Wellbutrin",
+    "Zyban"
+  ],
+  "alias_ocr": [
+    "Buproprion",
+    "Bupoprion",
+    "Bupropion XL",
+    "Bupropion SR",
+    "Wellbutrin XL",
+    "Wellbutrin SR",
+    "Apo Bupropion",
+    "Teva Bupropion",
+    "Sandoz Bupropion"
+  ],
+  "id_cl": "CL_005",
+  "id_sc": "SC_005_04",
+  "actif": true,
+  "statut_validation": "valide"
+}
 ]
+
