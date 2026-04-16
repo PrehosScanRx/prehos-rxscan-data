@@ -13,8 +13,7 @@
     "sous_classes_ids": [
       "SC_001_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_002",
@@ -31,8 +30,7 @@
       "SC_002_01",
       "SC_002_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_003",
@@ -51,8 +49,7 @@
       "SC_003_03",
       "SC_003_04"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_004",
@@ -67,11 +64,9 @@
     ],
     "sous_classes_ids": [
       "SC_004_01",
-      "SC_004_02",
-      "SC_004_03"
+      "SC_004_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_005",
@@ -91,8 +86,7 @@
       "SC_005_03",
       "SC_005_04"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_006",
@@ -110,8 +104,7 @@
       "SC_006_01",
       "SC_006_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_007",
@@ -134,8 +127,7 @@
       "SC_007_06",
       "SC_007_07"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_008",
@@ -159,8 +151,7 @@
       "SC_008_06",
       "SC_008_07"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_009",
@@ -177,8 +168,7 @@
       "SC_009_01",
       "SC_009_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_010",
@@ -195,8 +185,7 @@
       "SC_010_01",
       "SC_010_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_011",
@@ -216,8 +205,7 @@
       "SC_011_04",
       "SC_011_05"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_012",
@@ -236,8 +224,7 @@
       "SC_012_02",
       "SC_012_03"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_013",
@@ -253,8 +240,7 @@
       "SC_013_01",
       "SC_013_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_014",
@@ -271,8 +257,7 @@
       "SC_014_01",
       "SC_014_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_015",
@@ -290,8 +275,7 @@
       "SC_015_02",
       "SC_015_03"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_016",
@@ -310,8 +294,7 @@
       "SC_016_02",
       "SC_016_03"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_017",
@@ -331,8 +314,7 @@
       "SC_017_04",
       "SC_017_07"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_018",
@@ -349,8 +331,7 @@
       "SC_018_01",
       "SC_018_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_019",
@@ -368,8 +349,7 @@
       "SC_019_03",
       "SC_019_04"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_020",
@@ -383,8 +363,7 @@
     "sous_classes_ids": [
       "SC_020_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_021",
@@ -401,8 +380,7 @@
       "SC_021_01",
       "SC_021_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_022",
@@ -419,8 +397,7 @@
     "sous_classes_ids": [
       "SC_022_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_023",
@@ -436,8 +413,7 @@
     "sous_classes_ids": [
       "SC_023_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_024",
@@ -454,8 +430,7 @@
     "sous_classes_ids": [
       "SC_024_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_025",
@@ -471,8 +446,7 @@
     "sous_classes_ids": [
       "SC_025_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_026",
@@ -488,8 +462,7 @@
       "SC_026_01",
       "SC_026_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_027",
@@ -505,8 +478,7 @@
     "sous_classes_ids": [
       "SC_027_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_028",
@@ -525,8 +497,7 @@
       "SC_028_03",
       "SC_028_04"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_029",
@@ -542,8 +513,7 @@
     "sous_classes_ids": [
       "SC_029_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_030",
@@ -558,8 +528,7 @@
     "sous_classes_ids": [
       "SC_030_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_031",
@@ -576,8 +545,7 @@
       "SC_031_01",
       "SC_031_02"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_032",
@@ -592,8 +560,7 @@
     "sous_classes_ids": [
       "SC_032_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_033",
@@ -611,8 +578,7 @@
     "sous_classes_ids": [
       "SC_033_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_034",
@@ -629,8 +595,7 @@
     "sous_classes_ids": [
       "SC_034_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   },
   {
     "id_cl": "CL_035",
@@ -646,7 +611,6 @@
     "sous_classes_ids": [
       "SC_035_01"
     ],
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "actif": true
   }
 ]

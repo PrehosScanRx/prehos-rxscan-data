@@ -9,28 +9,23 @@
     "jamp apixabn",
     "aixaban",
     "apxaban",
-    "aixabanaliastypiques",
     "aixabanapotex",
     "aixabansandoz",
     "aixabanteva",
     "aoapixaban",
     "ap0apixaban",
-    "ap1xabanaliastypiques",
     "ap1xabanapotex",
     "ap1xabansandoz",
     "ap1xabanteva",
     "apapixaban",
     "apiaban",
-    "apiabanaliastypiques",
     "apiabanapotex",
     "apiabansandoz",
     "apiabanteva",
     "apixaan",
-    "apixaanaliastypiques",
     "apixaanapotex",
     "apixaansandoz",
     "apixaanteva",
-    "apixabaaliastypiques",
     "apixabaapotex",
     "apixaban apotex",
     "apixaban sandoz",
@@ -48,7 +43,6 @@
     "apixabanaliastypiqes",
     "apixabanaliastypiqucs",
     "apixabanaliastypique5",
-    "apixabanaliastypiques",
     "apixabanaliastypiqus",
     "apixabanaliastypiues",
     "apixabanaliastyplques",
@@ -83,7 +77,8 @@
     "teva apixaban 5 mg",
     "apixaban tablet",
     "apixaban tabs",
-    "apixaban comprime"
+    "apixaban comprime",
+    "apo apixaban"
   ],
   "RX_002": [
     "5andozrivaroxaban",
@@ -103,7 +98,6 @@
     "aporivar0xaban",
     "aporivaroaban",
     "aporivaroxaan",
-    "aporivaroxabanaliastypiques",
     "aporivaroxabn",
     "aporivaroxban",
     "aporivarxaban",
@@ -118,7 +112,12 @@
     "auro sandoz rivaroxaban",
     "auro teva rivaroxaban",
     "auro xarelto",
-    "aurorivaroxabanaliastypiques"
+    "rivaroxaban",
+    "xarelto",
+    "rivaroxaban teva",
+    "rivaroxaban sandoz",
+    "teva rivaroxaban",
+    "sandoz rivaroxaban"
   ],
   "RX_003": [
     "1ixiana",
@@ -212,7 +211,9 @@
     "mint warfarin",
     "mint warfarine",
     "mintwarfarinaliasanglais",
-    "pms coumadin"
+    "pms coumadin",
+    "warfarine",
+    "warfarin"
   ],
   "RX_006": [
     "a5a81",
@@ -293,7 +294,27 @@
     "rlvasa",
     "r1vasa",
     "riva5a",
-    "rivasaec80"
+    "rivasaec80",
+    "acide acétylsalicylique",
+    "aspirin",
+    "entrophen",
+    "aas",
+    "asa",
+    "asa 81",
+    "asa 81mg",
+    "asa ec",
+    "asa ec 81",
+    "asa ec 81mg",
+    "ecasa",
+    "aspirine",
+    "aspirin 81",
+    "aspirin 81mg",
+    "aspirin ec",
+    "aspirin ec 81",
+    "aspirin ec 81mg",
+    "enteric aspirin",
+    "novasen",
+    "acide acétyl salicylique"
   ],
   "RX_007": [
     "5andozclopidogrel",
@@ -320,7 +341,6 @@
     "apoclopidogrcl",
     "apoclopidogre1",
     "apoclopidogrei",
-    "apoclopidogrelaliastypiques",
     "apoclopidogrl",
     "apoclopidorel",
     "apoclopiogrel",
@@ -336,7 +356,14 @@
     "auro clopidogrel teva",
     "auro plavix",
     "auro sandoz clopidogrel",
-    "auro teva clopidogrel"
+    "auro teva clopidogrel",
+    "clopidogrel",
+    "plavix",
+    "clopidogrel teva",
+    "clopidogrel sandoz",
+    "clopidogrel apotex",
+    "teva clopidogrel",
+    "sandoz clopidogrel"
   ],
   "RX_008": [
     "apo effient",
@@ -403,7 +430,8 @@
     "t1cagrelor",
     "tcagrelor",
     "teva brilinta",
-    "teva ticagrelor"
+    "teva ticagrelor",
+    "ticagrelor"
   ],
   "RX_010": [
     "5tatex",
@@ -433,7 +461,11 @@
     "morhineorale",
     "morph1ne",
     "morph1neorale",
-    "morphie"
+    "morphie",
+    "morphine",
+    "ms contin",
+    "statex",
+    "morphine orale"
   ],
   "RX_011": [
     "0xycodone",
@@ -471,7 +503,8 @@
     "oxyeodone",
     "oxyeontin",
     "oxyodone",
-    "oxyontin"
+    "oxyontin",
+    "percocet"
   ],
   "RX_012": [
     "apo dilaudid",
@@ -545,7 +578,19 @@
     "auro fentanyl transdermique",
     "auro fentanyl tts",
     "auro mcg h fentanyl",
-    "auro mcg hr fentanyl"
+    "auro mcg hr fentanyl",
+    "fentanyl",
+    "duragesic",
+    "fentanyl patch",
+    "fentanyl transdermique",
+    "fentanyl td",
+    "fentanyl tts",
+    "mcg hr fentanyl",
+    "mcg h fentanyl",
+    "fentanyl 25",
+    "fentanyl 50",
+    "fentanyl 75",
+    "fentanyl 100"
   ],
   "RX_014": [
     "apo methadone",
@@ -583,7 +628,8 @@
     "ran methadone",
     "ran methadose",
     "sandoz methadone",
-    "sandoz methadose"
+    "sandoz methadose",
+    "méthadone"
   ],
   "RX_015": [
     "apo codeine",
@@ -624,7 +670,8 @@
     "mint codeine",
     "mint codeine contin",
     "pms codeine",
-    "pms codeine contin"
+    "pms codeine contin",
+    "codéine"
   ],
   "RX_016": [
     "apo tramadol",
@@ -654,7 +701,8 @@
     "tramdol",
     "trmadol",
     "u1tram",
-    "uitram"
+    "uitram",
+    "ultram"
   ],
   "RX_017": [
     "5uboxone",
@@ -690,7 +738,10 @@
     "mint subutex",
     "pms buprenorphine",
     "pms suboxone",
-    "pms subutex"
+    "pms subutex",
+    "buprénorphine",
+    "suboxone",
+    "subutex"
   ],
   "RX_018": [
     "apo diazepam",
@@ -720,7 +771,9 @@
     "sandoz valium",
     "teva diazepam",
     "teva valium",
-    "va1ium"
+    "va1ium",
+    "diazépam",
+    "valium"
   ],
   "RX_019": [
     "1orazepam",
@@ -754,7 +807,8 @@
     "sandoz ativan",
     "sandoz lorazepam",
     "teva ativan",
-    "teva lorazepam"
+    "teva lorazepam",
+    "lorazépam"
   ],
   "RX_020": [
     "apo clonazepam",
@@ -792,7 +846,8 @@
     "rivotr1l",
     "rivotri1",
     "rivotrii",
-    "rivotril"
+    "rivotril",
+    "clonazépam"
   ],
   "RX_021": [
     "a1prazolam",
@@ -825,7 +880,8 @@
     "sandoz alprazolam",
     "sandoz xanax",
     "teva alprazolam",
-    "teva xanax"
+    "teva xanax",
+    "xanax"
   ],
   "RX_022": [
     "1movane",
@@ -855,7 +911,8 @@
     "zop1clone",
     "zopclone",
     "zopic1one",
-    "zopicione"
+    "zopicione",
+    "zopiclone"
   ],
   "RX_023": [
     "2olpidem",
@@ -885,7 +942,8 @@
     "z0lpidem",
     "zlpidem",
     "zo1pidem",
-    "zoipidem"
+    "zoipidem",
+    "zolpidem"
   ],
   "RX_024": [
     "2oloft",
@@ -918,7 +976,11 @@
     "bi0serr4l1ne",
     "sertralne",
     "serraline",
-    "serr4l1ne"
+    "serr4l1ne",
+    "sertraline",
+    "zoloft",
+    "sertraline teva",
+    "sertraline sandoz"
   ],
   "RX_025": [
     "apo celexa",
@@ -1037,7 +1099,8 @@
     "veniafaxine",
     "venlaaxine",
     "venlafaine",
-    "venlafax1ne"
+    "venlafax1ne",
+    "venlafaxine"
   ],
   "RX_028": [
     "aitriptyline",
@@ -1102,7 +1165,11 @@
     "pms quetiapine",
     "pms quetiapine sandoz",
     "pms quetiapine teva",
-    "pms seroquel"
+    "pms seroquel",
+    "quetiapine",
+    "seroquel",
+    "quetiapine teva",
+    "quetiapine sandoz"
   ],
   "RX_030": [
     "0lanzapine",
@@ -1136,7 +1203,8 @@
     "ran zyprexa",
     "sandoz olanzapine",
     "sandoz zyprexa",
-    "teva olanzapine"
+    "teva olanzapine",
+    "zyprexa"
   ],
   "RX_031": [
     "apo risperdal",
@@ -1300,7 +1368,12 @@
     "jamp lopressor",
     "jamp metoprolol",
     "jamp metoprolol sandoz",
-    "jamp metoprolol teva"
+    "jamp metoprolol teva",
+    "métoprolol",
+    "metoprolol",
+    "lopressor",
+    "metoprolol teva",
+    "metoprolol sandoz"
   ],
   "RX_035": [
     "aenolol",
@@ -1334,7 +1407,8 @@
     "tcnormin",
     "ten0rmin",
     "tenomin",
-    "tenorin"
+    "tenorin",
+    "tenormin"
   ],
   "RX_036": [
     "alodipine",
@@ -1422,7 +1496,15 @@
     "apo d11t1az cd 180 mg",
     "apo d11t1az cd 180 mg caps",
     "apod11t1az",
-    "card1zem"
+    "card1zem",
+    "diltiazem",
+    "cardizem",
+    "diltiaz",
+    "diltiazem cd",
+    "diltiazem xr",
+    "diltiaz cd 180",
+    "apo diltiaz cd 180",
+    "diltiazem lc"
   ],
   "RX_038": [
     "a1tace",
@@ -1546,7 +1628,8 @@
     "insulin glargine u300",
     "ba5aglar",
     "t0ujeo",
-    "t0ujeo solostar"
+    "t0ujeo solostar",
+    "lantus"
   ],
   "RX_041": [
     "1nsulinaspart",
@@ -1594,7 +1677,8 @@
     "inulineaspart",
     "isulinaspart",
     "isulineaspart",
-    "jamp insulin aspart"
+    "jamp insulin aspart",
+    "novorapid"
   ],
   "RX_042": [
     "apo glucophage",
@@ -1603,14 +1687,12 @@
     "apo metformin er",
     "apo metformin xr",
     "apo metformine",
-    "apometforminaliasmassif",
     "auro glucophage",
     "auro glucophage xr",
     "auro metformin",
     "auro metformin er",
     "auro metformin xr",
     "auro metformine",
-    "aurometforminaliasmassif",
     "g1ucophage",
     "g1ucophagexr",
     "giucophage",
@@ -1628,7 +1710,11 @@
     "glucophagc",
     "glucophagcxr",
     "glucophage",
-    "glucophage xr"
+    "glucophage xr",
+    "metformine",
+    "metformin",
+    "metformin xr",
+    "metformin er"
   ],
   "RX_043": [
     "apo diamicron",
@@ -1723,7 +1809,8 @@
     "heparln",
     "heparlne",
     "heparlnenonfractionnee",
-    "heparne"
+    "heparne",
+    "héparine non fractionnée"
   ],
   "RX_045": [
     "1ovenox",
@@ -1767,7 +1854,8 @@
     "jamp lovenox",
     "l0venox",
     "lovcnox",
-    "loven0x"
+    "loven0x",
+    "lovenox"
   ],
   "RX_046": [
     "apo dalteparin",
@@ -1953,7 +2041,8 @@
     "ran flecainide",
     "ran tambocor",
     "sandoz flecainide",
-    "sandoz tambocor"
+    "sandoz tambocor",
+    "tambocor"
   ],
   "RX_051": [
     "1anoxin",
@@ -2024,7 +2113,9 @@
     "mint ventolin",
     "pms albuterol",
     "pms salbutamol",
-    "pms ventolin"
+    "pms ventolin",
+    "salbutamol",
+    "ventolin"
   ],
   "RX_053": [
     "apo foradil",
@@ -2061,7 +2152,8 @@
     "ran foradil",
     "ran formoterol",
     "sandoz foradil",
-    "sandoz formoterol"
+    "sandoz formoterol",
+    "formotérol"
   ],
   "RX_054": [
     "5almeterol",
@@ -2095,7 +2187,9 @@
     "sameterol",
     "sandoz salmeterol",
     "sandoz serevent",
-    "screvent"
+    "screvent",
+    "salmétérol",
+    "serevent"
   ],
   "RX_055": [
     "apo flovent",
@@ -2180,33 +2274,20 @@
   "RX_057": [
     "1asix",
     "apo furosemide",
-    "apo furosemide orthographe alternative",
     "apo lasix",
     "auro furosemide",
-    "auro furosemide orthographe alternative",
     "auro lasix",
     "frosemide",
-    "frosemideorthographealternative",
     "fuosemide",
-    "fuosemideorthographealternative",
     "fur0semide",
-    "fur0semideorthographealternative",
     "furo5emide",
-    "furo5emideorthographealternative",
     "furoemide",
-    "furoemideorthographealternative",
     "furoscmide",
-    "furoscmideorthographealternative",
     "furoseide",
-    "furoseideorthographealternative",
     "furosem1de",
-    "furosem1deorthographealternative",
     "furosemde",
-    "furosemdeorthographealternative",
     "furosemidc",
-    "furosemidcorthographealternative",
     "furosemide",
-    "furosemide orthographe alternative",
     "furosemide0rthographealternative",
     "furosemideorhographealternative",
     "furosemideorth0graphealternative",
@@ -2225,7 +2306,9 @@
     "furosemideorthographealternaive",
     "furosemideorthographealternat1ve",
     "furosemideorthographealternatie",
-    "furosemideorthographealternativc"
+    "furosemideorthographealternativc",
+    "furosémide",
+    "lasix"
   ],
   "RX_058": [
     "apo bumetanide",
@@ -2259,7 +2342,8 @@
     "ran burinex",
     "sandoz bumetanide",
     "sandoz burinex",
-    "teva bumetanide"
+    "teva bumetanide",
+    "bumétanide"
   ],
   "RX_059": [
     "apo hctz",
@@ -2341,7 +2425,8 @@
     "sironolactone",
     "sp1ronolactone",
     "spionolactone",
-    "spir0nolactone"
+    "spir0nolactone",
+    "spironolactone"
   ],
   "RX_061": [
     "1ipitor",
@@ -2402,7 +2487,10 @@
     "at0rvastatincalciu",
     "at0rvastatincalcium",
     "bioat0rvastatin",
-    "siv atorvastatin 20"
+    "siv atorvastatin 20",
+    "lipitor",
+    "atorvastatin calcium 20",
+    "atorvastatin calcium 20 mg"
   ],
   "RX_062": [
     "apo crestor",
@@ -2437,7 +2525,10 @@
     "r0uvastatin plaq 20",
     "r0uvastatin plaq 20 mg",
     "apo r0uvastatin plaq 20 mg",
-    "apor0uvastatinplaq20"
+    "apor0uvastatinplaq20",
+    "rosuvastatine",
+    "rosuvastatin",
+    "rosuvastatin plaq 20"
   ],
   "RX_063": [
     "2ocor",
@@ -2463,7 +2554,10 @@
     "ran zocor",
     "s1mvastatin",
     "s1mvastatine",
-    "sandoz simvastatin"
+    "sandoz simvastatin",
+    "simvastatine",
+    "zocor",
+    "simvastatin"
   ],
   "RX_064": [
     "apo ezetimibe",
@@ -2501,7 +2595,8 @@
     "pms ezetrol",
     "ran ezetimibe",
     "ran ezetrol",
-    "sandoz ezetimibe"
+    "sandoz ezetimibe",
+    "ézétimibe"
   ],
   "RX_065": [
     "1buprofen",
@@ -2544,7 +2639,9 @@
     "jamp advil",
     "jamp ibuprofen",
     "jamp ibuprofene",
-    "jamp motrin"
+    "jamp motrin",
+    "ibuprofène",
+    "motrin"
   ],
   "RX_066": [
     "a1eve",
@@ -2574,7 +2671,11 @@
     "napr0syn",
     "napr0xen",
     "napr0xene",
-    "napro5yn"
+    "napro5yn",
+    "naproxène",
+    "naproxene",
+    "naprosyn",
+    "naproxen"
   ],
   "RX_067": [
     "apo diclofenac",
@@ -2608,7 +2709,9 @@
     "ran voltaren",
     "sandoz diclofenac",
     "sandoz voltaren",
-    "teva diclofenac"
+    "teva diclofenac",
+    "diclofénac",
+    "voltaren"
   ],
   "RX_068": [
     "am0xicillin",
@@ -2714,7 +2817,8 @@
     "azthromycine",
     "jamp azithromycin",
     "jamp azithromycine",
-    "jamp zithromax"
+    "jamp zithromax",
+    "zithromax"
   ],
   "RX_070": [
     "apo cipro",
@@ -2837,7 +2941,26 @@
     "auro mylan nitro",
     "auro nitro",
     "auro nitro derm",
-    "auro nitro dur"
+    "auro nitro dur",
+    "nitroglycérine",
+    "nitroglycerine",
+    "nitrostat",
+    "nitrolingual",
+    "nitrospray",
+    "nitro-dur",
+    "mylan nitro",
+    "ntg",
+    "nitroglycerin",
+    "nitro dur",
+    "nitroderm",
+    "nitro derm",
+    "timbre nitro",
+    "patch nitro",
+    "nitro patch",
+    "nitroglycerin patch",
+    "nitroglycerine timbre",
+    "nitroglycerine patch",
+    "nitroglycerin transdermal patch"
   ],
   "RX_073": [
     "1pratropium",
@@ -2905,7 +3028,8 @@
     "tioropium",
     "tiotopium",
     "tiotr0pium",
-    "tiotroium"
+    "tiotroium",
+    "tiotropium"
   ],
   "RX_075": [
     "5ymbicort",
@@ -2939,7 +3063,10 @@
     "budesonide/formterol",
     "budesonide/foroterol",
     "budesonide/frmoterol",
-    "budesonide/ormoterol"
+    "budesonide/ormoterol",
+    "budesonide/formoterol",
+    "budésonide/formotérol",
+    "symbicort"
   ],
   "RX_076": [
     "adva1r",
@@ -2974,7 +3101,9 @@
     "fluticasone/salmetcrol",
     "fluticasone/salmeteol",
     "fluticasone/salmeter0l",
-    "fluticasone/salmeterl"
+    "fluticasone/salmeterl",
+    "fluticasone/salmeterol",
+    "fluticasone/salmétérol"
   ],
   "RX_077": [
     "apo gabapentin",
@@ -3014,7 +3143,8 @@
     "jamp neurontin",
     "mint gabapentin",
     "mint gabapentine",
-    "mint neurontin"
+    "mint neurontin",
+    "neurontin"
   ],
   "RX_078": [
     "1yrica",
@@ -3046,7 +3176,10 @@
     "preabaline",
     "pregaalin",
     "pregaaline",
-    "pregaba1in"
+    "pregaba1in",
+    "pregabaline",
+    "prégabaline",
+    "pregabalin"
   ],
   "RX_079": [
     "1nsulinelispro",
@@ -3148,7 +3281,9 @@
     "insulin toronto",
     "humulin regular",
     "novolin regular",
-    "novolin ge toront0"
+    "novolin ge toront0",
+    "insuline régulière",
+    "novolin r"
   ],
   "RX_081": [
     "apo diabeta",
@@ -3277,7 +3412,8 @@
     "ran carvedilol",
     "ran coreg",
     "sandoz carvedilol",
-    "sandoz coreg"
+    "sandoz coreg",
+    "carvédilol"
   ],
   "RX_084": [
     "1soptin",
@@ -3307,7 +3443,9 @@
     "veapamil",
     "veraamil",
     "verapail",
-    "verapam1l"
+    "verapam1l",
+    "vérapamil",
+    "verapamil"
   ],
   "RX_085": [
     "apo benadryl",
@@ -3387,7 +3525,9 @@
     "rcactine",
     "reacine",
     "react1ne",
-    "reactie"
+    "reactie",
+    "cétirizine",
+    "reactine"
   ],
   "RX_087": [
     "1oratadine",
@@ -3467,7 +3607,8 @@
     "pms fexofenadine",
     "ran allegra",
     "ran fexofenadine",
-    "sandoz allegra"
+    "sandoz allegra",
+    "fexofénadine"
   ],
   "RX_089": [
     "0meprazole",
@@ -3505,7 +3646,8 @@
     "pms omeprazole",
     "ran losec",
     "ran omeprazole",
-    "sandoz losec"
+    "sandoz losec",
+    "oméprazole"
   ],
   "RX_090": [
     "apo pantoloc",
@@ -3624,7 +3766,10 @@
     "synthrod",
     "synthrod 0.025",
     "synthrod 0.025 mg",
-    "levo t"
+    "levo t",
+    "levothyroxine",
+    "lévothyroxine",
+    "synthroid"
   ],
   "RX_093": [
     "apo deltasone",
@@ -3633,14 +3778,12 @@
     "apo prednisone 20",
     "apo prednisone 5",
     "apo prednisone 50",
-    "apo prednisone alias terrain",
     "auro deltasone",
     "auro prednisone",
     "auro prednisone 10",
     "auro prednisone 20",
     "auro prednisone 5",
     "auro prednisone 50",
-    "auro prednisone alias terrain",
     "dcltasone",
     "de1tasone",
     "deitasone",
@@ -3658,7 +3801,12 @@
     "jamp deltasone",
     "jamp prednisone",
     "jamp prednisone 10",
-    "jamp prednisone 20"
+    "jamp prednisone 20",
+    "prednisone",
+    "prednisone 5",
+    "prednisone 10",
+    "prednisone 20",
+    "prednisone 50"
   ],
   "RX_094": [
     "0rapred",
@@ -3737,7 +3885,8 @@
     "pms decadron",
     "pms dexamethasone",
     "ran decadron",
-    "ran dexamethasone"
+    "ran dexamethasone",
+    "dexaméthasone"
   ],
   "RX_096": [
     "5olu-cortef",
@@ -3770,7 +3919,9 @@
     "jamp solu cortef",
     "mint hydrocortisone",
     "mint solu cortef",
-    "pms hydrocortisone"
+    "pms hydrocortisone",
+    "solu-cortef",
+    "solu cortef"
   ],
   "RX_097": [
     "5andozfluoxetine",
@@ -3806,7 +3957,14 @@
     "auro fluoxetine teva",
     "auro prozac",
     "auro sandoz fluoxetine",
-    "auro teva fluoxetine"
+    "auro teva fluoxetine",
+    "fluoxétine",
+    "fluoxetine",
+    "prozac",
+    "teva fluoxetine",
+    "sandoz fluoxetine",
+    "fluoxetine teva",
+    "fluoxetine sandoz"
   ],
   "RX_098": [
     "5andozparoxetine",
@@ -3840,7 +3998,14 @@
     "auro paroxetine teva",
     "auro paxil",
     "auro sandoz paroxetine",
-    "auro teva paroxetine"
+    "auro teva paroxetine",
+    "paroxetine",
+    "paroxétine",
+    "paxil",
+    "teva paroxetine",
+    "sandoz paroxetine",
+    "paroxetine teva",
+    "paroxetine sandoz"
   ],
   "RX_099": [
     "1uvox",
@@ -3877,7 +4042,13 @@
     "auro fluvoxamine teva",
     "auro luvox",
     "auro sandoz fluvoxamine",
-    "auro teva fluvoxamine"
+    "auro teva fluvoxamine",
+    "fluvoxamine",
+    "luvox",
+    "teva fluvoxamine",
+    "sandoz fluvoxamine",
+    "fluvoxamine teva",
+    "fluvoxamine sandoz"
   ],
   "RX_100": [
     "5andozduloxetine",
@@ -3913,7 +4084,14 @@
     "auro duloxetine sandoz",
     "auro duloxetine teva",
     "auro sandoz duloxetine",
-    "auro teva duloxetine"
+    "auro teva duloxetine",
+    "duloxetine",
+    "duloxétine",
+    "cymbalta",
+    "teva duloxetine",
+    "sandoz duloxetine",
+    "duloxetine teva",
+    "duloxetine sandoz"
   ],
   "RX_101": [
     "5andozdesvenlafaxine",
@@ -3954,7 +4132,13 @@
     "auro desvenlafaxine teva",
     "auro pristiq",
     "auro sandoz desvenlafaxine",
-    "auro teva desvenlafaxine"
+    "auro teva desvenlafaxine",
+    "desvenlafaxine",
+    "pristiq",
+    "teva desvenlafaxine",
+    "sandoz desvenlafaxine",
+    "desvenlafaxine teva",
+    "desvenlafaxine sandoz"
   ],
   "RX_102": [
     "1nderal",
@@ -3996,7 +4180,13 @@
     "auro propranolol sandoz",
     "auro propranolol teva",
     "auro sandoz propranolol",
-    "auro teva propranolol"
+    "auro teva propranolol",
+    "propranolol",
+    "inderal",
+    "teva propranolol",
+    "sandoz propranolol",
+    "propranolol teva",
+    "propranolol sandoz"
   ],
   "RX_103": [
     "5andoznadolol",
@@ -4030,7 +4220,12 @@
     "auro sandoz nadolol",
     "auro teva nadolol",
     "c0rgard",
-    "corgard"
+    "corgard",
+    "nadolol",
+    "teva nadolol",
+    "sandoz nadolol",
+    "nadolol teva",
+    "nadolol sandoz"
   ],
   "RX_104": [
     "1isinopril",
@@ -4076,7 +4271,14 @@
     "auro lisinopril teva",
     "auro prinivil",
     "auro sandoz lisinopril",
-    "auro teva lisinopril"
+    "auro teva lisinopril",
+    "lisinopril",
+    "prinivil",
+    "zestril",
+    "teva lisinopril",
+    "sandoz lisinopril",
+    "lisinopril teva",
+    "lisinopril sandoz"
   ],
   "RX_105": [
     "5andozenalapril",
@@ -4111,7 +4313,14 @@
     "auro enalapril teva",
     "auro sandoz enalapril",
     "auro teva enalapril",
-    "auro vasotec"
+    "auro vasotec",
+    "enalapril",
+    "énalapril",
+    "vasotec",
+    "teva enalapril",
+    "sandoz enalapril",
+    "enalapril teva",
+    "enalapril sandoz"
   ],
   "RX_106": [
     "5andozperindopril",
@@ -4149,7 +4358,14 @@
     "auro perindopril sandoz",
     "auro perindopril teva",
     "auro sandoz perindopril",
-    "auro teva perindopril"
+    "auro teva perindopril",
+    "périndopril",
+    "perindopril",
+    "coversyl",
+    "teva perindopril",
+    "sandoz perindopril",
+    "perindopril teva",
+    "perindopril sandoz"
   ],
   "RX_107": [
     "5andozvalsartan",
@@ -4183,7 +4399,12 @@
     "auro valsartan teva",
     "d1ovan",
     "di0van",
-    "diovan"
+    "diovan",
+    "valsartan",
+    "teva valsartan",
+    "sandoz valsartan",
+    "valsartan teva",
+    "valsartan sandoz"
   ],
   "RX_108": [
     "1rbesartan",
@@ -4219,7 +4440,13 @@
     "auro irbesartan sandoz",
     "auro irbesartan teva",
     "auro sandoz irbesartan",
-    "auro teva irbesartan"
+    "auro teva irbesartan",
+    "irbesartan",
+    "avapro",
+    "teva irbesartan",
+    "sandoz irbesartan",
+    "irbesartan teva",
+    "irbesartan sandoz"
   ],
   "RX_109": [
     "5andozcandesartan",
@@ -4254,7 +4481,12 @@
     "auro candesartan sandoz",
     "auro candesartan teva",
     "auro sandoz candesartan",
-    "auro teva candesartan"
+    "auro teva candesartan",
+    "candesartan",
+    "teva candesartan",
+    "sandoz candesartan",
+    "candesartan teva",
+    "candesartan sandoz"
   ],
   "RX_110": [
     "5andoztelmisartan",
@@ -4290,7 +4522,13 @@
     "auro telmisartan",
     "auro telmisartan sandoz",
     "auro telmisartan teva",
-    "auro teva telmisartan"
+    "auro teva telmisartan",
+    "telmisartan",
+    "micardis",
+    "teva telmisartan",
+    "sandoz telmisartan",
+    "telmisartan teva",
+    "telmisartan sandoz"
   ],
   "RX_111": [
     "5andozglimepiride",
@@ -4333,7 +4571,12 @@
     "auro glimepiride sandoz",
     "auro glimepiride teva",
     "auro sandoz glimepiride",
-    "auro teva glimepiride"
+    "auro teva glimepiride",
+    "glimepiride",
+    "teva glimepiride",
+    "sandoz glimepiride",
+    "glimepiride teva",
+    "glimepiride sandoz"
   ],
   "RX_112": [
     "1nsulinenph",
@@ -4374,7 +4617,9 @@
     "insulienph",
     "insulin nph",
     "insulincnph",
-    "insuline nph"
+    "insuline nph",
+    "novolin n",
+    "nph"
   ],
   "RX_113": [
     "1evemir",
@@ -4415,7 +4660,12 @@
     "insulindeemir",
     "insulindetcmir",
     "insulindeteir",
-    "insulindetem1r"
+    "insulindetem1r",
+    "insuline detemir",
+    "insuline détémir",
+    "levemir",
+    "levemir flexpen",
+    "levemir flextouch"
   ],
   "RX_114": [
     "1nsulindegludec",
@@ -4460,7 +4710,10 @@
     "insulinedeg1udec",
     "insulinedegiudec",
     "insulinedegldec",
-    "insulinedegludc"
+    "insulinedegludc",
+    "insuline dégludec",
+    "tresiba",
+    "tresiba flextouch"
   ],
   "RX_115": [
     "5andoztorsemide",
@@ -4496,7 +4749,14 @@
     "auro torsemid",
     "auro torsemide",
     "auro torsemide sandoz",
-    "auro torsemide teva"
+    "auro torsemide teva",
+    "torsemide",
+    "demadex",
+    "torsemid",
+    "teva torsemide",
+    "sandoz torsemide",
+    "torsemide teva",
+    "torsemide sandoz"
   ],
   "RX_116": [
     "5andozchlorthalidone",
@@ -4536,7 +4796,12 @@
     "auro chlorthalidone",
     "auro hygroton",
     "auro sandoz chlorthalidone",
-    "auro teva chlorthalidone"
+    "auro teva chlorthalidone",
+    "chlorthalidone",
+    "hygroton",
+    "chlortalidone",
+    "teva chlorthalidone",
+    "sandoz chlorthalidone"
   ],
   "RX_117": [
     "1ndapamide",
@@ -4574,7 +4839,13 @@
     "auro indapamide teva",
     "auro lozide",
     "auro sandoz indapamide",
-    "auro teva indapamide"
+    "auro teva indapamide",
+    "indapamide",
+    "lozide",
+    "teva indapamide",
+    "sandoz indapamide",
+    "indapamide teva",
+    "indapamide sandoz"
   ],
   "RX_118": [
     "5andozpravastatin",
@@ -4609,7 +4880,14 @@
     "auro pravastatin teva",
     "auro pravastatine",
     "auro sandoz pravastatin",
-    "auro teva pravastatin"
+    "auro teva pravastatin",
+    "pravastatine",
+    "pravachol",
+    "pravastatin",
+    "teva pravastatin",
+    "sandoz pravastatin",
+    "pravastatin teva",
+    "pravastatin sandoz"
   ],
   "RX_119": [
     "1ovastatin",
@@ -4650,7 +4928,14 @@
     "auro lovastatine",
     "auro mevacor",
     "auro sandoz lovastatin",
-    "auro teva lovastatin"
+    "auro teva lovastatin",
+    "lovastatine",
+    "mevacor",
+    "lovastatin",
+    "teva lovastatin",
+    "sandoz lovastatin",
+    "lovastatin teva",
+    "lovastatin sandoz"
   ],
   "RX_120": [
     "5andozdesloratadine",
@@ -4701,7 +4986,10 @@
     "apodesloratadinc",
     "apodesloratadlne",
     "apodesloratadne",
-    "apodeslorataine"
+    "apodeslorataine",
+    "desloratadine",
+    "teva desloratadine",
+    "sandoz desloratadine"
   ],
   "RX_121": [
     "5andozesomeprazole",
@@ -4742,7 +5030,15 @@
     "auro esomprazole",
     "auro nexium",
     "auro sandoz esomeprazole",
-    "auro teva esomeprazole"
+    "auro teva esomeprazole",
+    "esomprazole",
+    "ésomprazole",
+    "nexium",
+    "esomeprazole",
+    "teva esomeprazole",
+    "sandoz esomeprazole",
+    "esomeprazole teva",
+    "esomeprazole sandoz"
   ],
   "RX_122": [
     "1ansoprazole",
@@ -4787,7 +5083,13 @@
     "auro lansoprazole teva",
     "auro prevacid",
     "auro sandoz lansoprazole",
-    "auro teva lansoprazole"
+    "auro teva lansoprazole",
+    "lansoprazole",
+    "prevacid",
+    "teva lansoprazole",
+    "sandoz lansoprazole",
+    "lansoprazole teva",
+    "lansoprazole sandoz"
   ],
   "RX_123": [
     "apo midazolam",
@@ -4819,7 +5121,12 @@
     "miazolamteva",
     "mida2olam",
     "mida2olamapotex",
-    "mida2olamsandoz"
+    "mida2olamsandoz",
+    "midazolam",
+    "versed",
+    "midazolam teva",
+    "midazolam sandoz",
+    "midazolam apotex"
   ],
   "RX_124": [
     "0xazepam",
@@ -4850,7 +5157,8 @@
     "scrax",
     "serax",
     "teva oxazepam",
-    "teva serax"
+    "teva serax",
+    "oxazépam"
   ],
   "RX_125": [
     "apo restoril",
@@ -4884,7 +5192,9 @@
     "tcmazepam",
     "teazepam",
     "tema2epam",
-    "temaepam"
+    "temaepam",
+    "temazepam",
+    "temazépam"
   ],
   "RX_126": [
     "2aleplon",
@@ -4914,7 +5224,9 @@
     "zalelon",
     "zalep1on",
     "zalepion",
-    "zalepl0n"
+    "zalepl0n",
+    "zaleplon",
+    "zaléplon"
   ],
   "RX_127": [
     "apo aventyl",
@@ -4940,7 +5252,11 @@
     "mint nortriptyline",
     "mint nortriptyline apotex",
     "mint nortriptyline sandoz",
-    "mint nortriptyline teva"
+    "mint nortriptyline teva",
+    "nortriptyline",
+    "nortriptyline teva",
+    "nortriptyline sandoz",
+    "nortriptyline apotex"
   ],
   "RX_128": [
     "1oxapac",
@@ -5006,7 +5322,12 @@
     "labctalolteva",
     "labealol",
     "labealolapotex",
-    "labealolsandoz"
+    "labealolsandoz",
+    "labetalol",
+    "trandate",
+    "labetalol teva",
+    "labetalol sandoz",
+    "labetalol apotex"
   ],
   "RX_130": [
     "ada1at",
@@ -5042,7 +5363,8 @@
     "ran adalat",
     "ran nifedipine",
     "sandoz adalat",
-    "sandoz nifedipine"
+    "sandoz nifedipine",
+    "nifédipine"
   ],
   "RX_131": [
     "apo bricanyl",
@@ -5076,7 +5398,8 @@
     "terbtaline",
     "terbualine",
     "terbuta1ine",
-    "terbutaiine"
+    "terbutaiine",
+    "terbutaline"
   ],
   "RX_132": [
     "apo cephalexin",
@@ -5121,7 +5444,9 @@
     "eephalexine",
     "jamp cephalexin",
     "jamp cephalexine",
-    "jamp keflex"
+    "jamp keflex",
+    "céphalexine",
+    "keflex"
   ],
   "RX_133": [
     "agmentin",
@@ -5170,7 +5495,20 @@
     "amoxicillie/acideclavulanique",
     "amoxicillieclavulanate",
     "amoxicillin clavulanate",
-    "amoxicillin/acideclavulanique"
+    "amoxicillin/acideclavulanique",
+    "amoxicilline/acide clavulanique",
+    "clavulin",
+    "augmentin",
+    "amoxicilline clavulanate",
+    "amoxicilline acide clavulanique",
+    "amoxi clav",
+    "amoxi-clav",
+    "amoxi clav 875-125",
+    "amoxi-clav 875-125",
+    "jamp amoxi clav",
+    "jamp amoxi-clav",
+    "amoxiclav",
+    "amoxi clav, 875-125 mg"
   ],
   "RX_134": [
     "apo doxycycline",
@@ -5204,7 +5542,8 @@
     "ran doxycycline",
     "ran vibramycin",
     "sandoz doxycycline",
-    "sandoz vibramycin"
+    "sandoz vibramycin",
+    "vibramycin"
   ],
   "RX_135": [
     "apo clindamycin",
@@ -5250,7 +5589,9 @@
     "cllndamycin",
     "cllndamycine",
     "clndamycin",
-    "clndamycine"
+    "clndamycine",
+    "dalacin c",
+    "dalacin"
   ],
   "RX_136": [
     "5eptra",
@@ -5273,7 +5614,13 @@
     "jamp tmp smx",
     "jamp trimethoprim sulfamethoxazole",
     "jamp trimethoprime sulfamethoxazole",
-    "mint bactrim"
+    "mint bactrim",
+    "triméthoprime/sulfaméthoxazole",
+    "trimethoprime/sulfamethoxazole",
+    "septra",
+    "tmp smx",
+    "trimethoprim sulfamethoxazole",
+    "trimethoprime sulfamethoxazole"
   ],
   "RX_137": [
     "1evaquin",
@@ -5317,7 +5664,10 @@
     "levofloacine",
     "levofloxac1n",
     "levofloxac1ne",
-    "levofloxacie"
+    "levofloxacie",
+    "lévofloxacine",
+    "levofloxacine",
+    "levofloxacin"
   ],
   "RX_138": [
     "apo celebrex",
@@ -5359,7 +5709,8 @@
     "mint celebrex",
     "mint celecoxib",
     "pms celebrex",
-    "pms celecoxib"
+    "pms celecoxib",
+    "célécoxib"
   ],
   "RX_139": [
     "apo ketorolac",
@@ -5392,7 +5743,9 @@
     "sandoz toradol",
     "t0radol",
     "teva ketorolac",
-    "teva toradol"
+    "teva toradol",
+    "kétorolac",
+    "toradol"
   ],
   "RX_140": [
     "1mdur",
@@ -5424,7 +5777,14 @@
     "imdr30mg",
     "imdr60mg",
     "imdu120mg",
-    "imdu30mg"
+    "imdu30mg",
+    "isosorbide mononitrate",
+    "imdur",
+    "isosorbide mono",
+    "imdur 30 mg",
+    "imdur 60 mg",
+    "imdur 120 mg",
+    "ismn"
   ],
   "RX_141": [
     "1sordil",
@@ -5466,7 +5826,12 @@
     "isord1l20mg",
     "isord1l5mg",
     "isordi1",
-    "isordi10mg"
+    "isordi10mg",
+    "isosorbide dinitrate",
+    "isordil",
+    "isordil 5 mg",
+    "isordil 10 mg",
+    "isordil 20 mg"
   ],
   "RX_142": [
     "apo buprenorphine patch",
@@ -5504,7 +5869,12 @@
     "buprenorphinctransdermique",
     "buprenorphine patch",
     "buprenorphine transdermique",
-    "buprenorphineatch"
+    "buprenorphineatch",
+    "buprénorphine transdermique",
+    "butrans",
+    "butrans 5 mcg",
+    "butrans 10 mcg",
+    "butrans 20 mcg"
   ],
   "RX_143": [
     "a5pirin+dipyridamole",
@@ -5551,7 +5921,12 @@
     "aspirn+dipyridamole",
     "asplrin+dipyridamole",
     "asprin+dipyridamole",
-    "auro aggrenox"
+    "auro aggrenox",
+    "dipyridamole + acide acetylsalicylique",
+    "dipyridamole + acide acétylsalicylique",
+    "dipyridamole asa",
+    "dipyridamole + asa",
+    "dipyridamole aspirin"
   ],
   "RX_144": [
     "1nnohep",
@@ -5595,7 +5970,8 @@
     "innohepinjeetion",
     "innohepinjetion",
     "innoheplnjection",
-    "innohepnjection"
+    "innohepnjection",
+    "tinzaparine"
   ],
   "RX_145": [
     "apo baclofen",
@@ -5696,7 +6072,18 @@
     "apocycobenzaprine",
     "apocyelobenzaprine",
     "apocylobenzaprine",
-    "apoeyclobenzaprine"
+    "apoeyclobenzaprine",
+    "cyclobenzaprine",
+    "flexeril",
+    "cyclobenzaprine hcl",
+    "cyclobenzaprine hydrochloride",
+    "flexeril 5",
+    "flexeril 10",
+    "teva cyclobenzaprine",
+    "sandoz cyclobenzaprine",
+    "pms cyclobenzaprine",
+    "cyclobenzaprine 10mg",
+    "cyclobenzaprine 5mg"
   ],
   "RX_148": [
     "5andoztrazodone",
@@ -5734,7 +6121,16 @@
     "auro trazodone er",
     "auro trazodone hcl",
     "auro trazodone hydrochloride",
-    "auro trazodone xr"
+    "auro trazodone xr",
+    "trazodone",
+    "desyrel",
+    "trazodone hcl",
+    "trazodone hydrochloride",
+    "trazodona",
+    "teva trazodone",
+    "sandoz trazodone",
+    "trazodone xr",
+    "trazodone er"
   ],
   "RX_149": [
     "accta",
@@ -5787,7 +6183,13 @@
     "apo panadol",
     "apo paracetamol",
     "apo tempra",
-    "apo tylenol"
+    "apo tylenol",
+    "acétaminophène",
+    "tylenol",
+    "atasol",
+    "tempra",
+    "panadol",
+    "paracetamol"
   ],
   "RX_150": [
     "a1lerject",
@@ -5819,11 +6221,17 @@
     "auro epinephrine",
     "auro epipen jr",
     "auro epipen junior",
-    "auro epipen2pak"
+    "auro epipen2pak",
+    "epinephrine",
+    "épinéphrine",
+    "epipen",
+    "epi pen",
+    "epipen jr",
+    "epipen junior",
+    "epipen2pak"
   ],
   "RX_151": [
     "1evetiracetam",
-    "1evetiracetamorthographealternative",
     "5andozlevetiracetam",
     "aolevetiracetam",
     "ap0levetiracetam",
@@ -5832,7 +6240,6 @@
     "apo keppra er",
     "apo keppra xr",
     "apo levetiracetam",
-    "apo levetiracetam orthographe alternative",
     "apo sandoz levetiracetam",
     "apo teva levetiracetam",
     "apo-apo levetiracetam",
@@ -5861,10 +6268,15 @@
     "auro keppra er",
     "auro keppra xr",
     "auro levetiracetam",
-    "auro levetiracetam orthographe alternative",
     "auro sandoz levetiracetam",
     "auro teva levetiracetam",
-    "leetiracetam"
+    "leetiracetam",
+    "levetiracetam",
+    "keppra",
+    "keppra xr",
+    "keppra er",
+    "teva levetiracetam",
+    "sandoz levetiracetam"
   ],
   "RX_152": [
     "1ithium",
@@ -5902,7 +6314,12 @@
     "iithiumcarbonate",
     "iithobid",
     "jamp apo lithium",
-    "jamp lithium"
+    "jamp lithium",
+    "lithium",
+    "lithobid",
+    "lithium carbonate",
+    "teva lithium",
+    "sandoz lithium"
   ],
   "RX_153": [
     "2yban",
@@ -5941,7 +6358,16 @@
     "auro wellbutrin sr",
     "auro wellbutrin xl",
     "auro wellbutrin xr",
-    "auro zyban"
+    "auro zyban",
+    "bupropion",
+    "wellbutrin",
+    "zyban",
+    "buproprion",
+    "wellbutrin xl",
+    "wellbutrin sr",
+    "wellbutrin xr",
+    "teva bupropion",
+    "sandoz bupropion"
   ],
   "RX_154": [
     "02empic",
@@ -5973,7 +6399,13 @@
     "jamp semaglutide",
     "jamp semaglutide injector",
     "jamp semaglutide pen",
-    "jamp wegovy"
+    "jamp wegovy",
+    "semaglutide",
+    "ozempic",
+    "wegovy",
+    "rybelsus",
+    "semaglutide pen",
+    "semaglutide injector"
   ],
   "RX_155": [
     "5andozempagliflozin",
@@ -6012,7 +6444,12 @@
     "apompagliflozin",
     "auro apo empagliflozin",
     "auro empagliflozin",
-    "auro empagliflozine"
+    "auro empagliflozine",
+    "empagliflozin",
+    "jardiance",
+    "teva empagliflozin",
+    "sandoz empagliflozin",
+    "empagliflozine"
   ],
   "RX_156": [
     "0ndansetron",
@@ -6049,7 +6486,13 @@
     "auro sandoz ondansetron",
     "auro teva ondansetron",
     "auro zofran",
-    "auro zofran zydis"
+    "auro zofran zydis",
+    "ondansetron",
+    "zofran",
+    "ondansetron hcl",
+    "zofran zydis",
+    "teva ondansetron",
+    "sandoz ondansetron"
   ],
   "RX_157": [
     "5andozdivalproex",
@@ -6087,7 +6530,18 @@
     "apodivlproex",
     "apodlvalproex",
     "apodvalproex",
-    "apoivalproex"
+    "apoivalproex",
+    "valproate",
+    "epival",
+    "depakote",
+    "divalproex",
+    "valproic acid",
+    "epival er",
+    "depakote er",
+    "teva valproate",
+    "sandoz valproate",
+    "teva divalproex",
+    "sandoz divalproex"
   ],
   "RX_158": [
     "apo dexilant",
@@ -6121,7 +6575,15 @@
     "deilant",
     "deilant30",
     "deilant60",
-    "deilantdr"
+    "deilantdr",
+    "dexlansoprazole",
+    "dexilant",
+    "dexilant 30",
+    "dexilant 60",
+    "dexilant mr",
+    "dexilant dr",
+    "dexlansoprazole dr",
+    "dexlansoprazole mr"
   ],
   "RX_159": [
     "apo mirtazapine",
@@ -6147,7 +6609,16 @@
     "jamp mirtazapine 30",
     "jamp mirtazapine 45",
     "jamp mirtazapine 7 5",
-    "jamp mirtazapine odt"
+    "jamp mirtazapine odt",
+    "mirtazapine",
+    "remeron",
+    "remeron soltab",
+    "mirtazapine odt",
+    "mirtazapine orally disintegrating",
+    "mirtazapine 7 5",
+    "mirtazapine 15",
+    "mirtazapine 30",
+    "mirtazapine 45"
   ],
   "RX_160": [
     "apo brivaracetam",
@@ -6177,7 +6648,15 @@
     "br1varacetam",
     "br1varacetam10",
     "br1varacetam100",
-    "br1varacetam25"
+    "br1varacetam25",
+    "brivaracetam",
+    "brivlera",
+    "briviact",
+    "brivaracetam 10",
+    "brivaracetam 25",
+    "brivaracetam 50",
+    "brivaracetam 75",
+    "brivaracetam 100"
   ],
   "RX_161": [
     "1acosamide",
@@ -6221,7 +6700,15 @@
     "lacosaide",
     "lacosaide50",
     "lacosaide 50mg",
-    "iacosamide50"
+    "iacosamide50",
+    "lacosamide",
+    "vimpat",
+    "lacosamide 50",
+    "lacosamide 100",
+    "lacosamide 150",
+    "lacosamide 200",
+    "lacosamide tab",
+    "lacosamide tablet"
   ],
   "RX_162": [
     "0ptionmelatonin",
@@ -6247,7 +6734,27 @@
     "apo timed release melatonin",
     "auro controlled release melatonin",
     "auro cr melatonin",
-    "auro jamieson melatonin"
+    "auro jamieson melatonin",
+    "melatonin",
+    "melatonine",
+    "option melatonine",
+    "option melatonin",
+    "melatonine 1",
+    "melatonine 3",
+    "melatonine 5",
+    "melatonine 10",
+    "melatonin 1",
+    "melatonin 3",
+    "melatonin 5",
+    "melatonin 10",
+    "timed release melatonin",
+    "controlled release melatonin",
+    "sr melatonin",
+    "cr melatonin",
+    "jamieson melatonine",
+    "jamieson melatonin",
+    "webber melatonine",
+    "webber melatonin"
   ],
   "RX_164": [
     "apo chlorure de potassium",
@@ -6283,7 +6790,19 @@
     "pota5511umchl0ride600",
     "potasiumchl0ride",
     "potasiumchl0ride600",
-    "chloruredepoassium"
+    "chloruredepoassium",
+    "potassium chloride (kcl)",
+    "k-dur",
+    "kdur",
+    "potassium",
+    "potassium chloride",
+    "mk20",
+    "k20 soluble",
+    "potasium chloride",
+    "potassium chloride 600",
+    "potassium chloride 600 mg",
+    "potasium chloride 600 mg",
+    "potassium chloride kcl"
   ],
   "RX_165": [
     "lcz696",
@@ -6309,7 +6828,8 @@
     "entrcsto",
     "entrcsto2426",
     "entrcsto4951",
-    "entrcsto97103"
+    "entrcsto97103",
+    "sacubitril/valsartan"
   ],
   "RX_166": [
     "apo dapagliflozin",
@@ -6341,7 +6861,15 @@
     "dapagiflozin",
     "dapagiflozin10",
     "dapagiflozin5",
-    "dapagiflozine"
+    "dapagiflozine",
+    "dapagliflozin",
+    "farxiga",
+    "forxiga",
+    "dapagliflozine",
+    "farxiga 5",
+    "farxiga 10",
+    "dapagliflozin 5",
+    "dapagliflozin 10"
   ],
   "RX_167": [
     "apo naloxone",
@@ -6371,7 +6899,11 @@
     "nal0xonespray",
     "naloone",
     "naloonenasal",
-    "naloonespray"
+    "naloonespray",
+    "naloxone",
+    "narcan",
+    "naloxone spray",
+    "naloxone nasal"
   ],
   "RX_168": [
     "apo hydrocodone",
@@ -6397,7 +6929,15 @@
     "hy5ingla",
     "hydocodone",
     "hydocodone/acetaminophen",
-    "hydocodoneapap"
+    "hydocodoneapap",
+    "hydrocodone/acetaminophen",
+    "vicodin",
+    "hysingla",
+    "hydrocodone",
+    "hydrocodone apap",
+    "hydrocodone acetaminophen",
+    "hydrocodone er",
+    "hydrocodone xr"
   ],
   "RX_170": [
     "apo catapres",
@@ -6438,7 +6978,10 @@
     "clnidine",
     "clnidinepatch",
     "cloidine",
-    "cloidinepatch"
+    "cloidinepatch",
+    "clonidine",
+    "clonidine patch",
+    "timbre clonidine"
   ],
   "RX_172": [
     "apo ranexa",
@@ -6498,7 +7041,12 @@
     "mint sildenafil 100",
     "mint sildenafil 25",
     "mint sildenafil 50",
-    "mint viagra"
+    "mint viagra",
+    "sildenafil",
+    "viagra",
+    "sildenafil 25",
+    "sildenafil 50",
+    "sildenafil 100"
   ],
   "RX_174": [
     "apo cialis",
@@ -6529,7 +7077,11 @@
     "mint tadalafil",
     "mint tadalafil 10",
     "mint tadalafil 20",
-    "mint tadalafil 5"
+    "mint tadalafil 5",
+    "tadalafil",
+    "tadalafil 5",
+    "tadalafil 10",
+    "tadalafil 20"
   ],
   "RX_175": [
     "apo maxeran",
@@ -6567,7 +7119,10 @@
     "metoclopram1de",
     "metoclopram1dehcl",
     "metoclopramde",
-    "metoclopramdehcl"
+    "metoclopramdehcl",
+    "metoclopramide",
+    "reglan",
+    "metoclopramide hcl"
   ],
   "RX_176": [
     "5temetil",
@@ -6599,7 +7154,10 @@
     "prochl0rperazine",
     "prochl0rperazinemaleate",
     "prochloperazine",
-    "prochloperazinemaleate"
+    "prochloperazinemaleate",
+    "prochlorperazine",
+    "stemetil",
+    "prochlorperazine maleate"
   ],
   "RX_177": [
     "1amictal",
@@ -6631,7 +7189,12 @@
     "lam0trigine",
     "lam0trigine100",
     "lam0trigine200",
-    "lam0trigine25"
+    "lam0trigine25",
+    "lamotrigine",
+    "lamictal",
+    "lamotrigine 25",
+    "lamotrigine 100",
+    "lamotrigine 200"
   ],
   "RX_178": [
     "apo dilantin",
@@ -6669,7 +7232,9 @@
     "phenyoinsodium",
     "phenyt0in",
     "phenyt0insodium",
-    "phenytin"
+    "phenytin",
+    "phenytoin",
+    "phenytoin sodium"
   ],
   "RX_180": [
     "ab1lify",
@@ -6717,7 +7282,13 @@
     "aripipazole20",
     "aripipazole5",
     "aripipra2ole",
-    "aripipra2ole10"
+    "aripipra2ole10",
+    "aripiprazole",
+    "aripiprazole 2",
+    "aripiprazole 5",
+    "aripiprazole 10",
+    "aripiprazole 15",
+    "aripiprazole 20"
   ],
   "RX_182": [
     "1nvokana",
@@ -6763,7 +7334,10 @@
     "invkana",
     "invkana100",
     "invkana300",
-    "invoana"
+    "invoana",
+    "invokana",
+    "invokana 100",
+    "invokana 300"
   ],
   "RX_183": [
     "5itagliptin",
@@ -6799,7 +7373,8 @@
     "januvia5o",
     "januviai00",
     "januvial00",
-    "januvias0"
+    "januvias0",
+    "sitagliptin"
   ],
   "RX_184": [
     "1nsulin7030",
@@ -6817,7 +7392,16 @@
     "auro insulin 70 30",
     "auro insuline 70 30",
     "auro insuline 70 30 melange",
-    "auro novolin 70 30"
+    "auro novolin 70 30",
+    "insuline 70/30 (mélange)",
+    "insuline 70/30 (melange)",
+    "humulin 70/30",
+    "novolin 70/30",
+    "humulin 70 30",
+    "novolin 70 30",
+    "insulin 70 30",
+    "insuline 70 30",
+    "insuline 70 30 melange"
   ],
   "RX_190": [
     "1iraglutide",
@@ -6855,7 +7439,10 @@
     "liraglutdepen",
     "liraglutidc",
     "liraglutidcpen",
-    "liraglutide"
+    "liraglutide",
+    "victoza",
+    "saxenda",
+    "liraglutide pen"
   ],
   "RX_191": [
     "apo dulaglutide",
@@ -6889,7 +7476,9 @@
     "mint trulicity pen",
     "pms dulaglutide",
     "pms trulicity",
-    "pms trulicity pen"
+    "pms trulicity pen",
+    "trulicity",
+    "trulicity pen"
   ],
   "RX_195": [
     "0lmesartan-hctz",
@@ -6920,7 +7509,19 @@
     "auro olmesartan hctz",
     "auro olmesartan hctz 20-12 5",
     "auro olmesartan hctz 40-25",
-    "auro olmesartan hctz co"
+    "auro olmesartan hctz co",
+    "olmesartan / hydrochlorothiazide",
+    "olmetec plus",
+    "olmesartan hctz",
+    "olmesartan-hctz",
+    "olmesartan hct",
+    "olmesartan hydrochlorothiazide",
+    "olmesartan hctz 40-25",
+    "olmesartan hctz 20-12.5",
+    "sandoz olmesartan hctz",
+    "teva olmesartan hctz",
+    "olmesartan hctz tab",
+    "olmesartan hctz co"
   ],
   "RX_196": [
     "0rgovyx",
@@ -6994,7 +7595,9 @@
     "jamp anoro",
     "jamp anoro ellipta",
     "jamp umeclidinium vilanterol",
-    "mint anoro"
+    "mint anoro",
+    "umeclidinium/vilanterol",
+    "umeclidinium vilanterol"
   ],
   "RX_198": [
     "apo fluticasone umeclidinium vilanterol",
@@ -7025,7 +7628,10 @@
     "fluticasone/umec1idinium/vilanterol",
     "fluticasone/umecidinium/vilanterol",
     "fluticasone/umeciidinium/vilanterol",
-    "fluticasone/umecl1dinium/vilanterol"
+    "fluticasone/umecl1dinium/vilanterol",
+    "fluticasone/umeclidinium/vilanterol",
+    "trelegy",
+    "trelegy ellipta"
   ],
   "RX_199": [
     "apo pariet",
@@ -7051,7 +7657,10 @@
     "pms pariet",
     "pms rabeprazole",
     "pms rabeprazole 10",
-    "pms rabeprazole 20"
+    "pms rabeprazole 20",
+    "rabeprazole",
+    "rabeprazole 10",
+    "rabeprazole 20"
   ],
   "RX_200": [
     "5ucralfate",
@@ -7085,7 +7694,8 @@
     "sucrate",
     "sucrlfate",
     "sueralfate",
-    "suicrate"
+    "suicrate",
+    "sulcrate"
   ],
   "RX_201": [
     "2anaflex",
@@ -7108,7 +7718,11 @@
     "pms tizanidine",
     "pms tizanidine 2",
     "pms tizanidine 4",
-    "pms zanaflex"
+    "pms zanaflex",
+    "tizanidine",
+    "zanaflex",
+    "tizanidine 2",
+    "tizanidine 4"
   ],
   "RX_202": [
     "apo atarax",
@@ -7221,7 +7835,8 @@
     "s1ngulair",
     "sandoz montelukast",
     "sandoz singulair",
-    "sigulair"
+    "sigulair",
+    "singulair"
   ],
   "RX_209": [
     "1ibrium",
@@ -7438,7 +8053,12 @@
     "mint apresoline",
     "mint hydralazine",
     "pms apresoline",
-    "pms hydralazine"
+    "pms hydralazine",
+    "hydralazine hcl",
+    "teva hydralazine",
+    "sandoz hydralazine",
+    "hydralazin",
+    "apresolin"
   ],
   "RX_217": [
     "1modium",
@@ -7471,7 +8091,12 @@
     "jamp loperamide 2mg",
     "jamp loperamide hcl",
     "jamp loperamide hydrochloride",
-    "jamp pms loperamide"
+    "jamp pms loperamide",
+    "loperamide",
+    "pms loperamide",
+    "loperamide 2mg",
+    "loperamide hcl",
+    "loperamide hydrochloride"
   ],
   "RX_218": [
     "apo emolax",
@@ -7499,7 +8124,14 @@
     "jamp polyethylene glycol",
     "jamp polyethylene glycol 3350",
     "jamp poudre peg 3350",
-    "jamp restoralax"
+    "jamp restoralax",
+    "polyethylene glycol 3350",
+    "restoralax",
+    "peg 3350",
+    "peg3350",
+    "polyethylene glycol",
+    "macrogol 3350",
+    "poudre peg 3350"
   ],
   "RX_219": [
     "5enna",
@@ -7528,7 +8160,14 @@
     "jamp sennatabs",
     "jamp sennosides",
     "jamp sennosides 8 6mg",
-    "jamp senokot"
+    "jamp senokot",
+    "senna",
+    "senokot",
+    "sennatabs",
+    "sennosides",
+    "pms senna",
+    "senna 8 6mg",
+    "sennosides 8 6mg"
   ],
   "RX_220": [
     "5odiumpolystyrene",
@@ -7554,7 +8193,16 @@
     "auro sodium polystyrene sulfonate",
     "auro sodium polystyrene sulphonate",
     "auro solystat",
-    "jamp kayexalate"
+    "jamp kayexalate",
+    "sodium polystyrene sulfonate",
+    "solystat",
+    "sodium polystyrene",
+    "polystyrene sulfonate",
+    "sodium polystyrene sulphonate",
+    "polystyrene sulphonate",
+    "sod polystyrene sulfonate",
+    "kayexalate",
+    "pms sodium polystyrene sulfonate"
   ],
   "RX_221": [
     "apo calcitriol",
@@ -7596,7 +8244,12 @@
     "calcitr1ol05",
     "calcitr1olodan",
     "calcitri0l",
-    "calcitri0l025"
+    "calcitri0l025",
+    "calcitriol",
+    "rocaltrol",
+    "calcitriol odan",
+    "calcitriol 0 25",
+    "calcitriol 0 5"
   ],
   "RX_222": [
     "5ucroferricoxyhydroxide",
@@ -7620,7 +8273,10 @@
     "ran velphoro 500",
     "sandoz sucroferric oxyhydroxide",
     "sandoz velphoro",
-    "sandoz velphoro 500"
+    "sandoz velphoro 500",
+    "sucroferric oxyhydroxide",
+    "velphoro",
+    "velphoro 500"
   ],
   "RX_223": [
     "apo caco3",
@@ -7657,7 +8313,11 @@
     "calciumcarbonae",
     "calciumcarbonatc",
     "calciumcarbonte",
-    "calciumcaronate"
+    "calciumcaronate",
+    "carbonate de calcium",
+    "caltrate",
+    "tums",
+    "carbonate calcium"
   ],
   "RX_224": [
     "a1domet",
@@ -7695,7 +8355,10 @@
     "methyidopa",
     "methyidopa250",
     "methyidopa500",
-    "methyld0pa"
+    "methyld0pa",
+    "methyldopa",
+    "methyldopa 250",
+    "methyldopa 500"
   ],
   "RX_225": [
     "1ntuniv",
@@ -7739,7 +8402,8 @@
     "guanfacnexr",
     "guanfaeine",
     "guanfaeineer",
-    "guanfaeinexr"
+    "guanfaeinexr",
+    "intuniv"
   ],
   "RX_226": [
     "1inagliptin",
@@ -7776,7 +8440,9 @@
     "mint trajenta 5",
     "pms linagliptin",
     "pms trajenta",
-    "pms trajenta 5"
+    "pms trajenta 5",
+    "trajenta",
+    "trajenta 5"
   ],
   "RX_227": [
     "0nglyza",
@@ -7806,7 +8472,11 @@
     "ong1yza5",
     "ongiyza",
     "ongiyza25",
-    "ongiyza5"
+    "ongiyza5",
+    "saxagliptin",
+    "onglyza",
+    "onglyza 2 5",
+    "onglyza 5"
   ],
   "RX_228": [
     "a1ogliptin",
@@ -7865,7 +8535,8 @@
     "alogliptin65",
     "alogliptin6z5",
     "alogliptini25",
-    "alogliptinl25"
+    "alogliptinl25",
+    "nesina"
   ],
   "RX_229": [
     "apo baqsimi",
@@ -7907,7 +8578,10 @@
     "glucagcn",
     "glucagen",
     "glucagn",
-    "glucagnkit"
+    "glucagnkit",
+    "glucagon",
+    "glucagon kit",
+    "glucagon nasal"
   ],
   "RX_230": [
     "2yloprim",
@@ -7969,7 +8643,8 @@
     "allopurlnol300",
     "quetiapine xr 50",
     "siv quetiapine xr 50",
-    "allopurnol"
+    "allopurnol",
+    "zyloprim"
   ],
   "RX_231": [
     "apo colchicine",
@@ -8015,7 +8690,10 @@
     "colchicinc",
     "colchicinc05",
     "colchicinc06",
-    "colchicine"
+    "colchicine",
+    "colcrys",
+    "colchicine 0 6",
+    "colchicine 0 5"
   ],
   "RX_232": [
     "apo febuxostat",
@@ -8059,7 +8737,8 @@
     "febuxotat40",
     "febuxotat80",
     "febuxstat",
-    "febuxstat40"
+    "febuxstat40",
+    "uloric"
   ],
   "RX_233": [
     "1evodopa",
@@ -8090,7 +8769,15 @@
     "carbidopa/1evodopa",
     "carbidopa/evodopa",
     "carbidopa/ievodopa",
-    "carbidopa/lcvodopa"
+    "carbidopa/lcvodopa",
+    "carbidopa/levodopa",
+    "sinemet",
+    "prolopa",
+    "levodopa",
+    "levodopa 100",
+    "levodopa 250",
+    "carbidopa levodopa 100 25",
+    "carbidopa-levodopa"
   ],
   "RX_234": [
     "apo mirapex",
@@ -8119,7 +8806,13 @@
     "pms mirapex",
     "pms pramipexole",
     "pms pramipexole 0 25",
-    "pms pramipexole 1"
+    "pms pramipexole 1",
+    "pramipexole",
+    "pramipexole 0 25",
+    "pramipexole 1",
+    "pramipexole 0.25",
+    "teva pramipexole",
+    "sandoz pramipexole"
   ],
   "RX_235": [
     "apo requip",
@@ -8141,7 +8834,15 @@
     "mint ropinirole",
     "mint ropinirole 0 25",
     "mint ropinirole 1",
-    "mint ropinirole 2"
+    "mint ropinirole 2",
+    "ropinirole",
+    "requip",
+    "ropinirole 0 25",
+    "ropinirole 1",
+    "ropinirole 2",
+    "ropinirole 0.25",
+    "teva ropinirole",
+    "sandoz ropinirole"
   ],
   "RX_236": [
     "a1endronate",
@@ -8199,7 +8900,10 @@
     "apo alendronate",
     "apo alendronate 10",
     "apo alendronate 70",
-    "apo fosamax"
+    "apo fosamax",
+    "fosamax",
+    "teva alendronate",
+    "sandoz alendronate"
   ],
   "RX_237": [
     "act0nel",
@@ -8227,7 +8931,12 @@
     "pms actonel",
     "pms risedronate",
     "pms risedronate 150",
-    "pms risedronate 35"
+    "pms risedronate 35",
+    "risedronate",
+    "risedronate 35",
+    "risedronate 150",
+    "teva risedronate",
+    "sandoz risedronate"
   ],
   "RX_238": [
     "1bandronate",
@@ -8275,7 +8984,9 @@
     "ibndronate150",
     "jamp boniva",
     "jamp ibandronate",
-    "jamp ibandronate 150"
+    "jamp ibandronate 150",
+    "teva ibandronate",
+    "sandoz ibandronate"
   ],
   "RX_239": [
     "apo phenazopyridine",
@@ -8305,7 +9016,11 @@
     "pheazopyridine200",
     "phena2opyridine",
     "phena2opyridine100",
-    "phena2opyridine200"
+    "phena2opyridine200",
+    "phenazopyridine",
+    "pyridium",
+    "phenazopyridine 100",
+    "phenazopyridine 200"
   ],
   "RX_240": [
     "apo flomax",
@@ -8331,7 +9046,10 @@
     "pms flomax",
     "pms tamsulosin",
     "pms tamsulosin 0 4",
-    "pms tamsulosin 0 8"
+    "pms tamsulosin 0 8",
+    "tamsulosin",
+    "tamsulosin 0 4",
+    "tamsulosin 0 8"
   ],
   "RX_241": [
     "apo finasteride",
@@ -8373,7 +9091,11 @@
     "finasteridc",
     "finasteridc1",
     "finasteridc5",
-    "finasteride"
+    "finasteride",
+    "proscar",
+    "propecia",
+    "finasteride 5",
+    "finasteride 1"
   ],
   "RX_242": [
     "apo avodart",
@@ -8462,7 +9184,12 @@
     "clobeta5olpropionate",
     "clobeta5oltopique",
     "clobetaol",
-    "clobetaol005"
+    "clobetaol005",
+    "clobetasol (topique)",
+    "temovate",
+    "clobetasol",
+    "clobetasol propionate",
+    "clobetasol 0 05"
   ],
   "RX_244": [
     "apo elocon",
@@ -8494,7 +9221,11 @@
     "mint elocon",
     "mint mometasone",
     "mint mometasone 0 1",
-    "mint mometasone furoate"
+    "mint mometasone furoate",
+    "mometasone (topique)",
+    "mometasone",
+    "mometasone furoate",
+    "mometasone 0 1"
   ],
   "RX_245": [
     "apo betamethasone",
@@ -8514,7 +9245,28 @@
     "apo ratio ectosone",
     "apo teva ectosone",
     "apo teva ectosone cream",
-    "apo teva ectosone creme"
+    "apo teva ectosone creme",
+    "betamethasone (topique)",
+    "diprosone",
+    "ectosone",
+    "teva-ectosone",
+    "ratio-ectosone",
+    "betamethasone",
+    "betamethasone dipropionate",
+    "betamethasone 0 05",
+    "teva ectosone",
+    "ratio ectosone",
+    "ectosone 0.1",
+    "ectosone cream",
+    "ectosone creme",
+    "teva ectosone cream",
+    "teva ectosone creme",
+    "betamethasone valerate",
+    "betamethasone valerate 0.1",
+    "betamethasone valerate cream",
+    "betamethasone valerate creme",
+    "betamethasone 0.1",
+    "betamethasone 0 1"
   ],
   "RX_246": [
     "5itagliptine/metformine",
@@ -8576,7 +9328,10 @@
     "jampsitagliptine/metformine",
     "jampsitagliptinemetformine",
     "jampsitagliptinmetformin",
-    "janumetxr"
+    "janumetxr",
+    "sitagliptine/metformine",
+    "sitagliptin metformin",
+    "sitagliptine metformine"
   ],
   "RX_247": [
     "5ynjardy",
@@ -8638,7 +9393,12 @@
     "empagl1flozinemetformine",
     "empaglflozinemetformine",
     "empaglif1ozinemetformine",
-    "empaglifiozinemetformine"
+    "empaglifiozinemetformine",
+    "empagliflozine/metformine",
+    "synjardy",
+    "empagliflozin metformin",
+    "empagliflozine metformine",
+    "synjardy xr"
   ],
   "RX_248": [
     "apo dapagliflozin metformin",
@@ -8700,7 +9460,12 @@
     "dapaglif1ozinemetformine",
     "dapaglifiozinemetformine",
     "dapaglifl0zinemetformine",
-    "dapagliflo2inemetformine"
+    "dapagliflo2inemetformine",
+    "dapagliflozine/metformine",
+    "xigduo",
+    "dapagliflozin metformin",
+    "dapagliflozine metformine",
+    "xigduo xr"
   ],
   "RX_249": [
     "apo empagliflozin linagliptin",
@@ -8762,7 +9527,11 @@
     "empaglifiozinelinagliptine",
     "empaglifl0zinelinagliptine",
     "empagliflo2inelinagliptine",
-    "empaglifloinelinagliptine"
+    "empaglifloinelinagliptine",
+    "empagliflozine/linagliptine",
+    "glyxambi",
+    "empagliflozin linagliptin",
+    "empagliflozine linagliptine"
   ],
   "RX_250": [
     "5axagliptine/metformine",
@@ -8790,7 +9559,12 @@
     "kombglyze",
     "kombglyzexr",
     "kombog1yze",
-    "kombog1yzexr"
+    "kombog1yzexr",
+    "saxagliptine/metformine",
+    "komboglyze",
+    "saxagliptin metformin",
+    "saxagliptine metformine",
+    "komboglyze xr"
   ],
   "RX_251": [
     "1inagliptine/metformine",
@@ -8852,7 +9626,10 @@
     "jamplinagliptinemetformine",
     "jamplinagliptinmetformin",
     "l1nagliptinemetformine",
-    "liagliptinemetformine"
+    "liagliptinemetformine",
+    "linagliptine/metformine",
+    "linagliptin metformin",
+    "linagliptine metformine"
   ],
   "RX_252": [
     "a1ogliptine/metformine",
@@ -8914,7 +9691,8 @@
     "alogliptinemetf0rmine",
     "alogliptinemetfomine",
     "alogliptinemetforine",
-    "alogliptinemetform1ne"
+    "alogliptinemetform1ne",
+    "kazano"
   ],
   "RX_253": [
     "0lmesartan",
@@ -8950,7 +9728,11 @@
     "jamp olmesartan",
     "jamp olmetec",
     "jamp sandoz olmesartan",
-    "jamp teva olmesartan"
+    "jamp teva olmesartan",
+    "olmesartan",
+    "olmetec",
+    "teva olmesartan",
+    "sandoz olmesartan"
   ],
   "RX_254": [
     "apo diovan hct",
@@ -8978,7 +9760,11 @@
     "jamp valsartan hctz",
     "jamp valsartan hydrochlorothiazide",
     "mint diovan hct",
-    "mint valsartan hct"
+    "mint valsartan hct",
+    "valsartan/hydrochlorothiazide",
+    "valsartan hctz",
+    "valsartan hydrochlorothiazide",
+    "valsartan hct"
   ],
   "RX_255": [
     "apo micardis hct",
@@ -9006,7 +9792,11 @@
     "micardisht",
     "micardlshct",
     "micardshct",
-    "micarishct"
+    "micarishct",
+    "telmisartan/hydrochlorothiazide",
+    "telmisartan hctz",
+    "telmisartan hydrochlorothiazide",
+    "telmisartan hct"
   ],
   "RX_256": [
     "1rbesartan/hydrochlorothiazide",
@@ -9040,7 +9830,11 @@
     "irbeartanhctz",
     "irbesaran/hydrochlorothiazide",
     "irbesaranhct",
-    "irbesaranhctz"
+    "irbesaranhctz",
+    "irbesartan/hydrochlorothiazide",
+    "irbesartan hctz",
+    "irbesartan hydrochlorothiazide",
+    "irbesartan hct"
   ],
   "RX_257": [
     "aacandplus",
@@ -9076,7 +9870,11 @@
     "cande5artanhctz",
     "candeartan/hydrochlorothiazide",
     "candeartanhct",
-    "candeartanhctz"
+    "candeartanhctz",
+    "candesartan/hydrochlorothiazide",
+    "candesartan hctz",
+    "candesartan hydrochlorothiazide",
+    "candesartan hct"
   ],
   "RX_258": [
     "apo coversyl plus",
@@ -9108,7 +9906,10 @@
     "mint coversyl plus",
     "mint perindopril indapamide",
     "pcrindopril/indapamide",
-    "peindopril/indapamide"
+    "peindopril/indapamide",
+    "périndopril/indapamide",
+    "perindopril/indapamide",
+    "perindopril indapamide"
   ],
   "RX_259": [
     "apo bystolic",
@@ -9151,7 +9952,8 @@
     "nebvolol",
     "neivolol",
     "pms bystolic",
-    "pms nebivolol"
+    "pms nebivolol",
+    "nébivolol"
   ],
   "RX_260": [
     "1nspra",
@@ -9187,7 +9989,8 @@
     "ran eplerenone",
     "ran inspra",
     "sandoz eplerenone",
-    "sandoz inspra"
+    "sandoz inspra",
+    "éplérénone"
   ],
   "RX_261": [
     "5tiolto",
@@ -9206,7 +10009,12 @@
     "mint tiotropium olodaterol",
     "pms stiolto",
     "pms stiolto respimat",
-    "pms tiotropium olodaterol"
+    "pms tiotropium olodaterol",
+    "tiotropium/olodatérol",
+    "tiotropium/olodaterol",
+    "stiolto",
+    "tiotropium olodaterol",
+    "stiolto respimat"
   ],
   "RX_262": [
     "apo glycopyrronium indacaterol",
@@ -9238,7 +10046,11 @@
     "glycopyrronium/indacater0l",
     "glycopyrronium/indacaterl",
     "glycopyrronium/indacatero1",
-    "glycopyrronium/indacateroi"
+    "glycopyrronium/indacateroi",
+    "glycopyrronium/indacatérol",
+    "glycopyrronium/indacaterol",
+    "ultibro",
+    "ultibro breezhaler"
   ],
   "RX_263": [
     "apo breo",
@@ -9272,7 +10084,9 @@
     "fluicasone/vilanterol",
     "flut1casone/vilanterol",
     "flutcasone/vilanterol",
-    "flutiasone/vilanterol"
+    "flutiasone/vilanterol",
+    "fluticasone/vilanterol",
+    "fluticasone vilanterol"
   ],
   "RX_264": [
     "apo breztri",
@@ -9313,7 +10127,10 @@
     "breztrlaerosphere",
     "brztriaerosphere",
     "budcsonide/glycopyrronium/formoterol",
-    "bude5onide/glycopyrronium/formoterol"
+    "bude5onide/glycopyrronium/formoterol",
+    "budesonide/glycopyrronium/formoterol",
+    "budésonide/glycopyrronium/formotérol",
+    "budesonide glycopyrronium formoterol"
   ],
   "RX_265": [
     "1ncruse",
@@ -9356,7 +10173,8 @@
     "lncruseellipta",
     "mint incruse",
     "mint incruse ellipta",
-    "mint umeclidinium"
+    "mint umeclidinium",
+    "umeclidinium"
   ],
   "RX_266": [
     "ac1idinium",
@@ -9391,7 +10209,9 @@
     "mint tudorza genuair",
     "pms aclidinium",
     "pms tudorza",
-    "pms tudorza genuair"
+    "pms tudorza genuair",
+    "tudorza",
+    "tudorza genuair"
   ],
   "RX_267": [
     "a1fuzosin",
@@ -9435,7 +10255,8 @@
     "jamp alfuzosin",
     "jamp alfuzosine",
     "jamp xatral",
-    "mint alfuzosin"
+    "mint alfuzosin",
+    "xatral"
   ],
   "RX_268": [
     "5ilodosin",
@@ -9461,7 +10282,9 @@
     "rapaf1o",
     "rapafio",
     "rapafl0",
-    "rapaflo"
+    "rapaflo",
+    "silodosine",
+    "silodosin"
   ],
   "RX_269": [
     "apo dutasteride tamsulosin",
@@ -9496,7 +10319,11 @@
     "dutasteride/tamslosine",
     "dutasteride/tamsu1osine",
     "dutasteride/tamsuiosine",
-    "dutasteride/tamsul0sine"
+    "dutasteride/tamsul0sine",
+    "dutastéride/tamsulosine",
+    "dutasteride/tamsulosine",
+    "jalyn",
+    "dutastéride tamsulosine"
   ],
   "RX_270": [
     "apo hytrin",
@@ -9522,7 +10349,10 @@
     "ran terazosine",
     "sandoz hytrin",
     "sandoz terazosin",
-    "sandoz terazosine"
+    "sandoz terazosine",
+    "terazosine",
+    "térazosine",
+    "terazosin"
   ],
   "RX_278": [
     "methylphenidate",
@@ -9551,7 +10381,10 @@
     "concerta",
     "biphentin",
     "méthylphénidate",
-    "methylphenidate capsules lp"
+    "methylphenidate capsules lp",
+    "apo methylphenidate",
+    "teva methylphenidate",
+    "sandoz methylphenidate"
   ],
   "RX_279": [
     "methylprednisolone",
@@ -9614,7 +10447,8 @@
     "vitamine d3 10000",
     "d3 1000ui",
     "d3 2000ui",
-    "d3 10000ui"
+    "d3 10000ui",
+    "cholecalciferol (vitamine d3)"
   ],
   "RX_272": [
     "cyanocobalamine (vitamine b12)",
@@ -9662,7 +10496,8 @@
     "jamp magnesium 500mg",
     "jamp-magnesium",
     "maglucate 500mg",
-    "maglucate 500 mg"
+    "maglucate 500 mg",
+    "magnesium"
   ],
   "RX_274": [
     "sulfate ferreux",
@@ -9713,7 +10548,8 @@
     "option+ melatonin 5mg",
     "option melatonin 5 mg",
     "melatonin 5mg",
-    "melatonine 5mg"
+    "melatonine 5mg",
+    "melatonine"
   ],
   "RX_281": [
     "ranitidine",
@@ -9880,7 +10716,8 @@
     "zytiga 250",
     "zytiga 500",
     "abirater0ne",
-    "abiraterne"
+    "abiraterne",
+    "abiratérone"
   ],
   "RX_289": [
     "tamoxifen",
@@ -9899,7 +10736,8 @@
     "femara",
     "femara 2.5",
     "letr0zole",
-    "letroz0le"
+    "letroz0le",
+    "létrozole"
   ],
   "RX_291": [
     "anastrozole",
@@ -9952,20 +10790,5 @@
     "trintellix 5",
     "trintellix 10",
     "trintellix 20"
-  ],
-  
- "RX_295": [
-    "bupropion",
-    "buproprion",
-    "bupoprion",
-    "bupropion xl",
-    "bupropion sr",
-    "wellbutrin",
-    "wellbutrin xl",
-    "wellbutrin sr",
-    "zyban",
-    "apo bupropion",
-    "teva bupropion",
-    "sandoz bupropion"
   ]
 }

@@ -36,13 +36,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 4,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 4
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_002_01",
@@ -75,13 +72,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Le risque devient significatif surtout en combinaison (DAPT) ou avec anticoagulant."
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_002_02",
@@ -114,13 +108,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Le risque devient significatif surtout en DAPT (ASA+P2Y12) ou avec anticoagulant."
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_003_01",
@@ -154,13 +145,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 4,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 4
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_003_02",
@@ -197,13 +185,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Conduite contextuelle; moins homogène que SC_003_01."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_003_03",
@@ -236,13 +221,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "JAUNE car reconnaissance utile surtout en co-ingestions; patient stable ≠ urgence."
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_003_04",
@@ -275,13 +257,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 4,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Naloxone = indice fort d'un épisode potentiellement vital."
+      "nb_criteres": 4
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_004_01",
@@ -316,13 +295,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "JAUNE surtout en co-ingestions ou tableau sédatif."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_004_02",
@@ -354,49 +330,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 1,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Risque généralement faible hors contexte polypharmacie."
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
-  },
-  {
-    "id_sc": "SC_004_03",
-    "nom_sc": "Sommeil OTC (mélatonine)",
-    "id_cl_parent": "CL_004",
-    "raison_terrain": "Impact faible; peut contribuer à somnolence/chutes surtout si autres dépresseurs.",
-    "utilisation_courante": [
-      "Insomnie"
-    ],
-    "facteurs_risque": [
-      "Somnolence",
-      "Chutes (sujet âgé)",
-      "Association autres sédatifs"
-    ],
-    "questions_flash": [
-      "Prise récente ?",
-      "Somnolence marquée ?",
-      "Autres sédatifs associés ?"
-    ],
-    "reflexes_terrain": [
-      "Ne pas surinterpréter : priorité au tableau clinique"
-    ],
-    "grille": {
-      "criteres": {
-        "c1_risque_vital_aigu": false,
-        "c2_impact_protocoles": false,
-        "c3_rapidite_degradation": false,
-        "c4_homogeneite_reflexes": false
-      },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": ""
-    },
-    "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_005_01",
@@ -427,13 +364,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_005_02",
@@ -466,13 +400,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Risque principalement en surdose."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_005_03",
@@ -504,13 +435,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_005_04",
@@ -544,13 +472,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Risque surtout en surdose."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_006_01",
@@ -583,13 +508,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Impact surtout en intoxication ou interaction QT."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_006_02",
@@ -621,13 +543,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Risque surtout en intoxication ou interaction."
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_007_01",
@@ -659,13 +578,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2",
-      "note": "Risque surtout si instabilité clinique."
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_007_02",
@@ -697,13 +613,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_007_03",
@@ -733,13 +646,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_007_04",
@@ -771,13 +681,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 4,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2",
-      "note": ""
+      "nb_criteres": 4
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_007_05",
@@ -810,13 +717,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2",
-      "note": ""
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_007_06",
@@ -846,13 +750,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_007_07",
@@ -885,13 +786,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": "Classe surtout contextuelle, utile pour éviter un mauvais rangement pharmacologique."
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_008_01",
@@ -925,7 +823,7 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_008_02",
@@ -958,7 +856,7 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_008_03",
@@ -987,7 +885,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_008_04",
@@ -1018,7 +916,7 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_008_05",
@@ -1048,7 +946,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_008_06",
@@ -1078,7 +976,7 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_008_07",
@@ -1107,7 +1005,7 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_009_01",
@@ -1140,7 +1038,7 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_009_02",
@@ -1170,7 +1068,7 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_010_01",
@@ -1207,7 +1105,7 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_010_02",
@@ -1243,7 +1141,7 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MAJEUR"
   },
   {
     "id_sc": "SC_011_01",
@@ -1260,7 +1158,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "Asthme / BPCO",
       "Dyspnée"
@@ -1280,7 +1177,8 @@
       "Évaluer FR, SpO2, auscultation et réponse clinique",
       "Ne pas banaliser un besoin répété de PRN",
       "Transmettre le nombre de prises récentes si connu"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_011_02",
@@ -1297,7 +1195,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "Asthme / BPCO",
       "Entretien respiratoire"
@@ -1316,7 +1213,8 @@
       "Considérer surtout comme marqueur de maladie respiratoire chronique",
       "Chercher le traitement de secours associé",
       "Ne pas confondre avec un bronchodilatateur de sauvetage"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_011_03",
@@ -1333,7 +1231,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "BPCO / asthme",
       "Entretien respiratoire"
@@ -1352,7 +1249,8 @@
       "Situer le médicament dans le profil respiratoire global",
       "Surveiller la détresse respiratoire plus que le produit lui-même",
       "Transmettre le contexte BPCO / inhalateurs multiples"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_011_04",
@@ -1369,7 +1267,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "Asthme / BPCO",
       "Entretien respiratoire"
@@ -1388,7 +1285,8 @@
       "Considérer un terrain respiratoire chronique significatif",
       "Chercher l’inhalateur de secours associé",
       "Évaluer la gravité clinique actuelle indépendamment de la maintenance"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_011_05",
@@ -1405,7 +1303,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "Asthme",
       "Allergies respiratoires"
@@ -1424,7 +1321,8 @@
       "Utile surtout comme marqueur d’un terrain asthmatique",
       "Ne pas le considérer comme traitement aigu",
       "Chercher le reste du profil respiratoire"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_012_01",
@@ -1441,7 +1339,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "IC / surcharge",
       "Œdèmes"
@@ -1461,7 +1358,8 @@
       "Évaluer état volémique : sec vs congestif",
       "Surveiller TA, signes de choc ou d’œdème pulmonaire",
       "Transmettre le contexte d’insuffisance cardiaque/rénale"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_012_02",
@@ -1478,7 +1376,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "HTA / œdèmes"
     ],
@@ -1497,7 +1394,8 @@
       "Vérifier TA et signes de déshydratation",
       "Garder en tête un trouble électrolytique si symptômes atypiques",
       "Considérer le profil global d’antihypertenseurs"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_012_03",
@@ -1514,7 +1412,6 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
     "utilisation_courante": [
       "IC / hyperaldostéronisme",
       "Épargne potassique"
@@ -1534,7 +1431,8 @@
       "Surveiller bradycardie, faiblesse, signes compatibles avec hyperK",
       "Considérer ECG précoce si tableau évocateur",
       "Transmettre les associations à risque (spirono + IEC/ARA/KCl)"
-    ]
+    ],
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_013_01",
@@ -1563,27 +1461,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 1,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun motif détecté dans champs terrain",
-        "c2_impact_protocoles": "Aucun motif détecté dans champs terrain",
-        "c3_rapidite_degradation": "Aucun motif détecté dans champs terrain",
-        "c4_homogeneite_reflexes": "Déclenché par motifs: /interaction|polypharm|surveillance|monitor|ajustement/"
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 1
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_013_02",
@@ -1612,27 +1493,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 1,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun motif détecté dans champs terrain",
-        "c2_impact_protocoles": "Aucun motif détecté dans champs terrain",
-        "c3_rapidite_degradation": "Aucun motif détecté dans champs terrain",
-        "c4_homogeneite_reflexes": "Déclenché par motifs: /interaction|polypharm|surveillance|monitor|ajustement/"
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 1
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_014_01",
@@ -1667,7 +1531,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_014_02",
@@ -1700,7 +1564,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_015_01",
@@ -1734,8 +1598,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_015_02",
@@ -1769,8 +1632,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_015_03",
@@ -1803,8 +1665,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_016_01",
@@ -1840,27 +1701,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Dépend du contexte (SCA/hypotension/interaction). Pas vital aigu en usage stable sans signe clinique.",
-        "c2_impact_protocoles": "Décisionnel : nitrates ↔ PA ↔ contre-indications (PDE5).",
-        "c3_rapidite_degradation": "Déclenché par motifs: /hypotens|syncope|lipothym|etourd|chute|collaps/",
-        "c4_homogeneite_reflexes": "Réflexes variables selon contexte (douleur thoracique vs hypotension vs simple traitement chronique)."
-      },
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 2
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_016_02",
@@ -1892,27 +1736,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Risque vital aigu surtout si nitrates administrés/envisagés; sinon impact variable.",
-        "c2_impact_protocoles": "Contre-indication opérationnelle : PDE5 récent = éviter nitrates.",
-        "c3_rapidite_degradation": "Déclenché par motifs: /hypotens|syncope|collaps|chute|etourd/",
-        "c4_homogeneite_reflexes": "Réflexe principal (éviter nitrates si PDE5 récent), mais dépend de l’intention de donner des nitrates."
-      },
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 2
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_016_03",
@@ -1945,13 +1772,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": "Ranolazine distincte des PDE5; risque principal = QT/arythmie, pas interaction nitrates."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_017_01",
@@ -1987,8 +1811,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_02",
@@ -2021,8 +1844,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_03",
@@ -2055,8 +1877,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_04",
@@ -2089,8 +1910,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_05",
@@ -2123,8 +1943,7 @@
       "nb_criteres": 0
     },
     "actif": false,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_06",
@@ -2156,8 +1975,7 @@
       "nb_criteres": 0
     },
     "actif": false,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_07",
@@ -2194,8 +2012,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_017_08",
@@ -2232,8 +2049,7 @@
       "nb_criteres": 0
     },
     "actif": false,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_018_01",
@@ -2262,8 +2078,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_018_02",
@@ -2299,8 +2114,7 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_019_01",
@@ -2329,26 +2143,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun : médicament à impact préhospitalier généralement faible.",
-        "c2_impact_protocoles": "Aucun : ne change pas directement les protocoles.",
-        "c3_rapidite_degradation": "Aucun : pas de dégradation rapide liée au fait de le reconnaître.",
-        "c4_homogeneite_reflexes": "Aucun : réflexes terrain dictés par la clinique (GI) et les meds à risque associés."
-      },
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_019_02",
@@ -2377,26 +2175,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun : impact préhospitalier faible.",
-        "c2_impact_protocoles": "Aucun : pas d'impact protocolaire direct.",
-        "c3_rapidite_degradation": "Aucun : pas de dégradation rapide liée à la reconnaissance.",
-        "c4_homogeneite_reflexes": "Aucun : dicté par la clinique."
-      },
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_019_03",
@@ -2428,26 +2210,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun : risque dicté par la clinique (déshydratation/sepsis), pas par la classe elle-même.",
-        "c2_impact_protocoles": "Aucun : pas d'impact protocolaire direct standard.",
-        "c3_rapidite_degradation": "Aucun : l'enjeu est clinique, pas la reconnaissance du médicament.",
-        "c4_homogeneite_reflexes": "Aucun : réflexes selon signes vitaux/perfusion."
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_019_04",
@@ -2479,26 +2245,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun : risque dicté par la clinique (abdomen) et l'hydratation.",
-        "c2_impact_protocoles": "Aucun : pas d'impact protocolaire direct.",
-        "c3_rapidite_degradation": "Aucun : pas de dégradation rapide liée à la reconnaissance.",
-        "c4_homogeneite_reflexes": "Aucun : réflexes dictés par la clinique."
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_019_05",
@@ -2529,26 +2279,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun : l'enjeu est clinique (déshydratation/étiologie).",
-        "c2_impact_protocoles": "Aucun : pas d'impact protocolaire direct standard.",
-        "c3_rapidite_degradation": "Aucun : rare QT dépendant molécule/polypharmacie, pas assez structurel pour monter la classe.",
-        "c4_homogeneite_reflexes": "Aucun : réflexes dictés par la clinique."
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": false,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_019_06",
@@ -2579,26 +2313,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun : risque dicté par la clinique (abdomen), pas la classe.",
-        "c2_impact_protocoles": "Aucun : pas d'impact protocolaire direct.",
-        "c3_rapidite_degradation": "Aucun : pas de dégradation rapide structurelle.",
-        "c4_homogeneite_reflexes": "Aucun : réflexes dictés par la clinique."
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": false,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_020_01",
@@ -2628,27 +2346,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun motif terrain aigu directement associé à la substitution hormonale",
-        "c2_impact_protocoles": "Aucun impact direct standard sur les protocoles; dépend du tableau clinique global",
-        "c3_rapidite_degradation": "Dégradation rapide non attendue par la substitution elle-même (enjeu surtout contextuel)",
-        "c4_homogeneite_reflexes": "Réflexes terrain non homogènes; priorité à l’évaluation clinique globale"
-      },
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "AJUSTEMENT_MANUEL_v1",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 0
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_021_01",
@@ -2684,13 +2385,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_021_02",
@@ -2719,13 +2417,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_022_01",
@@ -2759,13 +2454,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_023_01",
@@ -2799,13 +2491,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_024_01",
@@ -2839,13 +2528,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_025_01",
@@ -2879,13 +2565,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_026_01",
@@ -2917,13 +2600,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_026_02",
@@ -2955,13 +2635,10 @@
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 1,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_027_01",
@@ -2991,13 +2668,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "confiance": "ELEVEE",
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_v2"
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_028_01",
@@ -3013,7 +2687,6 @@
       },
       "nb_criteres": 1
     },
-    "nb_criteres": 1,
     "utilisation_courante": [
       "Hyperkaliémie"
     ],
@@ -3034,7 +2707,7 @@
       "Transmettre terrain rénal et risque électrolytique"
     ],
     "actif": true,
-    "statut_validation": "a_reviser"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_028_02",
@@ -3067,27 +2740,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 1,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun motif détecté dans champs terrain",
-        "c2_impact_protocoles": "Aucun motif détecté dans champs terrain",
-        "c3_rapidite_degradation": "Aucun motif détecté dans champs terrain",
-        "c4_homogeneite_reflexes": "Déclenché par motifs: /insuffisance renale|hepat|foie|age|fragil/"
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "AUTO_HEURISTIQUE_v1",
-      "note": ""
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 1
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_028_03",
@@ -3119,27 +2775,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 1,
-      "labels": {
-        "c1_risque_vital_aigu": "Risque vital aigu",
-        "c2_impact_protocoles": "Impact direct sur les protocoles paramédicaux",
-        "c3_rapidite_degradation": "Rapidité de dégradation possible si non reconnu",
-        "c4_homogeneite_reflexes": "Homogénéité des réflexes terrain attendus"
-      },
-      "justif": {
-        "c1_risque_vital_aigu": "Aucun motif détecté dans champs terrain",
-        "c2_impact_protocoles": "Aucun motif détecté dans champs terrain",
-        "c3_rapidite_degradation": "Aucun motif détecté dans champs terrain",
-        "c4_homogeneite_reflexes": "Déclenché par motifs: /interaction|polypharm|surveillance|monitor|ajustement/"
-      },
-      "confiance": "MOYENNE",
-      "a_reviser": false,
-      "source": "AUTO_HEURISTIQUE_v1",
-      "note": ""
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER",
-    "nb_criteres": 1
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_028_04",
@@ -3155,7 +2794,6 @@
       },
       "nb_criteres": 1
     },
-    "nb_criteres": 1,
     "utilisation_courante": [
       "Hypokaliémie"
     ],
@@ -3176,7 +2814,7 @@
       "Transmettre les associations à risque et le contexte rénal"
     ],
     "actif": true,
-    "statut_validation": "a_reviser"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_029_01",
@@ -3192,7 +2830,6 @@
       },
       "nb_criteres": 1
     },
-    "nb_criteres": 1,
     "utilisation_courante": [
       "HBP / LUTS"
     ],
@@ -3213,7 +2850,7 @@
       "Transmettre le terrain urologique et la vulnérabilité orthostatique"
     ],
     "actif": true,
-    "statut_validation": "a_reviser"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_030_01",
@@ -3234,13 +2871,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 1,
-      "a_reviser": false,
-      "source": "VALIDATION_MANUELLE_2026",
-      "note": "Suppléments fréquents regroupés comme information contextuelle à faible impact préhospitalier."
+      "nb_criteres": 1
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_031_01",
@@ -3273,13 +2907,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_031_02",
@@ -3311,13 +2942,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_032_01",
@@ -3350,13 +2978,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_033_01",
@@ -3388,13 +3013,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": ""
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_034_01",
@@ -3429,13 +3051,10 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": false
       },
-      "nb_criteres": 0,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": "Le profil clinique probable Oncologique sert surtout au contexte; l’urgence dépend du tableau clinique."
+      "nb_criteres": 0
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_035_01",
@@ -3469,12 +3088,9 @@
         "c3_rapidite_degradation": false,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 2,
-      "a_reviser": false,
-      "source": "REVISION_MANUELLE_2026",
-      "note": "Impact MODÉRÉ surtout parce que la reconnaissance change l’interprétation de l’analgésie opioïde et du contexte addictologique."
+      "nb_criteres": 2
     },
     "actif": true,
-    "statut_validation": "A_VALIDER"
+    "impact_niveau": "MODERE"
   }
 ]
