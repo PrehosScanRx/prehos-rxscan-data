@@ -4258,79 +4258,120 @@
     "actif": true
   },
   {
-  "id_rx": "RX_305",
-  "molecule": "Tamsulosin",
-  "noms_commerciaux": ["Flomax"],
-  "alias_ocr": [
-    "tamsulosin",
-    "tamsulosine",
-    "flomax",
-    "tamsulosin hcl",
-    "apo tamsulosin",
-    "teva tamsulosin",
-    "sandoz tamsulosin"
-  ],
-  "id_cl": "CL_007",
-  "id_sc": "SC_007_06",
-  "actif": true
-},{
-  "id_rx": "RX_306",
-  "molecule": "Doxazosin",
-  "noms_commerciaux": ["Cardura"],
-  "alias_ocr": [
-    "doxazosin",
-    "doxazosine",
-    "cardura",
-    "apo doxazosin",
-    "teva doxazosin"
-  ],
-  "id_cl": "CL_007",
-  "id_sc": "SC_007_06",
-  "actif": true
-},
-{
-  "id_rx": "RX_308",
-  "molecule": "Donepezil",
-  "noms_commerciaux": ["Aricept"],
-  "alias_ocr": [
-    "donepezil",
-    "aricept",
-    "donepezil hcl",
-    "apo donepezil",
-    "teva donepezil",
-    "sandoz donepezil"
-  ],
-  "id_cl": "CL_031",
-  "id_sc": "SC_031_02",
-  "actif": true
-},
-{
-  "id_rx": "RX_309",
-  "molecule": "Memantine",
-  "noms_commerciaux": ["Ebixa"],
-  "alias_ocr": [
-    "memantine",
-    "ebixa",
-    "memantin",
-    "apo memantine",
-    "teva memantine"
-  ],
-  "id_cl": "CL_031",
-  "id_sc": "SC_031_02",
-  "actif": true
-},
-{
-  "id_rx": "RX_310",
-  "molecule": "Rivastigmine",
-  "noms_commerciaux": ["Exelon"],
-  "alias_ocr": [
-    "rivastigmine",
-    "exelon",
-    "rivastigmin",
-    "patch exelon"
-  ],
-  "id_cl": "CL_031",
-  "id_sc": "SC_031_02",
-  "actif": true
-}
+    "id_rx": "RX_305",
+    "molecule": "Tamsulosin",
+    "noms_commerciaux": [
+      "Flomax"
+    ],
+    "alias_ocr": [
+      "tamsulosin",
+      "tamsulosine",
+      "flomax",
+      "tamsulosin hcl",
+      "apo tamsulosin",
+      "teva tamsulosin",
+      "sandoz tamsulosin"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_06",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_306",
+    "molecule": "Doxazosin",
+    "noms_commerciaux": [
+      "Cardura"
+    ],
+    "alias_ocr": [
+      "doxazosin",
+      "doxazosine",
+      "cardura",
+      "apo doxazosin",
+      "teva doxazosin"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_06",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_308",
+    "molecule": "Donepezil",
+    "noms_commerciaux": [
+      "Aricept"
+    ],
+    "alias_ocr": [
+      "donepezil",
+      "aricept",
+      "donepezil hcl",
+      "apo donepezil",
+      "teva donepezil",
+      "sandoz donepezil"
+    ],
+    "id_cl": "CL_031",
+    "id_sc": "SC_031_02",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_309",
+    "molecule": "Memantine",
+    "noms_commerciaux": [
+      "Ebixa"
+    ],
+    "alias_ocr": [
+      "memantine",
+      "ebixa",
+      "memantin",
+      "apo memantine",
+      "teva memantine"
+    ],
+    "id_cl": "CL_031",
+    "id_sc": "SC_031_02",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_310",
+    "molecule": "Rivastigmine",
+    "noms_commerciaux": [
+      "Exelon"
+    ],
+    "alias_ocr": [
+      "rivastigmine",
+      "exelon",
+      "rivastigmin",
+      "patch exelon"
+    ],
+    "id_cl": "CL_031",
+    "id_sc": "SC_031_02",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_311",
+    "molecule": "Lisdexamfétamine",
+    "noms_commerciaux": [
+      "Vyvanse"
+    ],
+    "alias_ocr": [
+      "Lisdexamfetamine",
+      "Lisdexamfétamine",
+      "Vyvanse"
+    ],
+    "id_cl": "CL_024",
+    "id_sc": "SC_024_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_312",
+    "molecule": "Atomoxétine",
+    "noms_commerciaux": [
+      "Strattera"
+    ],
+    "alias_ocr": [
+      "Atomoxetine",
+      "Atomoxétine",
+      "Strattera"
+    ],
+    "id_cl": "CL_024",
+    "id_sc": "SC_024_01",
+    "actif": true
+  }
 ]

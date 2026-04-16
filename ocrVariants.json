@@ -10790,5 +10790,32 @@
     "trintellix 5",
     "trintellix 10",
     "trintellix 20"
-  ]
+  ],
+  "RX_311": [
+    "lisdexamfetamine",
+    "lisdexamfétamine",
+    "vyvanse"
+  ],
+  "RX_312": [
+    "atomoxetine",
+    "atomoxétine",
+    "strattera"
+  ],
+  "RX_313": [
+    "actonel 35",
+    "actonel 35mg",
+    "actonel 150",
+    "actonel 150mg",
+    "risedronate",
+    "risedronate sodium",
+    "risedronate sodique",
+    "risedronate 35",
+    "risedronate 150",
+    "risedronate 35mg",
+    "risedronate 150mg",
+    "risedronat",
+    "risedronate sodiun",
+    "actonei",
+    "actoncl"
+    ]
 }

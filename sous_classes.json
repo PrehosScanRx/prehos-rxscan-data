@@ -3,7 +3,7 @@
     "id_sc": "SC_001_01",
     "nom_sc": "Anticoagulants oraux (AOD + AVK)",
     "id_cl_parent": "CL_001",
-    "raison_terrain": "Tout trauma/chute/saignement sous anticoagulant oral (AOD ou AVK) = risque hémorragique majeur (ex: HIC). Vigilance neuro + transport/triage adapté.",
+    "raison_terrain": "Tout trauma/chute/saignement sous anticoagulant oral (AOD ou AVK) = risque hémorragique majeur (ex: HIC) Vigilance neuro + transport/triage adapté → surveiller étroitement et adapter prise en charge",
     "utilisation_courante": [
       "Prévention AVC (fibrillation auriculaire)",
       "Traitement / prévention TVP et EP",
@@ -117,7 +117,7 @@
     "id_sc": "SC_003_01",
     "nom_sc": "Opioïdes analgésiques (courte/longue action, patch)",
     "id_cl_parent": "CL_003",
-    "raison_terrain": "Risque de dépression respiratoire (surtout co-ingestions) → surveillance respiratoire + plan airway/naloxone si tableau compatible.",
+    "raison_terrain": "Dépression respiratoire possible → surveiller FR/conscience, naloxone si détérioration",
     "utilisation_courante": [
       "Douleur aiguë",
       "Douleur chronique"
@@ -655,7 +655,7 @@
     "id_sc": "SC_007_04",
     "nom_sc": "Inhibiteurs calciques (non-DHP)",
     "id_cl_parent": "CL_007",
-    "raison_terrain": "Bradycardie, bloc AV et hypotension possibles (↑ si association bêtabloquant).",
+    "raison_terrain": "Bradycardie, bloc AV et hypotension possibles (↑ si association bêtabloquant) → surveiller étroitement et adapter prise en charge",
     "utilisation_courante": [
       "HTA",
       "Angine",
@@ -728,7 +728,7 @@
     "id_cl_parent": "CL_007",
     "raison_terrain": "Hypotension orthostatique et syncope possibles, surtout chez patient âgé ou déshydraté.",
     "utilisation_courante": [
-      "HBP / HTA"
+      "HBP / LUTS"
     ],
     "facteurs_risque": [
       "Hypotension orthostatique",
@@ -795,7 +795,7 @@
     "id_sc": "SC_008_01",
     "nom_sc": "Sulfonylurées",
     "id_cl_parent": "CL_008",
-    "raison_terrain": "Hypoglycémie sévère et parfois prolongée possible.",
+    "raison_terrain": "Hypoglycémie possible → surveiller glycémie, altération état de conscience",
     "utilisation_courante": [
       "Diabète type 2"
     ],
@@ -829,7 +829,7 @@
     "id_sc": "SC_008_02",
     "nom_sc": "Insulines",
     "id_cl_parent": "CL_008",
-    "raison_terrain": "Hypoglycémie possible (erreur dose ou repas manqué).",
+    "raison_terrain": "Hypoglycémie possible → risque rapide et sévère (vérifier glycémie, surveiller conscience)",
     "utilisation_courante": [
       "Diabète type 1",
       "Diabète type 2"
@@ -1074,7 +1074,7 @@
     "id_sc": "SC_010_01",
     "nom_sc": "Antiarythmiques",
     "id_cl_parent": "CL_010",
-    "raison_terrain": "Risque d’arythmie sévère, bradycardie ou QT long nécessitant ECG précoce et monitoring.",
+    "raison_terrain": "Arythmie/bradycardie possible → ECG rapide et monitoring",
     "utilisation_courante": [
       "FA/flutter",
       "Tachycardies ventriculaires",
@@ -1111,7 +1111,7 @@
     "id_sc": "SC_010_02",
     "nom_sc": "Glycosides cardiaques (digoxine)",
     "id_cl_parent": "CL_010",
-    "raison_terrain": "Marge thérapeutique étroite → risque de bradycardie et arythmie toxique.",
+    "raison_terrain": "Toxicité possible → bradycardie/arythmie, surveiller FC et état clinique",
     "utilisation_courante": [
       "FA (contrôle fréquence)",
       "Insuffisance cardiaque"
@@ -1671,7 +1671,7 @@
     "id_sc": "SC_016_01",
     "nom_sc": "Antiangineux (nitrates et vasodilatateurs coronariens)",
     "id_cl_parent": "CL_016",
-    "raison_terrain": "Hypotension/syncope possible • attention interaction PDE5 (si nitrates envisagés/pris)",
+    "raison_terrain": "Hypotension/syncope possible → surveiller PA, vérifier PDE5 si nitrates pris/envisagés",
     "utilisation_courante": [
       "Angine",
       "Douleur thoracique",
@@ -2498,12 +2498,11 @@
   },
   {
     "id_sc": "SC_024_01",
-    "nom_sc": "Stimulants du SNC — TDAH (méthylphénidate)",
+    "nom_sc": "Traitements du TDAH (stimulants et non-stimulants)",
     "id_cl_parent": "CL_024",
-    "raison_terrain": "Marqueur d’un traitement stimulant; impact terrain généralement faible, mais utile comme contexte neuropsychiatrique et cardiovasculaire.",
+    "raison_terrain": "Marqueur d’un traitement du TDAH; impact terrain généralement faible, mais utile comme contexte neuropsychiatrique et cardiovasculaire.",
     "utilisation_courante": [
-      "TDAH",
-      "Narcolepsie"
+      "TDAH"
     ],
     "facteurs_risque": [
       "Tachycardie (contexte)",
