@@ -676,15 +676,15 @@
     ],
     "grille": {
       "criteres": {
-        "c1_risque_vital_aigu": true,
-        "c2_impact_protocoles": true,
+        "c1_risque_vital_aigu": false,
+        "c2_impact_protocoles": false,
         "c3_rapidite_degradation": true,
         "c4_homogeneite_reflexes": true
       },
-      "nb_criteres": 4
+      "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MODERE"
   },
   {
     "id_sc": "SC_007_05",
