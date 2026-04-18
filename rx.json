@@ -4338,28 +4338,14 @@
   },
   {
     "id_rx": "RX_312",
-    "molecule": "Atomoxétine",
-    "noms_commerciaux": [
-      "Strattera"
-    ],
-    "alias_ocr": [
-      "Atomoxetine",
-      "Atomoxétine",
-      "Strattera"
-    ],
-    "id_cl": "CL_024",
-    "id_sc": "SC_024_01",
-    "actif": true
-  },
-  {
-    "id_rx": "RX_313",
-    "nom_commercial": "Actonel",
-    "molecule": "risedronate",
-    "id_cl": "CL_032",
-    "id_sc": "SC_032_01",
+    "molecule": "Actonel",
+    "noms_commerciaux": "risedronate",
     "alias_ocr": [
       "actonel",
       "actonell"
     ]
+    "id_cl": "CL_024",
+    "id_sc": "SC_024_01",
+    "actif": true
   }
 ]
