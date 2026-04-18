@@ -2533,22 +2533,24 @@
     "actif": true
   },
   {
-  "id_rx": "RX_176",
-  "molecule": "Prochlorperazine",
-  "noms_commerciaux": ["Stemetil"],
-  "alias_ocr": [
-    "prochlorperazine",
-    "prochlorperazine 10mg",
-    "prochlorperazine iomg",
-    "prochlorazine",
-    "prochlorazine 10mg",
-    "prochlorazine iomg",
-    "stemetil"
-  ],
-  "id_cl": "CL_026",
-  "id_sc": "SC_026_02",
-  "actif": true
-},
+    "id_rx": "RX_176",
+    "molecule": "Prochlorperazine",
+    "noms_commerciaux": [
+      "Stemetil"
+    ],
+    "alias_ocr": [
+      "prochlorperazine",
+      "prochlorperazine 10mg",
+      "prochlorperazine iomg",
+      "prochlorazine",
+      "prochlorazine 10mg",
+      "prochlorazine iomg",
+      "stemetil"
+    ],
+    "id_cl": "CL_026",
+    "id_sc": "SC_026_02",
+    "actif": true
+  },
   {
     "id_rx": "RX_177",
     "molecule": "Lamotrigine",
@@ -2977,29 +2979,29 @@
     "id_sc": "SC_028_02",
     "actif": true
   },
- {
-  "id_rx": "RX_223",
-  "molecule": "Calcium",
-  "noms_commerciaux": [
-    "Calcium carbonate",
-    "Caltrate",
-    "Tums"
-  ],
-  "alias_ocr": [
-    "Calcium",
-    "Calcium 500",
-    "Calcium 500 mg",
-    "Calcium carbonate",
-    "Carbonate de calcium",
-    "Carbonate calcium",
-    "Caltrate",
-    "Tums",
-    "CaCO3"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
+  {
+    "id_rx": "RX_223",
+    "molecule": "Calcium",
+    "noms_commerciaux": [
+      "Calcium carbonate",
+      "Caltrate",
+      "Tums"
+    ],
+    "alias_ocr": [
+      "Calcium",
+      "Calcium 500",
+      "Calcium 500 mg",
+      "Calcium carbonate",
+      "Carbonate de calcium",
+      "Carbonate calcium",
+      "Caltrate",
+      "Tums",
+      "CaCO3"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
   {
     "id_rx": "RX_224",
     "molecule": "Methyldopa",
@@ -3727,44 +3729,47 @@
     "id_sc": "SC_029_01",
     "actif": true
   },
- {
-  "id_rx": "RX_271",
-  "molecule": "Cholecalciferol",
-  "noms_commerciaux": ["Luxa-D", "Luxa D"],
-  "alias_ocr": [
-    "cholecalciferol",
-    "vitamin d",
-    "vitamine d",
-    "vit d",
-    "d3",
-    "luxa d",
-    "luxa-d",
-    "luxad",
-    "luxa d 2000",
-    "luxa-d 2000",
-    "luxa d 2000 ui",
-    "luxa-d 2000 ui",
-    "luxa-d 2000ui"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
   {
-  "id_rx": "RX_272",
-  "molecule": "Cyanocobalamin",
-  "noms_commerciaux": [],
-  "alias_ocr": [
-    "vitamin b12",
-    "vitamine b12",
-    "b12",
-    "cyanocobalamin",
-    "cyanocobalamine"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
+    "id_rx": "RX_271",
+    "molecule": "Cholecalciferol",
+    "noms_commerciaux": [
+      "Luxa-D",
+      "Luxa D"
+    ],
+    "alias_ocr": [
+      "cholecalciferol",
+      "vitamin d",
+      "vitamine d",
+      "vit d",
+      "d3",
+      "luxa d",
+      "luxa-d",
+      "luxad",
+      "luxa d 2000",
+      "luxa-d 2000",
+      "luxa d 2000 ui",
+      "luxa-d 2000 ui",
+      "luxa-d 2000ui"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_272",
+    "molecule": "Cyanocobalamin",
+    "noms_commerciaux": [],
+    "alias_ocr": [
+      "vitamin b12",
+      "vitamine b12",
+      "b12",
+      "cyanocobalamin",
+      "cyanocobalamine"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
   {
     "id_rx": "RX_273",
     "molecule": "Magnésium",
@@ -4083,37 +4088,41 @@
     "actif": true
   },
   {
-  "id_rx": "RX_287",
-  "molecule": "Solifenacin",
-  "noms_commerciaux": ["Vesicare"],
-  "alias_ocr": [
-    "solifenacin",
-    "solifenacin succinate",
-    "vesicare"
-  ],
-  "id_cl": "CL_010",
-  "id_sc": "SC_010_05",
-  "actif": true
-},
+    "id_rx": "RX_287",
+    "molecule": "Solifenacin",
+    "noms_commerciaux": [
+      "Vesicare"
+    ],
+    "alias_ocr": [
+      "solifenacin",
+      "solifenacin succinate",
+      "vesicare"
+    ],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_05",
+    "actif": true
+  },
   {
-  "id_rx": "RX_288",
-  "molecule": "Mirabegron",
-  "noms_commerciaux": ["Myrbetriq"],
-  "alias_ocr": [
-    "mirabegron",
-    "myrbetriq",
-    "myrbetriq 50",
-    "myrbetriq 50mg",
-    "myrbetriq 50 mg",
-    "myrbetriq co",
-    "myrbetriq co 24h",
-    "myrbetriq co.-24h",
-    "myrbetriq co.-2ah"
-  ],
-  "id_cl": "CL_010",
-  "id_sc": "SC_010_05",
-  "actif": true
-},
+    "id_rx": "RX_288",
+    "molecule": "Mirabegron",
+    "noms_commerciaux": [
+      "Myrbetriq"
+    ],
+    "alias_ocr": [
+      "mirabegron",
+      "myrbetriq",
+      "myrbetriq 50",
+      "myrbetriq 50mg",
+      "myrbetriq 50 mg",
+      "myrbetriq co",
+      "myrbetriq co 24h",
+      "myrbetriq co.-24h",
+      "myrbetriq co.-2ah"
+    ],
+    "id_cl": "CL_010",
+    "id_sc": "SC_010_05",
+    "actif": true
+  },
   {
     "id_rx": "RX_289",
     "molecule": "Tamoxifène",
@@ -4341,15 +4350,16 @@
     "id_cl": "CL_024",
     "id_sc": "SC_024_01",
     "actif": true
-  },{
-  "id_rx": "RX_313",
-  "nom_commercial": "Actonel",
-  "molecule": "risedronate",
-  "id_cl": "CL_032",
-  "id_sc": "SC_032_01",
-  "alias_ocr": [
-    "actonel",
-    "actonell"
-  ]
-}
+  },
+  {
+    "id_rx": "RX_313",
+    "nom_commercial": "Actonel",
+    "molecule": "risedronate",
+    "id_cl": "CL_032",
+    "id_sc": "SC_032_01",
+    "alias_ocr": [
+      "actonel",
+      "actonell"
+    ]
+  }
 ]
