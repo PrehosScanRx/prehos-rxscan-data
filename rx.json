@@ -2533,18 +2533,22 @@
     "actif": true
   },
   {
-    "id_rx": "RX_176",
-    "molecule": "Prochlorperazine",
-    "noms_commerciaux": [
-      "Stemetil"
-    ],
-    "alias_ocr": [
-      "prochlorperazine maleate"
-    ],
-    "id_cl": "CL_026",
-    "id_sc": "SC_026_02",
-    "actif": true
-  },
+  "id_rx": "RX_176",
+  "molecule": "Prochlorperazine",
+  "noms_commerciaux": ["Stemetil"],
+  "alias_ocr": [
+    "prochlorperazine",
+    "prochlorperazine 10mg",
+    "prochlorperazine iomg",
+    "prochlorazine",
+    "prochlorazine 10mg",
+    "prochlorazine iomg",
+    "stemetil"
+  ],
+  "id_cl": "CL_026",
+  "id_sc": "SC_026_02",
+  "actif": true
+},
   {
     "id_rx": "RX_177",
     "molecule": "Lamotrigine",
@@ -2973,23 +2977,29 @@
     "id_sc": "SC_028_02",
     "actif": true
   },
-  {
-    "id_rx": "RX_223",
-    "molecule": "Calcium carbonate",
-    "noms_commerciaux": [
-      "Calcium carbonate"
-    ],
-    "alias_ocr": [
-      "Carbonate de calcium",
-      "Caltrate",
-      "Tums",
-      "Carbonate calcium",
-      "CaCO3"
-    ],
-    "id_cl": "CL_028",
-    "id_sc": "SC_028_02",
-    "actif": true
-  },
+ {
+  "id_rx": "RX_223",
+  "molecule": "Calcium",
+  "noms_commerciaux": [
+    "Calcium carbonate",
+    "Caltrate",
+    "Tums"
+  ],
+  "alias_ocr": [
+    "Calcium",
+    "Calcium 500",
+    "Calcium 500 mg",
+    "Calcium carbonate",
+    "Carbonate de calcium",
+    "Carbonate calcium",
+    "Caltrate",
+    "Tums",
+    "CaCO3"
+  ],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+},
   {
     "id_rx": "RX_224",
     "molecule": "Methyldopa",
@@ -3717,88 +3727,44 @@
     "id_sc": "SC_029_01",
     "actif": true
   },
+ {
+  "id_rx": "RX_271",
+  "molecule": "Cholecalciferol",
+  "noms_commerciaux": ["Luxa-D", "Luxa D"],
+  "alias_ocr": [
+    "cholecalciferol",
+    "vitamin d",
+    "vitamine d",
+    "vit d",
+    "d3",
+    "luxa d",
+    "luxa-d",
+    "luxad",
+    "luxa d 2000",
+    "luxa-d 2000",
+    "luxa d 2000 ui",
+    "luxa-d 2000 ui",
+    "luxa-d 2000ui"
+  ],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+},
   {
-    "id_rx": "RX_271",
-    "molecule": "Cholécalciférol (vitamine D3)",
-    "noms_commerciaux": [
-      "D-Tabs",
-      "D-Gel",
-      "AG Vitamine D"
-    ],
-    "alias_ocr": [
-      "Cholecalciferol",
-      "Vitamine D",
-      "Vitamin D",
-      "Vitamine D3",
-      "Vitamin D3",
-      "D Tabs",
-      "Dtabs",
-      "D Gel",
-      "Dgel",
-      "Jamp Vitamine D",
-      "Vit D",
-      "Vit D3",
-      "1000UI vitamine d",
-      "2000UI vitamine d",
-      "10000UI vitamine d",
-      "AG-VITAMINE D",
-      "AG VITAMINE D 2000 UI",
-      "D-TABS 10000UI",
-      "D TABS 10000 UI",
-      "D GEL 1000UI",
-      "D-GEL-1000",
-      "D GEL 1000",
-      "Vitamin D3 1000",
-      "Vitamin D3 2000",
-      "Vitamin D3 10000",
-      "Vitamine D3 1000",
-      "Vitamine D3 2000",
-      "Vitamine D3 10000",
-      "D3 1000UI",
-      "D3 2000UI",
-      "D3 10000UI",
-      "Cholecalciferol (vitamine D3)"
-    ],
-    "id_cl": "CL_030",
-    "id_sc": "SC_030_01",
-    "actif": true
-  },
-  {
-    "id_rx": "RX_272",
-    "molecule": "Cyanocobalamine (vitamine B12)",
-    "noms_commerciaux": [],
-    "alias_ocr": [
-      "Vitamine B12",
-      "Vitamin B12",
-      "Vit B12",
-      "Cyanocobalamin",
-      "Cyanocobalamine",
-      "Jamp Vitamine B12",
-      "Jamp Vitamin B12",
-      "Vitamine B 12",
-      "Vitamin B 12",
-      "JAMP-VITAMINE B12",
-      "JAMP VITAMINE B12 250MCG",
-      "JAMP VITAMINE B12 1000MCG",
-      "VITAMINE B12 250MCG",
-      "VITAMINE B12 1000MCG",
-      "VITAMIN B12 250MCG",
-      "VITAMIN B12 1000MCG",
-      "B12 250MCG",
-      "Luxa-D",
-      "Luxa D",
-      "Luxad",
-      "Luxa D 2000",
-      "Luxa-D 2000",
-      "Luxa D 2000 UI",
-      "Luxa-D 2000 UI",
-      "LUXA-D 2000UI",
-      "B12 1000MCG"
-    ],
-    "id_cl": "CL_030",
-    "id_sc": "SC_030_01",
-    "actif": true
-  },
+  "id_rx": "RX_272",
+  "molecule": "Cyanocobalamin",
+  "noms_commerciaux": [],
+  "alias_ocr": [
+    "vitamin b12",
+    "vitamine b12",
+    "b12",
+    "cyanocobalamin",
+    "cyanocobalamine"
+  ],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+},
   {
     "id_rx": "RX_273",
     "molecule": "Magnésium",
@@ -4117,35 +4083,37 @@
     "actif": true
   },
   {
-    "id_rx": "RX_287",
-    "molecule": "Enzalutamide",
-    "noms_commerciaux": [
-      "Xtandi"
-    ],
-    "alias_ocr": [
-      "enzalutamide 40",
-      "xtandi 40"
-    ],
-    "id_cl": "CL_034",
-    "id_sc": "SC_034_01",
-    "actif": true
-  },
+  "id_rx": "RX_287",
+  "molecule": "Solifenacin",
+  "noms_commerciaux": ["Vesicare"],
+  "alias_ocr": [
+    "solifenacin",
+    "solifenacin succinate",
+    "vesicare"
+  ],
+  "id_cl": "CL_010",
+  "id_sc": "SC_010_05",
+  "actif": true
+},
   {
-    "id_rx": "RX_288",
-    "molecule": "Abiratérone",
-    "noms_commerciaux": [
-      "Zytiga"
-    ],
-    "alias_ocr": [
-      "abiraterone",
-      "abiraterone acetate",
-      "zytiga 250",
-      "zytiga 500"
-    ],
-    "id_cl": "CL_034",
-    "id_sc": "SC_034_01",
-    "actif": true
-  },
+  "id_rx": "RX_288",
+  "molecule": "Mirabegron",
+  "noms_commerciaux": ["Myrbetriq"],
+  "alias_ocr": [
+    "mirabegron",
+    "myrbetriq",
+    "myrbetriq 50",
+    "myrbetriq 50mg",
+    "myrbetriq 50 mg",
+    "myrbetriq co",
+    "myrbetriq co 24h",
+    "myrbetriq co.-24h",
+    "myrbetriq co.-2ah"
+  ],
+  "id_cl": "CL_010",
+  "id_sc": "SC_010_05",
+  "actif": true
+},
   {
     "id_rx": "RX_289",
     "molecule": "Tamoxifène",
@@ -4373,5 +4341,15 @@
     "id_cl": "CL_024",
     "id_sc": "SC_024_01",
     "actif": true
-  }
+  },{
+  "id_rx": "RX_313",
+  "nom_commercial": "Actonel",
+  "molecule": "risedronate",
+  "id_cl": "CL_032",
+  "id_sc": "SC_032_01",
+  "alias_ocr": [
+    "actonel",
+    "actonell"
+  ]
+}
 ]
