@@ -37,6 +37,9 @@
     "apixabanal1astypiques",
     "apixabanalastypiques",
     "apixabanalia5typiques",
+    "apixabanaliastpiques",
+    "apixabanaliastyiques",
+    "apixabanaliasypiques",
     "apixabanaliatypiques",
     "apixabanalistypiques",
     "apixabanallastypiques",
@@ -1690,7 +1693,8 @@
     "metformine",
     "metformin",
     "metformin xr",
-    "metformin er"
+    "metformin er",
+    "metfornin"
   ],
   "RX_043": [
     "apo diamicron",
@@ -2270,6 +2274,16 @@
     "furosemideorthograpealternative",
     "furosemideorthographalternative",
     "furosemideorthographcalternative",
+    "furosemideorthographea1ternative",
+    "furosemideorthographeaiternative",
+    "furosemideorthographealernative",
+    "furosemideorthographealtcrnative",
+    "furosemideorthographealtenative",
+    "furosemideorthographealterative",
+    "furosemideorthographealternaive",
+    "furosemideorthographealternat1ve",
+    "furosemideorthographealternatie",
+    "furosemideorthographealternativc",
     "lasix"
   ],
   "RX_058": [
@@ -10320,7 +10334,8 @@
     "jamp magnesium 500mg",
     "jamp-magnesium",
     "maglucate 500mg",
-    "maglucate 500 mg"
+    "maglucate 500 mg",
+    "magnesium"
   ],
   "RX_274": [
     "sulfate ferreux",
@@ -10371,7 +10386,8 @@
     "option+ melatonin 5mg",
     "option melatonin 5 mg",
     "melatonin 5mg",
-    "melatonine 5mg"
+    "melatonine 5mg",
+    "melatonine"
   ],
   "RX_278": [
     "methylphenidate",
