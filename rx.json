@@ -4364,5 +4364,22 @@
   "id_cl": "CL_032",
   "id_sc": "SC_032_01",
   "actif": true
+},
+{
+  "id_rx": "RX_314",
+  "molecule": "Méthotrexate",
+  "noms_commerciaux": [
+    "Methotrexate"
+  ],
+  "alias_ocr": [
+    "Methotrexate",
+    "Méthotrexate",
+    "methotrexate",
+    "méthotrexate",
+    "MTX"
+  ],
+  "id_cl": "CL_021",
+  "id_sc": "SC_021_03",
+  "actif": true
 }
 ]

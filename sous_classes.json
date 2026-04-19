@@ -2423,6 +2423,44 @@
     "impact_niveau": "FAIBLE"
   },
   {
+  "id_sc": "SC_021_03",
+  "nom_sc": "Immunomodulateurs systémiques non biologiques",
+  "id_cl_parent": "CL_021",
+  "raison_terrain": "Immunosuppression contextuelle → vigilance infection/sepsis; impact préhospitalier généralement faible hors tableau infectieux ou toxicité",
+  "utilisation_courante": [
+    "Polyarthrite rhumatoïde",
+    "Maladie auto-immune",
+    "Immunomodulation"
+  ],
+  "facteurs_risque": [
+    "Immunosuppression",
+    "Infection sévère / sepsis",
+    "Atteinte hépatique ou hématologique (contexte)",
+    "Omission ou prise hebdomadaire à clarifier"
+  ],
+  "questions_flash": [
+    "Méthotrexate ou autre immunomodulateur ?",
+    "Fièvre ou signes infectieux ?",
+    "Dernière prise ? schéma hebdomadaire ?"
+  ],
+  "reflexes_terrain": [
+    "Considérer terrain immunosupprimé si infection suspectée",
+    "Ne pas surinterpréter hors contexte clinique",
+    "Transmettre clairement l’agent et le schéma si pertinent"
+  ],
+  "grille": {
+    "criteres": {
+      "c1_risque_vital_aigu": false,
+      "c2_impact_protocoles": false,
+      "c3_rapidite_degradation": true,
+      "c4_homogeneite_reflexes": false
+    },
+    "nb_criteres": 1
+  },
+  "actif": true,
+  "impact_niveau": "FAIBLE"
+},
+  {
     "id_sc": "SC_022_01",
     "nom_sc": "Myorelaxants / relaxants musculaires",
     "id_cl_parent": "CL_022",
