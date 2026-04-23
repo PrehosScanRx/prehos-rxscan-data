@@ -3,7 +3,7 @@
     "id_sc": "SC_001_01",
     "nom_sc": "Anticoagulants oraux (AOD + AVK)",
     "id_cl_parent": "CL_001",
-    "raison_terrain": "Tout trauma/chute/saignement sous anticoagulant oral (AOD ou AVK) = risque hémorragique majeur (ex: HIC) Vigilance neuro + transport/triage adapté → surveiller étroitement et adapter prise en charge",
+    "raison_terrain": "Tout trauma/chute/saignement sous anticoagulant oral (AOD / AVK) = risque hémorragique majeur",
     "utilisation_courante": [
       "Prévention AVC (fibrillation auriculaire)",
       "Traitement / prévention TVP et EP",
