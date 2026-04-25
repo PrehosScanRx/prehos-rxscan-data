@@ -4381,5 +4381,24 @@
   "id_cl": "CL_021",
   "id_sc": "SC_021_03",
   "actif": true
+},
+{
+  "id_rx": "RX_315",
+  "molecule": "Acide folique",
+  "noms_commerciaux": [
+    "JAMP Acide folique"
+  ],
+  "alias_ocr": [
+    "Acide folique",
+    "Folic acid",
+    "Folate",
+    "JAMP ACIDE FOLIQUE",
+    "JAMP ACIDE FOLIQUE 5 MG",
+    "ACIDE FOLIQUE 5 MG",
+    "Ac folique"
+  ],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
 }
 ]
