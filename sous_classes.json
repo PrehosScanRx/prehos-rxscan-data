@@ -3129,5 +3129,41 @@
     },
     "actif": true,
     "impact_niveau": "MODERE"
-  }
+  },
+{
+  "id_sc": "SC_036_01",
+  "nom_sc": "Antiglaucomateux ophtalmiques",
+  "id_cl_parent": "CL_036",
+  "raison_terrain": "Impact aigu généralement faible; surtout marqueur de glaucome ou d’atteinte visuelle. Attention au risque de chute et aux effets systémiques possibles avec certains collyres.",
+  "utilisation_courante": [
+    "Glaucome",
+    "Hypertension intraoculaire"
+  ],
+  "facteurs_risque": [
+    "Vision réduite / risque de chute",
+    "Bêtabloquant ophtalmique associé",
+    "Bradycardie/hypotension possible avec timolol ophtalmique"
+  ],
+  "questions_flash": [
+    "Glaucome connu ?",
+    "Vision diminuée ou chute récente ?",
+    "Autres gouttes ophtalmiques, surtout timolol ?"
+  ],
+  "reflexes_terrain": [
+    "Ne pas surinterpréter le collyre seul",
+    "Considérer le risque de chute ou désorientation",
+    "Surveiller FC/PA si timolol ophtalmique présent"
+  ],
+  "grille": {
+    "criteres": {
+      "c1_risque_vital_aigu": false,
+      "c2_impact_protocoles": false,
+      "c3_rapidite_degradation": false,
+      "c4_homogeneite_reflexes": false
+    },
+    "nb_criteres": 0
+  },
+  "actif": true,
+  "impact_niveau": "FAIBLE"
+}
 ]

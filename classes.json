@@ -565,14 +565,13 @@
   },
   {
     "id_cl": "CL_033",
-    "nom_cl": "Urologie / vessie hyperactive et symptomatiques urinaires",
+    "nom_cl": "Vessie hyperactive / symptomatiques urinaires",
     "regle_generale": "Impact préhospitalier généralement faible. Ces médicaments servent surtout de marqueurs d’un contexte urinaire symptomatique; les anticholinergiques vésicaux et agonistes bêta-3 peuvent contribuer à rétention urinaire, confusion ou chute chez le patient fragile.",
     "facteurs_risque_transversaux": [
       "Douleur urinaire ou dysurie",
       "Rétention urinaire (contexte)",
       "Confusion chez sujet âgé",
       "Fièvre ou infection urinaire suspectée",
-      "Rétention urinaire",
       "Effets anticholinergiques / confusion (sujet âgé)",
       "Chute ou altération fonctionnelle"
     ],
@@ -613,5 +612,19 @@
       "SC_035_01"
     ],
     "actif": true
-  }
+  },
+{
+  "id_cl": "CL_036",
+  "nom_cl": "Médicaments ophtalmiques",
+  "regle_generale": "Impact préhospitalier généralement faible. Ces médicaments servent surtout de marqueurs de glaucome, atteinte visuelle ou traitement ophtalmique chronique.",
+  "facteurs_risque_transversaux": [
+    "Vision réduite / risque de chute",
+    "Glaucome connu",
+    "Bêtabloquants ophtalmiques pouvant avoir effets systémiques"
+  ],
+  "sous_classes_ids": [
+    "SC_036_01"
+  ],
+  "actif": true
+}
 ]

@@ -2691,7 +2691,7 @@
       "olmesartan hctz co"
     ],
     "id_cl": "CL_007",
-    "id_sc": "SC_007_01",
+    "id_sc": "SC_007_02",
     "actif": true
   },
   {
@@ -4098,8 +4098,8 @@
       "solifenacin succinate",
       "vesicare"
     ],
-    "id_cl": "CL_010",
-    "id_sc": "SC_010_05",
+    "id_cl": "CL_033",
+    "id_sc": "SC_033_01",
     "actif": true
   },
   {
@@ -4119,8 +4119,8 @@
       "myrbetriq co.-24h",
       "myrbetriq co.-2ah"
     ],
-    "id_cl": "CL_010",
-    "id_sc": "SC_010_05",
+    "id_cl": "CL_033",
+    "id_sc": "SC_033_01",
     "actif": true
   },
   {
@@ -4235,25 +4235,6 @@
     "actif": true
   },
   {
-    "id_rx": "RX_305",
-    "molecule": "Tamsulosin",
-    "noms_commerciaux": [
-      "Flomax"
-    ],
-    "alias_ocr": [
-      "tamsulosin",
-      "tamsulosine",
-      "flomax",
-      "tamsulosin hcl",
-      "apo tamsulosin",
-      "teva tamsulosin",
-      "sandoz tamsulosin"
-    ],
-    "id_cl": "CL_007",
-    "id_sc": "SC_007_06",
-    "actif": true
-  },
-  {
     "id_rx": "RX_306",
     "molecule": "Doxazosin",
     "noms_commerciaux": [
@@ -4351,20 +4332,6 @@
     "id_sc": "SC_024_01",
     "actif": true
   },
- {
-  "id_rx": "RX_313",
-  "molecule": "Risedronate",
-  "noms_commerciaux": [
-    "Actonel"
-  ],
-  "alias_ocr": [
-    "actonel",
-    "actonell"
-  ],
-  "id_cl": "CL_032",
-  "id_sc": "SC_032_01",
-  "actif": true
-},
 {
   "id_rx": "RX_314",
   "molecule": "Méthotrexate",
@@ -4399,6 +4366,120 @@
   ],
   "id_cl": "CL_030",
   "id_sc": "SC_030_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_316",
+  "molecule": "Nitrofurantoïne",
+  "noms_commerciaux": ["Macrobid", "Macrodantin"],
+  "alias_ocr": ["Nitrofurantoin", "Nitrofurantoine", "Macrobid", "Macrodantin"],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_02",
+  "actif": true
+},
+{
+  "id_rx": "RX_317",
+  "molecule": "Fosfomycine",
+  "noms_commerciaux": ["Monurol"],
+  "alias_ocr": ["Fosfomycin", "Fosfomycine", "Monurol"],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_02",
+  "actif": true
+},
+{
+  "id_rx": "RX_318",
+  "molecule": "Oxybutynine",
+  "noms_commerciaux": ["Ditropan"],
+  "alias_ocr": ["Oxybutynin", "Oxybutynine", "Ditropan", "Apo Oxybutynin", "Teva Oxybutynin"],
+  "id_cl": "CL_033",
+  "id_sc": "SC_033_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_319",
+  "molecule": "Topiramate",
+  "noms_commerciaux": ["Topamax"],
+  "alias_ocr": ["Topiramate", "Topamax", "Apo Topiramate", "Teva Topiramate", "Sandoz Topiramate"],
+  "id_cl": "CL_017",
+  "id_sc": "SC_017_02",
+  "actif": true
+},
+{
+  "id_rx": "RX_320",
+  "molecule": "Carbamazépine",
+  "noms_commerciaux": ["Tegretol"],
+  "alias_ocr": ["Carbamazepine", "Carbamazépine", "Tegretol", "Tegretol CR"],
+  "id_cl": "CL_017",
+  "id_sc": "SC_017_02",
+  "actif": true
+},
+{
+  "id_rx": "RX_321",
+  "molecule": "Clozapine",
+  "noms_commerciaux": ["Clozaril"],
+  "alias_ocr": ["Clozapine", "Clozaril"],
+  "id_cl": "CL_006",
+  "id_sc": "SC_006_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_322",
+  "molecule": "Palipéridone",
+  "noms_commerciaux": ["Invega"],
+  "alias_ocr": ["Paliperidone", "Palipéridone", "Invega", "Invega Sustenna", "Invega Trinza"],
+  "id_cl": "CL_006",
+  "id_sc": "SC_006_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_323",
+  "molecule": "Tirzepatide",
+  "noms_commerciaux": ["Mounjaro"],
+  "alias_ocr": ["Tirzepatide", "Mounjaro"],
+  "id_cl": "CL_008",
+  "id_sc": "SC_008_05",
+  "actif": true
+},
+{
+  "id_rx": "RX_324",
+  "molecule": "Dextroamphétamine",
+  "noms_commerciaux": ["Dexedrine"],
+  "alias_ocr": ["Dextroamphetamine", "Dextroamphétamine", "Dexedrine", "Dexedrine Spansule"],
+  "id_cl": "CL_024",
+  "id_sc": "SC_024_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_325",
+  "molecule": "Sels mixtes d'amphétamines",
+  "noms_commerciaux": ["Adderall XR"],
+  "alias_ocr": ["Adderall", "Adderall XR", "Mixed amphetamine salts", "Amphetamine salts"],
+  "id_cl": "CL_024",
+  "id_sc": "SC_024_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_326",
+  "molecule": "Timolol ophtalmique",
+  "noms_commerciaux": ["Timoptic"],
+  "alias_ocr": ["Timolol", "Timolol ophthalmic", "Timolol ophtalmique", "Timoptic"],
+  "id_cl": "CL_007",
+  "id_sc": "SC_007_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_327",
+  "molecule": "Latanoprost",
+  "noms_commerciaux": ["Xalatan"],
+  "alias_ocr": [
+    "Latanoprost",
+    "Xalatan",
+    "Apo Latanoprost",
+    "Teva Latanoprost",
+    "Sandoz Latanoprost"
+  ],
+  "id_cl": "CL_036",
+  "id_sc": "SC_036_01",
   "actif": true
 }
 ]

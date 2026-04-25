@@ -70,7 +70,17 @@
   "XL": "Libération prolongée",
   "XR": "Libération prolongée",
   "ER": "Libération prolongée",
-  "TMO": "Trouble musculosquelettique",
+  "TMO": "Trouble minéral et osseux",
   "RAU": "Rétention aiguë urinaire (incapacité d’uriner, vessie pleine douloureuse)",
-  "GV": "Globe vésical (rétention complète avec distension palpable)"
+  "GV": "Globe vésical (rétention complète avec distension palpable)",
+  "AIT": "Accident ischémique transitoire",
+  "DKA": "Acidocétose diabétique",
+  "HHS": "Syndrome hyperosmolaire hyperglycémique",
+  "VNI": "Ventilation non invasive",
+  "EPO": "Érythropoïétine",
+  "Ca": "Calcium",
+  "P": "Phosphore",
+  "K+": "Potassium",
+  "PDE5": "Inhibiteur de la phosphodiestérase de type 5",
+  "CKD-MBD": "Trouble minéral et osseux lié à la maladie rénale chronique"
 }
