@@ -9,15 +9,15 @@
   },
   {
     "id_profile": "PROFILE_002",
-    "nom_profile": "Sédation / chute",
-    "slug": "profil_sedation_chute",
+    "nom_profile": "Sédation / risque de chute",
+    "slug": "profil_sedation_risque_chute",
     "categorie": "risque_terrain",
     "actif": true
   },
   {
     "id_profile": "PROFILE_003",
-    "nom_profile": "Insuffisance cardiaque / diurétiques",
-    "slug": "profil_insuffisance_cardiaque_diuretiques",
+    "nom_profile": "Terrain d'insuffisance cardiaque",
+    "slug": "profil_terrain_insuffisance_cardiaque",
     "categorie": "risque_terrain",
     "actif": true
   },
@@ -30,8 +30,8 @@
   },
   {
     "id_profile": "PROFILE_005",
-    "nom_profile": "Antécédents cardiaques probables",
-    "slug": "profil_cardio_contexte",
+    "nom_profile": "Terrain cardiovasculaire",
+    "slug": "profil_terrain_cardiovasculaire",
     "categorie": "profil_chronique",
     "actif": true
   },
