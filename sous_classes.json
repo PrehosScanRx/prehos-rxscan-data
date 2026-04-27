@@ -47,7 +47,7 @@
     "id_cl_parent": "CL_002",
     "raison_terrain": "ASA seul : risque hémorragique généralement faible. Attention surtout si trauma/saignement actif ou combinaison (DAPT/anticoagulant).",
     "utilisation_courante": [
-      "Prévention CV",
+      "Prévention cardiovasculaire",
       "Post-AVC / post-IM"
     ],
     "facteurs_risque": [
@@ -1413,7 +1413,7 @@
     },
     "actif": true,
     "utilisation_courante": [
-      "IC / hyperaldostéronisme",
+      "IC / surcharge",
       "Épargne potassique"
     ],
     "facteurs_risque": [
@@ -1473,7 +1473,7 @@
     "raison_terrain": "Impact généralement faible; surtout indicateur de terrain cardiovasculaire.",
     "utilisation_courante": [
       "Dyslipidémie",
-      "Prévention CV"
+      "Prévention cardiovasculaire"
     ],
     "facteurs_risque": [
       "Polypharmacie / interactions (contexte)",
