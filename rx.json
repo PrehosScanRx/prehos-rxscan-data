@@ -4481,5 +4481,26 @@
   "id_cl": "CL_036",
   "id_sc": "SC_036_01",
   "actif": true
+},
+{
+  "id_rx": "RX_328",
+  "molecule": "Valacyclovir",
+  "noms_commerciaux": [
+    "Valtrex"
+  ],
+  "alias_ocr": [
+    "Valaciclovir",
+    "Valacyclovir Teva",
+    "Valacyclovir Sandoz",
+    "Valacyclovir Apotex",
+    "Apo Valacyclovir",
+    "Sivem Valacyclovir",
+    "Sivem-Valacyclovir",
+    "Valtrex 500",
+    "Valtrex 500 mg"
+  ],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_04",
+  "actif": true
 }
 ]

@@ -1668,6 +1668,46 @@
     "impact_niveau": "FAIBLE"
   },
   {
+  "id_sc": "SC_015_04",
+  "nom_sc": "Antiviraux oraux",
+  "id_cl_parent": "CL_015",
+  "raison_terrain": "Impact préhospitalier généralement faible; sert surtout de marqueur d’infection virale traitée, avec vigilance si immunosuppression, atteinte rénale ou altération de l’état général.",
+  "utilisation_courante": [
+    "Herpès",
+    "Zona",
+    "Infection virale traitée"
+  ],
+  "facteurs_risque": [
+    "Immunosuppression",
+    "Insuffisance rénale",
+    "Déshydratation",
+    "Altération de l’état général",
+    "Confusion chez patient âgé ou fragile"
+  ],
+  "questions_flash": [
+    "Zona ou herpès actif ?",
+    "Immunosuppression connue ?",
+    "Fièvre, confusion ou atteinte générale ?",
+    "Insuffisance rénale connue ?"
+  ],
+  "reflexes_terrain": [
+    "Ne pas surinterpréter l’antiviral seul",
+    "Priorité au tableau clinique infectieux ou neurologique",
+    "Transmettre le contexte immunosuppression / zona si pertinent"
+  ],
+  "grille": {
+    "criteres": {
+      "c1_risque_vital_aigu": false,
+      "c2_impact_protocoles": false,
+      "c3_rapidite_degradation": false,
+      "c4_homogeneite_reflexes": false
+    },
+    "nb_criteres": 0
+  },
+  "actif": true,
+  "impact_niveau": "FAIBLE"
+},
+  {
     "id_sc": "SC_016_01",
     "nom_sc": "Antiangineux (nitrates et vasodilatateurs coronariens)",
     "id_cl_parent": "CL_016",
