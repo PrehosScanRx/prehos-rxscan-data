@@ -1673,8 +1673,6 @@
   "id_cl_parent": "CL_015",
   "raison_terrain": "Impact préhospitalier généralement faible; sert surtout de marqueur d’infection virale traitée, avec vigilance si immunosuppression, atteinte rénale ou altération de l’état général.",
   "utilisation_courante": [
-    "Herpès",
-    "Zona",
     "Infection virale traitée"
   ],
   "facteurs_risque": [
