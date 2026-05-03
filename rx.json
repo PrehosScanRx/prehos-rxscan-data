@@ -3258,8 +3258,8 @@
       "phenazopyridine 100",
       "phenazopyridine 200"
     ],
-    "id_cl": "CL_019",
-    "id_sc": "SC_019_06",
+    "id_cl": "CL_033",
+    "id_sc": "SC_033_01",
     "actif": true
   },
   {
@@ -4502,5 +4502,332 @@
   "id_cl": "CL_015",
   "id_sc": "SC_015_04",
   "actif": true
+},
+{
+  "id_rx": "RX_329",
+  "molecule": "Acyclovir",
+  "noms_commerciaux": [
+    "Zovirax"
+  ],
+  "alias_ocr": [
+    "Aciclovir",
+    "Acyclovir Teva",
+    "Acyclovir Sandoz",
+    "Acyclovir Apotex",
+    "Apo Acyclovir",
+    "Zovirax 200",
+    "Zovirax 400",
+    "Zovirax 800"
+  ],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_04",
+  "actif": true
+},
+{
+  "id_rx": "RX_330",
+  "molecule": "Moxifloxacine",
+  "noms_commerciaux": [
+    "Avelox"
+  ],
+  "alias_ocr": [
+    "Moxifloxacin",
+    "Avelox",
+    "Moxifloxacine Teva",
+    "Moxifloxacine Sandoz",
+    "Apo Moxifloxacine",
+    "Moxifloxacin Teva",
+    "Moxifloxacin Sandoz"
+  ],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_02",
+  "actif": true
+},
+{
+  "id_rx": "RX_331",
+  "molecule": "Fluconazole",
+  "noms_commerciaux": [
+    "Diflucan"
+  ],
+  "alias_ocr": [
+    "Diflucan",
+    "Fluconazole Teva",
+    "Fluconazole Sandoz",
+    "Fluconazole Apotex",
+    "Apo Fluconazole"
+  ],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_05",
+  "actif": true
+},
+{
+  "id_rx": "RX_332",
+  "molecule": "Nystatine",
+  "noms_commerciaux": [
+    "Nilstat"
+  ],
+  "alias_ocr": [
+    "Nystatin",
+    "Nilstat",
+    "Nystatine orale",
+    "Nystatin oral"
+  ],
+  "id_cl": "CL_015",
+  "id_sc": "SC_015_05",
+  "actif": true
+},
+{
+    "id_rx": "RX_333",
+    "molecule": "Clobazam",
+    "noms_commerciaux": ["Frisium"],
+    "alias_ocr": [
+      "Apo Clobazam",
+      "Clobazam Teva",
+      "Clobazam Sandoz",
+      "Frisium"
+    ],
+    "id_cl": "CL_004",
+    "id_sc": "SC_004_01",
+    "actif": true
+},
+{
+    "id_rx": "RX_334",
+    "molecule": "Oxcarbazépine",
+    "noms_commerciaux": ["Trileptal"],
+    "alias_ocr": [
+      "Oxcarbazepine",
+      "Apo Oxcarbazepine",
+      "Oxcarbazepine Teva",
+      "Oxcarbazepine Sandoz",
+      "Trileptal"
+    ],
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_335",
+    "molecule": "Clomipramine",
+    "noms_commerciaux": ["Anafranil"],
+    "alias_ocr": [
+      "Apo Clomipramine",
+      "Clomipramine Teva",
+      "Clomipramine Sandoz",
+      "Anafranil"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_336",
+    "molecule": "Doxépine",
+    "noms_commerciaux": ["Sinequan"],
+    "alias_ocr": [
+      "Doxepin",
+      "Apo Doxepin",
+      "Doxepin Teva",
+      "Doxepin Sandoz",
+      "Sinequan"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_337",
+    "molecule": "Moclobémide",
+    "noms_commerciaux": ["Manerix"],
+    "alias_ocr": [
+      "Moclobemide",
+      "Apo Moclobemide",
+      "Moclobemide Teva",
+      "Moclobemide Sandoz",
+      "Manerix"
+    ],
+    "id_cl": "CL_005",
+    "id_sc": "SC_005_05",
+    "actif": true
+},
+{
+    "id_rx": "RX_338",
+    "molecule": "Prazosine",
+    "noms_commerciaux": ["Minipress"],
+    "alias_ocr": [
+      "Prazosin",
+      "Apo Prazosin",
+      "Prazosin Teva",
+      "Prazosin Sandoz",
+      "Minipress"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_06",
+    "actif": true
+},
+{
+    "id_rx": "RX_339",
+    "molecule": "Fosinopril",
+    "noms_commerciaux": ["Monopril"],
+    "alias_ocr": [
+      "Apo Fosinopril",
+      "Fosinopril Teva",
+      "Fosinopril Sandoz",
+      "Monopril"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_340",
+    "molecule": "Trandolapril",
+    "noms_commerciaux": ["Mavik"],
+    "alias_ocr": [
+      "Apo Trandolapril",
+      "Trandolapril Teva",
+      "Trandolapril Sandoz",
+      "Mavik"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_341",
+    "molecule": "Lactulose",
+    "noms_commerciaux": ["Lactulose"],
+    "alias_ocr": [
+      "lactulose",
+      "lactul0se",
+      "lactulsoe",
+      "lactuose",
+      "lactulose sirop"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_04",
+    "actif": true
+},
+{
+    "id_rx": "RX_342",
+    "molecule": "Docusate",
+    "noms_commerciaux": ["Colace"],
+    "alias_ocr": [
+      "docusate",
+      "docu5ate",
+      "docusat",
+      "colace",
+      "apo docusate"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_04",
+    "actif": true
+},
+{
+    "id_rx": "RX_343",
+    "molecule": "Dimenhydrinate",
+    "noms_commerciaux": ["Gravol"],
+    "alias_ocr": [
+      "dimenhydrinate",
+      "dimenidrynate",
+      "dimenhydr1nate",
+      "gravol",
+      "grav0l",
+      "apo gravol"
+    ],
+    "id_cl": "CL_026",
+    "id_sc": "SC_026_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_344",
+    "molecule": "Domperidone",
+    "noms_commerciaux": ["Motilium"],
+    "alias_ocr": [
+      "domperidone",
+      "domperid0ne",
+      "domperidne",
+      "motilium",
+      "apo domperidone"
+    ],
+    "id_cl": "CL_026",
+    "id_sc": "SC_026_02",
+    "actif": true
+},
+{
+    "id_rx": "RX_345",
+    "molecule": "Azathioprine",
+    "noms_commerciaux": ["Imuran"],
+    "alias_ocr": [
+      "azathioprine",
+      "azathi0prine",
+      "azathioprin",
+      "imuran",
+      "apo azathioprine"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_03",
+    "actif": true
+},
+{
+    "id_rx": "RX_346",
+    "molecule": "Mycophenolate",
+    "noms_commerciaux": ["CellCept"],
+    "alias_ocr": [
+      "mycophenolate",
+      "mycophénolate",
+      "mycophenolat",
+      "cellcept",
+      "cell cept",
+      "apo mycophenolate"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_03",
+    "actif": true
+},
+{
+    "id_rx": "RX_347",
+    "molecule": "Tacrolimus",
+    "noms_commerciaux": ["Prograf"],
+    "alias_ocr": [
+      "tacrolimus",
+      "tacroIimus",
+      "tacrolimus teva",
+      "prograf",
+      "apo tacrolimus"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_03",
+    "actif": true
+},
+{
+    "id_rx": "RX_348",
+    "molecule": "Hydroxychloroquine",
+    "noms_commerciaux": ["Plaquenil"],
+    "alias_ocr": [
+      "hydroxychloroquine",
+      "hydroxychloroquin",
+      "hydroxychl0roquine",
+      "plaquenil",
+      "apo hydroxychloroquine"
+    ],
+    "id_cl": "CL_021",
+    "id_sc": "SC_021_03",
+    "actif": true
+},
+{
+    "id_rx": "RX_349",
+    "molecule": "Acide ascorbique",
+    "noms_commerciaux": ["Vitamin C"],
+    "alias_ocr": [
+      "vitamin c",
+      "vit c",
+      "ascorbic acid",
+      "acide ascorbique",
+      "vitamine c"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
 }
 ]
+
+

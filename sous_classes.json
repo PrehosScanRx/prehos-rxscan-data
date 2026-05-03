@@ -39,7 +39,8 @@
       "nb_criteres": 4
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Risque hémorragique majeur"
   },
   {
     "id_sc": "SC_002_01",
@@ -75,7 +76,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Risque saignement contextuel"
   },
   {
     "id_sc": "SC_002_02",
@@ -111,7 +113,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Post-stent / DAPT possible"
   },
   {
     "id_sc": "SC_003_01",
@@ -148,7 +151,8 @@
       "nb_criteres": 4
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Dépresseur respiratoire"
   },
   {
     "id_sc": "SC_003_02",
@@ -188,7 +192,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Dépresseur SNC / convulsions possibles"
   },
   {
     "id_sc": "SC_003_03",
@@ -224,7 +229,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "TAO / trouble lié aux opioïdes"
   },
   {
     "id_sc": "SC_003_04",
@@ -260,7 +266,8 @@
       "nb_criteres": 4
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Surdose opioïde probable"
   },
   {
     "id_sc": "SC_004_01",
@@ -298,7 +305,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Sédation / chute / dépresseur SNC"
   },
   {
     "id_sc": "SC_004_02",
@@ -333,7 +341,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Chute nocturne / confusion"
   },
   {
     "id_sc": "SC_005_01",
@@ -403,7 +412,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Intox cardio-neuro à surveiller"
   },
   {
     "id_sc": "SC_005_03",
@@ -438,7 +448,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Sédation / chute"
   },
   {
     "id_sc": "SC_005_04",
@@ -475,7 +486,43 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Convulsions si surdose"
+  },
+  {
+    "id_sc": "SC_005_05",
+    "nom_sc": "IMAO / antidépresseurs inhibiteurs de la MAO",
+    "id_cl_parent": "CL_005",
+    "raison_terrain": "Impact préhospitalier généralement faible; pertinent surtout en contexte d’intoxication ou interactions.",
+    "utilisation_courante": [
+      "Dépression"
+    ],
+    "facteurs_risque": [
+      "Interactions médicamenteuses",
+      "Instabilité tensionnelle",
+      "Agitation",
+      "Surdosage"
+    ],
+    "questions_flash": [
+      "Surdosage possible ?",
+      "Autres psychotropes associés ?",
+      "HTA ou agitation ?"
+    ],
+    "reflexes_terrain": [
+      "Priorité au tableau clinique",
+      "Vigilance intoxication/polypharmacie"
+    ],
+    "grille": {
+      "criteres": {
+        "c1_risque_vital_aigu": false,
+        "c2_impact_protocoles": false,
+        "c3_rapidite_degradation": false,
+        "c4_homogeneite_reflexes": false
+      },
+      "nb_criteres": 0
+    },
+    "actif": true,
+    "impact_niveau": "FAIBLE"
   },
   {
     "id_sc": "SC_006_01",
@@ -511,7 +558,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Sédation / hypotension / QT"
   },
   {
     "id_sc": "SC_006_02",
@@ -581,7 +629,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Cardiaque / bradycardie"
   },
   {
     "id_sc": "SC_007_02",
@@ -616,7 +665,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "HTA-IC / rein / potassium"
   },
   {
     "id_sc": "SC_007_03",
@@ -649,7 +699,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Hypotension / chute"
   },
   {
     "id_sc": "SC_007_04",
@@ -684,7 +735,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Brady-bloc AV / hypotension"
   },
   {
     "id_sc": "SC_007_05",
@@ -823,7 +875,8 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Diabétique avec risque hypo"
   },
   {
     "id_sc": "SC_008_02",
@@ -856,7 +909,8 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Diabétique insulinotraité"
   },
   {
     "id_sc": "SC_008_03",
@@ -916,7 +970,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Diabétique type 2"
   },
   {
     "id_sc": "SC_008_05",
@@ -976,7 +1031,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Diabétique / déshydratation-acidose rare"
   },
   {
     "id_sc": "SC_008_07",
@@ -1105,7 +1161,8 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Arythmie connue / monitoring"
   },
   {
     "id_sc": "SC_010_02",
@@ -1141,7 +1198,8 @@
       "nb_criteres": 3
     },
     "actif": true,
-    "impact_niveau": "MAJEUR"
+    "impact_niveau": "MAJEUR",
+    "marqueur_terrain": "Cardiaque fragile / toxicité possible"
   },
   {
     "id_sc": "SC_011_01",
@@ -1160,7 +1218,8 @@
     "actif": true,
     "utilisation_courante": [
       "Asthme / BPCO",
-      "Dyspnée"
+      "Dyspnée",
+      "Soulagement bronchospasme"
     ],
     "facteurs_risque": [
       "Tachycardie / palpitations",
@@ -1178,7 +1237,8 @@
       "Ne pas banaliser un besoin répété de PRN",
       "Transmettre le nombre de prises récentes si connu"
     ],
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Terrain respiratoire / inhalateur secours"
   },
   {
     "id_sc": "SC_011_02",
@@ -1286,7 +1346,8 @@
       "Chercher l’inhalateur de secours associé",
       "Évaluer la gravité clinique actuelle indépendamment de la maintenance"
     ],
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Terrain respiratoire chronique"
   },
   {
     "id_sc": "SC_011_05",
@@ -1359,7 +1420,8 @@
       "Surveiller TA, signes de choc ou d’œdème pulmonaire",
       "Transmettre le contexte d’insuffisance cardiaque/rénale"
     ],
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "IC / volume / déshydratation"
   },
   {
     "id_sc": "SC_012_02",
@@ -1432,7 +1494,8 @@
       "Considérer ECG précoce si tableau évocateur",
       "Transmettre les associations à risque (spirono + IEC/ARA/KCl)"
     ],
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "IC / risque potassium"
   },
   {
     "id_sc": "SC_013_01",
@@ -1440,7 +1503,7 @@
     "id_cl_parent": "CL_013",
     "raison_terrain": "Impact généralement faible; surtout indicateur de terrain cardiovasculaire.",
     "utilisation_courante": [
-      "Prévention protection cardiovasculaire"
+      "Prévention cardiovasculaire"
     ],
     "facteurs_risque": [
       "Polypharmacie / interactions (contexte)",
@@ -1464,7 +1527,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Risque cardiovasculaire"
   },
   {
     "id_sc": "SC_013_02",
@@ -1496,7 +1560,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Risque cardiovasculaire"
   },
   {
     "id_sc": "SC_014_01",
@@ -1539,7 +1604,7 @@
     "id_cl_parent": "CL_014",
     "raison_terrain": "Impact généralement faible; attention au contexte déshydratation ou troubles GI.",
     "utilisation_courante": [
-      "Goutte"
+      "Goutte / crise inflammatoire articulaire"
     ],
     "facteurs_risque": [
       "Troubles GI importants (colchicine)",
@@ -1598,7 +1663,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Infection traitée"
   },
   {
     "id_sc": "SC_015_02",
@@ -1668,43 +1734,80 @@
     "impact_niveau": "FAIBLE"
   },
   {
-  "id_sc": "SC_015_04",
-  "nom_sc": "Antiviraux oraux",
-  "id_cl_parent": "CL_015",
-  "raison_terrain": "Impact préhospitalier généralement faible; sert surtout de marqueur d’infection virale traitée, avec vigilance si immunosuppression, atteinte rénale ou altération de l’état général.",
-  "utilisation_courante": [
-    "Infection virale traitée"
-  ],
-  "facteurs_risque": [
-    "Immunosuppression",
-    "Insuffisance rénale",
-    "Déshydratation",
-    "Altération de l’état général",
-    "Confusion chez patient âgé ou fragile"
-  ],
-  "questions_flash": [
-    "Zona ou herpès actif ?",
-    "Immunosuppression connue ?",
-    "Fièvre, confusion ou atteinte générale ?",
-    "Insuffisance rénale connue ?"
-  ],
-  "reflexes_terrain": [
-    "Ne pas surinterpréter l’antiviral seul",
-    "Priorité au tableau clinique infectieux ou neurologique",
-    "Transmettre le contexte immunosuppression / zona si pertinent"
-  ],
-  "grille": {
-    "criteres": {
-      "c1_risque_vital_aigu": false,
-      "c2_impact_protocoles": false,
-      "c3_rapidite_degradation": false,
-      "c4_homogeneite_reflexes": false
+    "id_sc": "SC_015_04",
+    "nom_sc": "Antiviraux oraux",
+    "id_cl_parent": "CL_015",
+    "raison_terrain": "Impact préhospitalier généralement faible; sert surtout de marqueur d’infection virale traitée, avec vigilance si immunosuppression, atteinte rénale ou altération de l’état général.",
+    "utilisation_courante": [
+      "Infection virale traitée"
+    ],
+    "facteurs_risque": [
+      "Immunosuppression",
+      "Insuffisance rénale",
+      "Déshydratation",
+      "Altération de l’état général",
+      "Confusion chez patient âgé ou fragile"
+    ],
+    "questions_flash": [
+      "Zona ou herpès actif ?",
+      "Immunosuppression connue ?",
+      "Fièvre, confusion ou atteinte générale ?",
+      "Insuffisance rénale connue ?"
+    ],
+    "reflexes_terrain": [
+      "Ne pas surinterpréter l’antiviral seul",
+      "Priorité au tableau clinique infectieux ou neurologique",
+      "Transmettre le contexte immunosuppression / zona si pertinent"
+    ],
+    "grille": {
+      "criteres": {
+        "c1_risque_vital_aigu": false,
+        "c2_impact_protocoles": false,
+        "c3_rapidite_degradation": false,
+        "c4_homogeneite_reflexes": false
+      },
+      "nb_criteres": 0
     },
-    "nb_criteres": 0
+    "actif": true,
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Infection virale traitée"
   },
-  "actif": true,
-  "impact_niveau": "FAIBLE"
-},
+  {
+    "id_sc": "SC_015_05",
+    "nom_sc": "Antifongiques oraux",
+    "id_cl_parent": "CL_015",
+    "raison_terrain": "Impact préhospitalier généralement faible; sert surtout de marqueur d’infection fongique traitée, avec vigilance si immunosuppression ou atteinte générale.",
+    "utilisation_courante": [
+      "Candidose",
+      "Infection fongique traitée"
+    ],
+    "facteurs_risque": [
+      "Immunosuppression",
+      "Infection étendue ou récidivante",
+      "Altération de l’état général"
+    ],
+    "questions_flash": [
+      "Infection locale ou atteinte générale ?",
+      "Immunosuppression connue ?",
+      "Fièvre ou détérioration clinique ?"
+    ],
+    "reflexes_terrain": [
+      "Ne pas surinterpréter l’antifongique seul",
+      "Priorité au tableau clinique",
+      "Transmettre le contexte immunosuppression si pertinent"
+    ],
+    "grille": {
+      "criteres": {
+        "c1_risque_vital_aigu": false,
+        "c2_impact_protocoles": false,
+        "c3_rapidite_degradation": false,
+        "c4_homogeneite_reflexes": false
+      },
+      "nb_criteres": 0
+    },
+    "actif": true,
+    "impact_niveau": "FAIBLE"
+  },
   {
     "id_sc": "SC_016_01",
     "nom_sc": "Antiangineux (nitrates et vasodilatateurs coronariens)",
@@ -1742,7 +1845,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Angine / nitrates / hypotension"
   },
   {
     "id_sc": "SC_016_02",
@@ -1777,7 +1881,8 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Nitrates contre-indiqués"
   },
   {
     "id_sc": "SC_016_03",
@@ -1882,7 +1987,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Terrain convulsif"
   },
   {
     "id_sc": "SC_017_03",
@@ -2125,7 +2231,7 @@
     "raison_terrain": "Sédation/confusion possibles; devient pertinent si altération état mental ou intoxication",
     "utilisation_courante": [
       "Allergies / prurit",
-      "Sommeil"
+      "Insomnie / sédation"
     ],
     "facteurs_risque": [
       "Somnolence",
@@ -2160,7 +2266,7 @@
     "id_cl_parent": "CL_019",
     "raison_terrain": "Impact faible; marqueur de contexte GI ou protection sous médication à risque (AINS/antithrombotiques).",
     "utilisation_courante": [
-      "Protection gastrique"
+      "Reflux / protection gastrique"
     ],
     "facteurs_risque": [
       "Marqueur d'association possible avec AINS / anticoagulants / antiplaquettaires",
@@ -2184,7 +2290,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Contexte GI / protection"
   },
   {
     "id_sc": "SC_019_02",
@@ -2329,7 +2436,7 @@
     "raison_terrain": "Impact faible; marqueur de douleur abdominale fonctionnelle/IBS. Effets anticholinergiques possibles (rare, contexte).",
     "utilisation_courante": [
       "Crampes abdominales",
-      "IBS"
+      "IBS / Côlon irritable"
     ],
     "facteurs_risque": [
       "Effets anticholinergiques (rare, contexte): tachy, confusion, rétention urinaire",
@@ -2426,7 +2533,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Cortico systémique / immunosuppression"
   },
   {
     "id_sc": "SC_021_02",
@@ -2461,43 +2569,44 @@
     "impact_niveau": "FAIBLE"
   },
   {
-  "id_sc": "SC_021_03",
-  "nom_sc": "Immunomodulateurs systémiques non biologiques",
-  "id_cl_parent": "CL_021",
-  "raison_terrain": "Immunosuppression contextuelle → vigilance infection/sepsis; impact préhospitalier généralement faible hors tableau infectieux ou toxicité",
-  "utilisation_courante": [
-    "Polyarthrite rhumatoïde",
-    "Maladie auto-immune",
-    "Immunomodulation"
-  ],
-  "facteurs_risque": [
-    "Immunosuppression",
-    "Infection sévère / sepsis",
-    "Atteinte hépatique ou hématologique (contexte)",
-    "Omission ou prise hebdomadaire à clarifier"
-  ],
-  "questions_flash": [
-    "Méthotrexate ou autre immunomodulateur ?",
-    "Fièvre ou signes infectieux ?",
-    "Dernière prise ? schéma hebdomadaire ?"
-  ],
-  "reflexes_terrain": [
-    "Considérer terrain immunosupprimé si infection suspectée",
-    "Ne pas surinterpréter hors contexte clinique",
-    "Transmettre clairement l’agent et le schéma si pertinent"
-  ],
-  "grille": {
-    "criteres": {
-      "c1_risque_vital_aigu": false,
-      "c2_impact_protocoles": false,
-      "c3_rapidite_degradation": true,
-      "c4_homogeneite_reflexes": false
+    "id_sc": "SC_021_03",
+    "nom_sc": "Immunomodulateurs systémiques non biologiques",
+    "id_cl_parent": "CL_021",
+    "raison_terrain": "Immunosuppression contextuelle → vigilance infection/sepsis; impact préhospitalier généralement faible hors tableau infectieux ou toxicité",
+    "utilisation_courante": [
+      "Polyarthrite rhumatoïde",
+      "Maladie auto-immune",
+      "Immunomodulation"
+    ],
+    "facteurs_risque": [
+      "Immunosuppression",
+      "Infection sévère / sepsis",
+      "Atteinte hépatique ou hématologique (contexte)",
+      "Omission ou prise hebdomadaire à clarifier"
+    ],
+    "questions_flash": [
+      "Méthotrexate ou autre immunomodulateur ?",
+      "Fièvre ou signes infectieux ?",
+      "Dernière prise ? schéma hebdomadaire ?"
+    ],
+    "reflexes_terrain": [
+      "Considérer terrain immunosupprimé si infection suspectée",
+      "Ne pas surinterpréter hors contexte clinique",
+      "Transmettre clairement l’agent et le schéma si pertinent"
+    ],
+    "grille": {
+      "criteres": {
+        "c1_risque_vital_aigu": false,
+        "c2_impact_protocoles": false,
+        "c3_rapidite_degradation": true,
+        "c4_homogeneite_reflexes": false
+      },
+      "nb_criteres": 1
     },
-    "nb_criteres": 1
+    "actif": true,
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Immunosuppression"
   },
-  "actif": true,
-  "impact_niveau": "FAIBLE"
-},
   {
     "id_sc": "SC_022_01",
     "nom_sc": "Myorelaxants / relaxants musculaires",
@@ -2533,7 +2642,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Sédation / chute"
   },
   {
     "id_sc": "SC_023_01",
@@ -2570,7 +2680,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Risque anaphylaxie"
   },
   {
     "id_sc": "SC_024_01",
@@ -2578,7 +2689,7 @@
     "id_cl_parent": "CL_024",
     "raison_terrain": "Marqueur d’un traitement du TDAH; impact terrain généralement faible, mais utile comme contexte neuropsychiatrique et cardiovasculaire.",
     "utilisation_courante": [
-      "TDAH"
+      "TDAH / narcolepsie selon agent"
     ],
     "facteurs_risque": [
       "Tachycardie (contexte)",
@@ -2643,7 +2754,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Lithium / toxicité si déshydratation"
   },
   {
     "id_sc": "SC_026_01",
@@ -2782,7 +2894,8 @@
       "Transmettre terrain rénal et risque électrolytique"
     ],
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "IRC / hyperkaliémie"
   },
   {
     "id_sc": "SC_028_02",
@@ -2818,7 +2931,8 @@
       "nb_criteres": 1
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Dialyse / IRC avancée"
   },
   {
     "id_sc": "SC_028_03",
@@ -2889,7 +3003,8 @@
       "Transmettre les associations à risque et le contexte rénal"
     ],
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Potassium / ECG si symptômes"
   },
   {
     "id_sc": "SC_029_01",
@@ -2925,7 +3040,8 @@
       "Transmettre le terrain urologique et la vulnérabilité orthostatique"
     ],
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "HBP / hypotension orthostatique"
   },
   {
     "id_sc": "SC_030_01",
@@ -2933,8 +3049,7 @@
     "id_cl_parent": "CL_030",
     "raison_terrain": "Impact préhospitalier faible. Information surtout contextuelle.",
     "utilisation_courante": [
-      "Vitamine D / D3",
-      "Vitamine B12"
+      "Vitamines / minéraux / suppléments"
     ],
     "facteurs_risque": [],
     "questions_flash": [],
@@ -2985,7 +3100,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Parkinson / chute"
   },
   {
     "id_sc": "SC_031_02",
@@ -3020,7 +3136,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Fragilité cognitive"
   },
   {
     "id_sc": "SC_032_01",
@@ -3056,7 +3173,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Ostéoporose / fracture"
   },
   {
     "id_sc": "SC_033_01",
@@ -3129,7 +3247,8 @@
       "nb_criteres": 0
     },
     "actif": true,
-    "impact_niveau": "FAIBLE"
+    "impact_niveau": "FAIBLE",
+    "marqueur_terrain": "Terrain oncologique"
   },
   {
     "id_sc": "SC_035_01",
@@ -3137,8 +3256,7 @@
     "id_cl_parent": "CL_035",
     "raison_terrain": "Peut bloquer ou réduire l’effet des opioïdes analgésiques; utile à reconnaître si douleur aiguë ou histoire de TUO/TUA. Impact surtout contextuel, mais important pour interpréter une analgésie inefficace.",
     "utilisation_courante": [
-      "Prévention de rechute alcool",
-      "Prévention de rechute opioïdes"
+      "Prévention rechute alcool/opioïdes"
     ],
     "facteurs_risque": [
       "Douleur aiguë avec opioïdes potentiellement moins efficaces",
@@ -3166,42 +3284,43 @@
       "nb_criteres": 2
     },
     "actif": true,
-    "impact_niveau": "MODERE"
+    "impact_niveau": "MODERE",
+    "marqueur_terrain": "Naltrexone / opioïdes moins efficaces"
   },
-{
-  "id_sc": "SC_036_01",
-  "nom_sc": "Antiglaucomateux ophtalmiques",
-  "id_cl_parent": "CL_036",
-  "raison_terrain": "Impact aigu généralement faible; surtout marqueur de glaucome ou d’atteinte visuelle. Attention au risque de chute et aux effets systémiques possibles avec certains collyres.",
-  "utilisation_courante": [
-    "Glaucome",
-    "Hypertension intraoculaire"
-  ],
-  "facteurs_risque": [
-    "Vision réduite / risque de chute",
-    "Bêtabloquant ophtalmique associé",
-    "Bradycardie/hypotension possible avec timolol ophtalmique"
-  ],
-  "questions_flash": [
-    "Glaucome connu ?",
-    "Vision diminuée ou chute récente ?",
-    "Autres gouttes ophtalmiques, surtout timolol ?"
-  ],
-  "reflexes_terrain": [
-    "Ne pas surinterpréter le collyre seul",
-    "Considérer le risque de chute ou désorientation",
-    "Surveiller FC/PA si timolol ophtalmique présent"
-  ],
-  "grille": {
-    "criteres": {
-      "c1_risque_vital_aigu": false,
-      "c2_impact_protocoles": false,
-      "c3_rapidite_degradation": false,
-      "c4_homogeneite_reflexes": false
+  {
+    "id_sc": "SC_036_01",
+    "nom_sc": "Antiglaucomateux ophtalmiques",
+    "id_cl_parent": "CL_036",
+    "raison_terrain": "Impact aigu généralement faible; surtout marqueur de glaucome ou d’atteinte visuelle. Attention au risque de chute et aux effets systémiques possibles avec certains collyres.",
+    "utilisation_courante": [
+      "Glaucome",
+      "Hypertension intraoculaire"
+    ],
+    "facteurs_risque": [
+      "Vision réduite / risque de chute",
+      "Bêtabloquant ophtalmique associé",
+      "Bradycardie/hypotension possible avec timolol ophtalmique"
+    ],
+    "questions_flash": [
+      "Glaucome connu ?",
+      "Vision diminuée ou chute récente ?",
+      "Autres gouttes ophtalmiques, surtout timolol ?"
+    ],
+    "reflexes_terrain": [
+      "Ne pas surinterpréter le collyre seul",
+      "Considérer le risque de chute ou désorientation",
+      "Surveiller FC/PA si timolol ophtalmique présent"
+    ],
+    "grille": {
+      "criteres": {
+        "c1_risque_vital_aigu": false,
+        "c2_impact_protocoles": false,
+        "c3_rapidite_degradation": false,
+        "c4_homogeneite_reflexes": false
+      },
+      "nb_criteres": 0
     },
-    "nb_criteres": 0
-  },
-  "actif": true,
-  "impact_niveau": "FAIBLE"
-}
+    "actif": true,
+    "impact_niveau": "FAIBLE"
+  }
 ]

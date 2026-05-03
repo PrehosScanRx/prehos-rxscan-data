@@ -10295,15 +10295,7 @@
     "d tabs 10000 ui",
     "d gel 1000ui",
     "d-gel-1000",
-    "d gel 1000",
-    "luxa d",
-    "luxa-d",
-    "luxad",
-    "luxa d 2000",
-    "luxa-d 2000",
-    "luxa d 2000 ui",
-    "luxa-d 2000 ui",
-    "luxa-d 2000ui"
+    "d gel 1000"
   ],
   "RX_272": [
     "cyanocobalamine (vitamine b12)",
@@ -10324,14 +10316,6 @@
     "vitamin b12 250mcg",
     "vitamin b12 1000mcg",
     "b12 250mcg",
-    "luxa-d",
-    "luxa d",
-    "luxad",
-    "luxa d 2000",
-    "luxa-d 2000",
-    "luxa d 2000 ui",
-    "luxa-d 2000 ui",
-    "luxa-d 2000ui",
     "b12 1000mcg",
     "b12"
   ],
@@ -10532,39 +10516,15 @@
     "ran meperidine"
   ],
   "RX_286": [
-    "0xybutynin",
-    "0xybutynine",
-    "apo oxybutynin",
-    "ditropan",
-    "ditropan 5",
-    "ditropan xl",
-    "ditropan xl 10",
-    "jamp oxybutynin",
-    "mint oxybutynin",
-    "oxybutyn1n",
-    "oxybutynin",
-    "oxybutynin 10",
-    "oxybutynin 5",
-    "oxybutynin er",
-    "oxybutynin xl",
-    "oxybutynin xr",
-    "oxybutynine",
-    "oxybutynine 10",
-    "oxybutynine 5",
-    "oxybutynln",
-    "pms oxybutynin",
-    "ran oxybutynin",
-    "sandoz oxybutynin",
-    "teva oxybutynin",
-    "bicalutamide",
-    "bicalutamide 50",
-    "bicalutamide 50mg",
-    "casodex",
-    "casodex 50",
-    "cas0dex",
-    "bica1utamide",
-    "bicalutam1de",
-    "bicaiutamide"
+  "bicalutamide",
+  "bicalutamide 50",
+  "bicalutamide 50mg",
+  "casodex",
+  "casodex 50",
+  "cas0dex",
+  "bica1utamide",
+  "bicalutam1de",
+  "bicaiutamide"
   ],
   "RX_287": [
     "5olifenacin",
@@ -10901,5 +10861,185 @@
   "valacyclovir tab",
   "valacyclovir tablet",
   "valacyclovir comprime"
-]
+],
+"RX_329": [
+  "acyclovir",
+  "aciclovir",
+  "zovirax",
+  "apo acyclovir",
+  "acyclovir teva",
+  "acyclovir sandoz",
+  "acyclovir apotex",
+  "zovirax 200",
+  "zovirax 400",
+  "zovirax 800"
+],
+"RX_330": [
+  "moxifloxacine",
+  "moxifloxacin",
+  "avelox",
+  "apo moxifloxacine",
+  "moxifloxacine teva",
+  "moxifloxacine sandoz",
+  "moxifloxacin teva",
+  "moxifloxacin sandoz"
+],
+"RX_331": [
+  "fluconazole",
+  "diflucan",
+  "apo fluconazole",
+  "fluconazole teva",
+  "fluconazole sandoz",
+  "fluconazole apotex"
+],
+"RX_332": [
+  "nystatine",
+  "nystatin",
+  "nilstat",
+  "nystatine orale",
+  "nystatin oral"
+],
+  "RX_333": [
+    "clobazam",
+    "frisium",
+    "apo clobazam",
+    "clobazam teva",
+    "clobazam sandoz",
+    "clobazm",
+    "clobazam 10",
+    "frisium 10"
+  ],
+  "RX_334": [
+    "oxcarbazepine",
+    "oxcarbazépine",
+    "trileptal",
+    "apo oxcarbazepine",
+    "oxcarbazepine teva",
+    "oxcarbazepine sandoz",
+    "oxcarbazpine",
+    "oxcarbamazepine",
+    "trileptal 150",
+    "trileptal 300",
+    "trileptal 600"
+  ],
+  "RX_335": [
+    "clomipramine",
+    "anafranil",
+    "apo clomipramine",
+    "clomipramine teva",
+    "clomipramine sandoz",
+    "clomipramin",
+    "anafranil 10",
+    "anafranil 25",
+    "anafranil 50"
+  ],
+  "RX_336": [
+    "doxepine",
+    "doxépine",
+    "doxepin",
+    "sinequan",
+    "apo doxepin",
+    "doxepin teva",
+    "doxepin sandoz",
+    "doxepine teva",
+    "doxepine sandoz"
+  ],
+  "RX_337": [
+    "moclobemide",
+    "moclobémide",
+    "manerix",
+    "apo moclobemide",
+    "moclobemide teva",
+    "moclobemide sandoz",
+    "moclobemid",
+    "manerix 100",
+    "manerix 150",
+    "manerix 300"
+  ],
+  
+  "RX_338": [
+    "prazosine",
+    "prazosin",
+    "minipress",
+    "apo prazosin",
+    "prazosin teva",
+    "prazosin sandoz",
+    "prazosine teva",
+    "prazosine sandoz",
+    "minipress 1",
+    "minipress 2",
+    "minipress 5"
+  ],
+  "RX_339": [
+    "fosinopril",
+    "monopril",
+    "apo fosinopril",
+    "fosinopril teva",
+    "fosinopril sandoz",
+    "monopril 10",
+    "monopril 20"
+  ],
+  "RX_340": [
+    "trandolapril",
+    "mavik",
+    "apo trandolapril",
+    "trandolapril teva",
+    "trandolapril sandoz",
+    "mavik 1",
+    "mavik 2",
+    "mavik 4"
+  ],
+  "RX_341": [
+    "lactulose",
+    "lactul0se",
+    "lactulose sirop",
+    "lactuose"
+  ],
+  "RX_342": [
+    "docusate",
+    "colace",
+    "apo docusate",
+    "docusat"
+  ],
+  "RX_343": [
+    "dimenhydrinate",
+    "gravol",
+    "apo gravol",
+    "grav0l"
+  ],
+  "RX_344": [
+    "domperidone",
+    "motilium",
+    "apo domperidone"
+  ],
+  "RX_345": [
+    "azathioprine",
+    "imuran",
+    "apo azathioprine",
+    "azathioprin"
+  ],
+  "RX_346": [
+    "mycophenolate",
+    "cellcept",
+    "cell cept",
+    "apo mycophenolate"
+  ],
+  "RX_347": [
+    "tacrolimus",
+    "prograf",
+    "apo tacrolimus"
+  ],
+  "RX_348": [
+    "hydroxychloroquine",
+    "plaquenil",
+    "apo hydroxychloroquine",
+    "hydroxychloroquin"
+  ],
+  "RX_349": [
+    "vitamin c",
+    "vit c",
+    "ascorbic acid",
+    "acide ascorbique",
+    "vitamine c"
+  ]
 }
