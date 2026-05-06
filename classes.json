@@ -432,9 +432,9 @@
       "Perte d'appétit / déshydratation (contexte)"
     ],
     "sous_classes_ids": [
-      "SC_024_01"
+  
     ],
-    "actif": true
+    "actif": false
   },
   {
     "id_cl": "CL_025",

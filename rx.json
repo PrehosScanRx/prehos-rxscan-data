@@ -1070,17 +1070,30 @@
     "actif": true
   },
   {
-    "id_rx": "RX_079",
-    "molecule": "Insuline lispro",
-    "noms_commerciaux": [
-      "Humalog"
-    ],
-    "alias_ocr": [
-      "Insulin lispro"
-    ],
-    "id_cl": "CL_008",
-    "id_sc": "SC_008_02",
-    "actif": true
+  "id_rx": "RX_079",
+  "molecule": "Insuline lispro",
+  "noms_commerciaux": [
+    "Humalog",
+    "Admelog",
+    "Admelog SoloStar"
+  ],
+  "alias_ocr": [
+    "Insulin lispro",
+    "Insuline lispro",
+    "Admelog",
+    "Admelog Solostar",
+    "Admelog SoloStar",
+    "Admelog Solostar 100U/ML",
+    "Admelog Solostar 100U ML",
+    "Admelog 100U/ML",
+    "Admelog 100U ML",
+    "Admelog inj stylo",
+    "Admelog stylo",
+    "Admelog pen"
+  ],
+  "id_cl": "CL_008",
+  "id_sc": "SC_008_02",
+  "actif": true
   },
   {
     "id_rx": "RX_080",
@@ -3730,37 +3743,57 @@
     "actif": true
   },
   {
-    "id_rx": "RX_271",
-    "molecule": "Cholecalciferol",
-    "noms_commerciaux": [
-      "Luxa-D",
-      "Luxa D"
-    ],
-    "alias_ocr": [
-      "cholecalciferol",
-      "vitamin d",
-      "vitamine d",
-      "vit d",
-      "d3",
-      "luxa d",
-      "luxa-d",
-      "luxad",
-      "luxa d 2000",
-      "luxa-d 2000",
-      "luxa d 2000 ui",
-      "luxa-d 2000 ui",
-      "luxa-d 2000ui"
-    ],
-    "id_cl": "CL_030",
-    "id_sc": "SC_030_01",
-    "actif": true
-  },
+  "id_rx": "RX_271",
+  "molecule": "Cholecalciferol",
+  "noms_commerciaux": [
+    "Luxa-D",
+    "Luxa D",
+    "Opus D"
+  ],
+  "alias_ocr": [
+    "cholecalciferol",
+    "vitamin d",
+    "vitamine d",
+    "vitamine d3",
+    "vit d",
+    "d-gel",
+    "d gel",
+    "dgel",
+    "d gel 1000ui",
+    "vit d3",
+    "d3",
+    "luxa d",
+    "luxa-d",
+    "luxad",
+    "luxa d 2000",
+    "luxa-d 2000",
+    "luxa d 2000 ui",
+    "luxa-d 2000 ui",
+    "luxa-d 2000ui",
+    "opus d",
+    "opusd",
+    "opus d 1000",
+    "opus d 1000ui",
+    "opus d 1000 ui",
+    "opus d 1000 iu",
+    "opus d 1000ui capsule",
+    "opus d capsule",
+    "opus vitamine d",
+    "opus vitamin d"
+  ],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+},
   {
     "id_rx": "RX_272",
     "molecule": "Cyanocobalamin",
     "noms_commerciaux": [],
     "alias_ocr": [
       "vitamin b12",
+      "jamp vitamine b12",
+      "vitamine b12 250mcg",
+      "jamp vitamine b12 250mcg",
       "vitamine b12",
       "b12",
       "cyanocobalamin",
@@ -3910,8 +3943,8 @@
       "Teva Methylphenidate",
       "Sandoz Methylphenidate"
     ],
-    "id_cl": "CL_024",
-    "id_sc": "SC_024_01",
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_08",
     "actif": true
   },
   {
@@ -4313,8 +4346,8 @@
       "Lisdexamfétamine",
       "Vyvanse"
     ],
-    "id_cl": "CL_024",
-    "id_sc": "SC_024_01",
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_08",
     "actif": true
   },
   {
@@ -4328,8 +4361,8 @@
       "Atomoxétine",
       "Strattera"
     ],
-    "id_cl": "CL_024",
-    "id_sc": "SC_024_01",
+    "id_cl": "CL_017",
+    "id_sc": "SC_017_08",
     "actif": true
   },
 {
@@ -4445,8 +4478,8 @@
   "molecule": "Dextroamphétamine",
   "noms_commerciaux": ["Dexedrine"],
   "alias_ocr": ["Dextroamphetamine", "Dextroamphétamine", "Dexedrine", "Dexedrine Spansule"],
-  "id_cl": "CL_024",
-  "id_sc": "SC_024_01",
+  "id_cl": "CL_017",
+  "id_sc": "SC_017_08",
   "actif": true
 },
 {
@@ -4454,8 +4487,8 @@
   "molecule": "Sels mixtes d'amphétamines",
   "noms_commerciaux": ["Adderall XR"],
   "alias_ocr": ["Adderall", "Adderall XR", "Mixed amphetamine salts", "Amphetamine salts"],
-  "id_cl": "CL_024",
-  "id_sc": "SC_024_01",
+  "id_cl": "CL_017",
+  "id_sc": "SC_017_08",
   "actif": true
 },
 {
