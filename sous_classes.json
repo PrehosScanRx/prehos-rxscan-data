@@ -307,14 +307,14 @@
   "grille": {
     "criteres": {
       "c1_risque_vital_aigu": false,
-      "c2_impact_protocoles": false,
+      "c2_impact_protocoles": true,
       "c3_rapidite_degradation": false,
-      "c4_homogeneite_reflexes": false
+      "c4_homogeneite_reflexes": true
     },
-    "nb_criteres": 0
+    "nb_criteres": 2
   },
   "actif": true,
-  "impact_niveau": "FAIBLE",
+  "impact_niveau": "MODERE",
   "marqueur_terrain": "Sédation — risque ↑ si association"
 },
   {
@@ -1180,14 +1180,14 @@
   "grille": {
     "criteres": {
       "c1_risque_vital_aigu": false,
-      "c2_impact_protocoles": false,
-      "c3_rapidite_degradation": false,
+      "c2_impact_protocoles": true,
+      "c3_rapidite_degradation": true,
       "c4_homogeneite_reflexes": false
     },
-    "nb_criteres": 0
+    "nb_criteres": 2
   },
   "actif": true,
-  "impact_niveau": "FAIBLE"
+  "impact_niveau": "MODERE"
 },
 {
   "id_sc": "SC_010_02",
@@ -2514,7 +2514,7 @@
     "nb_criteres": 1
   },
   "actif": true,
-  "impact_niveau": "MODERE",
+  "impact_niveau": "FAIBLE",
   "marqueur_terrain": "Cortico systémique / immunosuppression"
 },
 {
@@ -2728,7 +2728,7 @@
     "nb_criteres": 1
   },
   "actif": true,
-  "impact_niveau": "MODERE",
+  "impact_niveau": "FAIBLE",
   "marqueur_terrain": "Lithium / toxicité"
 },
   {
