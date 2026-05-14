@@ -3788,7 +3788,10 @@
   {
     "id_rx": "RX_272",
     "molecule": "Cyanocobalamin",
-    "noms_commerciaux": [],
+    "noms_commerciaux": [
+    "B12",
+    "Vitamine B12"
+  ],
     "alias_ocr": [
       "vitamin b12",
       "jamp vitamine b12",
