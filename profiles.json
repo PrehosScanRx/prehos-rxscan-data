@@ -9,79 +9,90 @@
   },
   {
     "id_profile": "PROFILE_002",
-    "nom_profile": "Sédation / risque de chute",
+    "nom_profile": "Sédation / risque de chute probable",
     "slug": "profil_sedation_risque_chute",
     "categorie": "risque_terrain",
-    "actif": true
+    "actif": true,
+    "short_label": "Sédation / chute"
   },
   {
-    "id_profile": "PROFILE_003",
-    "nom_profile": "Terrain d'insuffisance cardiaque",
-    "slug": "profil_terrain_insuffisance_cardiaque",
-    "categorie": "risque_terrain",
-    "actif": true
-  },
+  "id_profile": "PROFILE_003",
+  "nom_profile": "Contexte cardio possible",
+  "short_label": "Cardio possible",
+  "slug": "profil_terrain_insuffisance_cardiaque",
+  "categorie": "risque_terrain",
+  "actif": true
+},
   {
     "id_profile": "PROFILE_004",
-    "nom_profile": "Pulmonaire probable",
+    "nom_profile": "Profil respiratoire probable",
     "slug": "profil_pulmonaire_probable",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Respiratoire"
   },
   {
     "id_profile": "PROFILE_005",
-    "nom_profile": "Terrain cardiovasculaire",
+    "nom_profile": "Terrain cardiovasculaire probable",
     "slug": "profil_terrain_cardiovasculaire",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Cardiovasculaire"
   },
   {
     "id_profile": "PROFILE_006",
-    "nom_profile": "Neurologique / épilepsie",
+    "nom_profile": "Neurologique / anticonvulsivant",
     "slug": "profil_neurologique_epilepsie",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Neurologique"
   },
   {
     "id_profile": "PROFILE_007",
-    "nom_profile": "Diabète",
+    "nom_profile": "Profil diabétique probable",
     "slug": "profil_diabete",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Diabète probable"
   },
   {
     "id_profile": "PROFILE_008",
-    "nom_profile": "Douleur chronique",
+    "nom_profile": "Douleur chronique / opioïdes probable",
     "slug": "profil_douleur_chronique",
     "categorie": "vigilance",
-    "actif": true
+    "actif": true,
+    "short_label": "Douleur chronique"
   },
   {
     "id_profile": "PROFILE_009",
-    "nom_profile": "Anxio-dépressif",
+    "nom_profile": "Profil anxio-dépressif probable",
     "slug": "profil_anxio_depressif",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Anxio-dépressif"
   },
   {
     "id_profile": "PROFILE_010",
-    "nom_profile": "Urologique",
+    "nom_profile": "Profil urologique probable",
     "slug": "profil_urologique",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Urologique"
   },
   {
     "id_profile": "PROFILE_011",
     "nom_profile": "Oncologique / hormonothérapie",
     "slug": "profil_oncologique_hormonotherapie",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Oncologique"
   },
   {
     "id_profile": "PROFILE_012",
     "nom_profile": "Polypharmacie lourde",
     "slug": "profil_polypharmacie_lourde",
     "categorie": "profil_chronique",
-    "actif": true
+    "actif": true,
+    "short_label": "Polypharmacie"
   }
 ]

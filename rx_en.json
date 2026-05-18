@@ -1,0 +1,2285 @@
+{
+  "RX_001": {
+    "molecule": "Apixaban",
+    "displayName": "Eliquis",
+    "tradeNames": [
+      "Eliquis"
+    ]
+  },
+  "RX_002": {
+    "molecule": "Rivaroxaban",
+    "displayName": "Xarelto",
+    "tradeNames": [
+      "Xarelto"
+    ]
+  },
+  "RX_003": {
+    "molecule": "Edoxaban",
+    "displayName": "Lixiana",
+    "tradeNames": [
+      "Lixiana"
+    ]
+  },
+  "RX_004": {
+    "molecule": "Dabigatran",
+    "displayName": "Pradaxa",
+    "tradeNames": [
+      "Pradaxa"
+    ]
+  },
+  "RX_005": {
+    "molecule": "Warfarin",
+    "displayName": "Coumadin",
+    "tradeNames": [
+      "Coumadin"
+    ]
+  },
+  "RX_006": {
+    "molecule": "Acetylsalicylic acid",
+    "displayName": "Aspirin",
+    "tradeNames": [
+      "Aspirin",
+      "Entrophen",
+      "Rivasa"
+    ]
+  },
+  "RX_007": {
+    "molecule": "Clopidogrel",
+    "displayName": "Plavix",
+    "tradeNames": [
+      "Plavix"
+    ]
+  },
+  "RX_008": {
+    "molecule": "Prasugrel",
+    "displayName": "Effient",
+    "tradeNames": [
+      "Effient"
+    ]
+  },
+  "RX_009": {
+    "molecule": "Ticagrelor",
+    "displayName": "Brilinta",
+    "tradeNames": [
+      "Brilinta"
+    ]
+  },
+  "RX_010": {
+    "molecule": "Morphine",
+    "displayName": "MS Contin",
+    "tradeNames": [
+      "MS Contin",
+      "Statex"
+    ]
+  },
+  "RX_011": {
+    "molecule": "Oxycodone",
+    "displayName": "OxyContin",
+    "tradeNames": [
+      "OxyContin",
+      "Percocet"
+    ]
+  },
+  "RX_012": {
+    "molecule": "Hydromorphone",
+    "displayName": "Dilaudid",
+    "tradeNames": [
+      "Dilaudid"
+    ]
+  },
+  "RX_013": {
+    "molecule": "Fentanyl",
+    "displayName": "Duragesic",
+    "tradeNames": [
+      "Duragesic",
+      "Abstral"
+    ]
+  },
+  "RX_014": {
+    "molecule": "Methadone",
+    "displayName": "Methadose",
+    "tradeNames": [
+      "Methadose"
+    ]
+  },
+  "RX_015": {
+    "molecule": "Codeine",
+    "displayName": "Codeine Contin",
+    "tradeNames": [
+      "Codeine Contin"
+    ]
+  },
+  "RX_016": {
+    "molecule": "Tramadol",
+    "displayName": "Ultram",
+    "tradeNames": [
+      "Ultram"
+    ]
+  },
+  "RX_017": {
+    "molecule": "Buprenorphine",
+    "displayName": "Suboxone",
+    "tradeNames": [
+      "Suboxone",
+      "Subutex"
+    ]
+  },
+  "RX_018": {
+    "molecule": "Diazepam",
+    "displayName": "Valium",
+    "tradeNames": [
+      "Valium"
+    ]
+  },
+  "RX_019": {
+    "molecule": "Lorazepam",
+    "displayName": "Ativan",
+    "tradeNames": [
+      "Ativan"
+    ]
+  },
+  "RX_020": {
+    "molecule": "Clonazepam",
+    "displayName": "Rivotril",
+    "tradeNames": [
+      "Rivotril"
+    ]
+  },
+  "RX_021": {
+    "molecule": "Alprazolam",
+    "displayName": "Xanax",
+    "tradeNames": [
+      "Xanax"
+    ]
+  },
+  "RX_022": {
+    "molecule": "Zopiclone",
+    "displayName": "Imovane",
+    "tradeNames": [
+      "Imovane"
+    ]
+  },
+  "RX_023": {
+    "molecule": "Zolpidem",
+    "displayName": "Stilnox",
+    "tradeNames": [
+      "Stilnox"
+    ]
+  },
+  "RX_024": {
+    "molecule": "Sertraline",
+    "displayName": "Zoloft",
+    "tradeNames": [
+      "Zoloft"
+    ]
+  },
+  "RX_025": {
+    "molecule": "Citalopram",
+    "displayName": "Celexa",
+    "tradeNames": [
+      "Celexa"
+    ]
+  },
+  "RX_026": {
+    "molecule": "Escitalopram",
+    "displayName": "Cipralex",
+    "tradeNames": [
+      "Cipralex"
+    ]
+  },
+  "RX_027": {
+    "molecule": "Venlafaxine",
+    "displayName": "Effexor",
+    "tradeNames": [
+      "Effexor"
+    ]
+  },
+  "RX_028": {
+    "molecule": "Amitriptyline",
+    "displayName": "Elavil",
+    "tradeNames": [
+      "Elavil"
+    ]
+  },
+  "RX_029": {
+    "molecule": "Quetiapine",
+    "displayName": "Seroquel",
+    "tradeNames": [
+      "Seroquel"
+    ]
+  },
+  "RX_030": {
+    "molecule": "Olanzapine",
+    "displayName": "Zyprexa",
+    "tradeNames": [
+      "Zyprexa"
+    ]
+  },
+  "RX_031": {
+    "molecule": "Risperidone",
+    "displayName": "Risperdal",
+    "tradeNames": [
+      "Risperdal"
+    ]
+  },
+  "RX_032": {
+    "molecule": "Haloperidol",
+    "displayName": "Haldol",
+    "tradeNames": [
+      "Haldol"
+    ]
+  },
+  "RX_033": {
+    "molecule": "Chlorpromazine",
+    "displayName": "Largactil",
+    "tradeNames": [
+      "Largactil"
+    ]
+  },
+  "RX_034": {
+    "molecule": "Metoprolol",
+    "displayName": "Lopressor",
+    "tradeNames": [
+      "Lopressor"
+    ]
+  },
+  "RX_035": {
+    "molecule": "Atenolol",
+    "displayName": "Tenormin",
+    "tradeNames": [
+      "Tenormin"
+    ]
+  },
+  "RX_036": {
+    "molecule": "Amlodipine",
+    "displayName": "Norvasc",
+    "tradeNames": [
+      "Norvasc"
+    ]
+  },
+  "RX_037": {
+    "molecule": "Diltiazem",
+    "displayName": "Cardizem",
+    "tradeNames": [
+      "Cardizem"
+    ]
+  },
+  "RX_038": {
+    "molecule": "Ramipril",
+    "displayName": "Altace",
+    "tradeNames": [
+      "Altace"
+    ]
+  },
+  "RX_039": {
+    "molecule": "Losartan",
+    "displayName": "Cozaar",
+    "tradeNames": [
+      "Cozaar"
+    ]
+  },
+  "RX_040": {
+    "molecule": "Insulin glargine",
+    "displayName": "Lantus",
+    "tradeNames": [
+      "Lantus",
+      "Basaglar",
+      "Toujeo"
+    ]
+  },
+  "RX_041": {
+    "molecule": "Insulin aspart",
+    "displayName": "NovoRapid",
+    "tradeNames": [
+      "NovoRapid"
+    ]
+  },
+  "RX_042": {
+    "molecule": "Metformin",
+    "displayName": "Glucophage",
+    "tradeNames": [
+      "Glucophage"
+    ]
+  },
+  "RX_043": {
+    "molecule": "Gliclazide",
+    "displayName": "Diamicron",
+    "tradeNames": [
+      "Diamicron"
+    ]
+  },
+  "RX_044": {
+    "molecule": "Unfractionated heparin",
+    "displayName": "Heparin",
+    "tradeNames": [
+      "Heparin"
+    ]
+  },
+  "RX_045": {
+    "molecule": "Enoxaparin",
+    "displayName": "Lovenox",
+    "tradeNames": [
+      "Lovenox"
+    ]
+  },
+  "RX_046": {
+    "molecule": "Dalteparin",
+    "displayName": "Fragmin",
+    "tradeNames": [
+      "Fragmin"
+    ]
+  },
+  "RX_047": {
+    "molecule": "Fondaparinux",
+    "displayName": "Arixtra",
+    "tradeNames": [
+      "Arixtra"
+    ]
+  },
+  "RX_048": {
+    "molecule": "Amiodarone",
+    "displayName": "Cordarone",
+    "tradeNames": [
+      "Cordarone"
+    ]
+  },
+  "RX_049": {
+    "molecule": "Sotalol",
+    "displayName": "Betapace",
+    "tradeNames": [
+      "Betapace"
+    ]
+  },
+  "RX_050": {
+    "molecule": "Flecainide",
+    "displayName": "Tambocor",
+    "tradeNames": [
+      "Tambocor"
+    ]
+  },
+  "RX_051": {
+    "molecule": "Digoxin",
+    "displayName": "Lanoxin",
+    "tradeNames": [
+      "Lanoxin"
+    ]
+  },
+  "RX_052": {
+    "molecule": "Salbutamol",
+    "displayName": "Ventolin",
+    "tradeNames": [
+      "Ventolin"
+    ]
+  },
+  "RX_053": {
+    "molecule": "Formoterol",
+    "displayName": "Foradil",
+    "tradeNames": [
+      "Foradil"
+    ]
+  },
+  "RX_054": {
+    "molecule": "Salmeterol",
+    "displayName": "Serevent",
+    "tradeNames": [
+      "Serevent"
+    ]
+  },
+  "RX_055": {
+    "molecule": "Fluticasone",
+    "displayName": "Flovent",
+    "tradeNames": [
+      "Flovent"
+    ]
+  },
+  "RX_056": {
+    "molecule": "Budesonide",
+    "displayName": "Pulmicort",
+    "tradeNames": [
+      "Pulmicort"
+    ]
+  },
+  "RX_057": {
+    "molecule": "Furosemide",
+    "displayName": "Lasix",
+    "tradeNames": [
+      "Lasix"
+    ]
+  },
+  "RX_058": {
+    "molecule": "Bumetanide",
+    "displayName": "Burinex",
+    "tradeNames": [
+      "Burinex"
+    ]
+  },
+  "RX_059": {
+    "molecule": "Hydrochlorothiazide",
+    "displayName": "HydroDIURIL",
+    "tradeNames": [
+      "HydroDIURIL"
+    ]
+  },
+  "RX_060": {
+    "molecule": "Spironolactone",
+    "displayName": "Aldactone",
+    "tradeNames": [
+      "Aldactone"
+    ]
+  },
+  "RX_061": {
+    "molecule": "Atorvastatin",
+    "displayName": "Lipitor",
+    "tradeNames": [
+      "Lipitor"
+    ]
+  },
+  "RX_062": {
+    "molecule": "Rosuvastatin",
+    "displayName": "Crestor",
+    "tradeNames": [
+      "Crestor"
+    ]
+  },
+  "RX_063": {
+    "molecule": "Simvastatin",
+    "displayName": "Zocor",
+    "tradeNames": [
+      "Zocor"
+    ]
+  },
+  "RX_064": {
+    "molecule": "Ezetimibe",
+    "displayName": "Ezetrol",
+    "tradeNames": [
+      "Ezetrol"
+    ]
+  },
+  "RX_065": {
+    "molecule": "Ibuprofen",
+    "displayName": "Advil",
+    "tradeNames": [
+      "Advil",
+      "Motrin"
+    ]
+  },
+  "RX_066": {
+    "molecule": "Naproxen",
+    "displayName": "Naprosyn",
+    "tradeNames": [
+      "Naprosyn"
+    ]
+  },
+  "RX_067": {
+    "molecule": "Diclofenac",
+    "displayName": "Voltaren",
+    "tradeNames": [
+      "Voltaren"
+    ]
+  },
+  "RX_068": {
+    "molecule": "Amoxicillin",
+    "displayName": "Amoxil",
+    "tradeNames": [
+      "Amoxil"
+    ]
+  },
+  "RX_069": {
+    "molecule": "Azithromycin",
+    "displayName": "Zithromax",
+    "tradeNames": [
+      "Zithromax"
+    ]
+  },
+  "RX_070": {
+    "molecule": "Ciprofloxacin",
+    "displayName": "Cipro",
+    "tradeNames": [
+      "Cipro"
+    ]
+  },
+  "RX_071": {
+    "molecule": "Clarithromycin",
+    "displayName": "Biaxin",
+    "tradeNames": [
+      "Biaxin"
+    ]
+  },
+  "RX_072": {
+    "molecule": "Nitroglycerin",
+    "displayName": "Nitrostat",
+    "tradeNames": [
+      "Nitrostat",
+      "Nitrolingual",
+      "Nitrospray",
+      "Nitro-Dur",
+      "Mylan Nitro"
+    ]
+  },
+  "RX_073": {
+    "molecule": "Ipratropium",
+    "displayName": "Atrovent",
+    "tradeNames": [
+      "Atrovent"
+    ]
+  },
+  "RX_074": {
+    "molecule": "Tiotropium",
+    "displayName": "Spiriva",
+    "tradeNames": [
+      "Spiriva"
+    ]
+  },
+  "RX_075": {
+    "molecule": "Budesonide/Formoterol",
+    "displayName": "Symbicort",
+    "tradeNames": [
+      "Symbicort"
+    ]
+  },
+  "RX_076": {
+    "molecule": "Fluticasone/Salmeterol",
+    "displayName": "Advair",
+    "tradeNames": [
+      "Advair"
+    ]
+  },
+  "RX_077": {
+    "molecule": "Gabapentin",
+    "displayName": "Neurontin",
+    "tradeNames": [
+      "Neurontin"
+    ]
+  },
+  "RX_078": {
+    "molecule": "Pregabalin",
+    "displayName": "Lyrica",
+    "tradeNames": [
+      "Lyrica"
+    ]
+  },
+  "RX_079": {
+    "molecule": "Insulin lispro",
+    "displayName": "Humalog",
+    "tradeNames": [
+      "Humalog",
+      "Admelog",
+      "Admelog SoloStar"
+    ]
+  },
+  "RX_080": {
+    "molecule": "Regular insulin",
+    "displayName": "Humulin R",
+    "tradeNames": [
+      "Humulin R",
+      "Novolin R"
+    ]
+  },
+  "RX_081": {
+    "molecule": "Glyburide",
+    "displayName": "Diabeta",
+    "tradeNames": [
+      "Diabeta"
+    ]
+  },
+  "RX_082": {
+    "molecule": "Bisoprolol",
+    "displayName": "Monocor",
+    "tradeNames": [
+      "Monocor"
+    ]
+  },
+  "RX_083": {
+    "molecule": "Carvedilol",
+    "displayName": "Coreg",
+    "tradeNames": [
+      "Coreg"
+    ]
+  },
+  "RX_084": {
+    "molecule": "Verapamil",
+    "displayName": "Isoptin",
+    "tradeNames": [
+      "Isoptin"
+    ]
+  },
+  "RX_085": {
+    "molecule": "Diphenhydramine",
+    "displayName": "Benadryl",
+    "tradeNames": [
+      "Benadryl"
+    ]
+  },
+  "RX_086": {
+    "molecule": "Cetirizine",
+    "displayName": "Reactine",
+    "tradeNames": [
+      "Reactine"
+    ]
+  },
+  "RX_087": {
+    "molecule": "Loratadine",
+    "displayName": "Claritin",
+    "tradeNames": [
+      "Claritin"
+    ]
+  },
+  "RX_088": {
+    "molecule": "Fexofenadine",
+    "displayName": "Allegra",
+    "tradeNames": [
+      "Allegra"
+    ]
+  },
+  "RX_089": {
+    "molecule": "Omeprazole",
+    "displayName": "Losec",
+    "tradeNames": [
+      "Losec"
+    ]
+  },
+  "RX_090": {
+    "molecule": "Pantoprazole",
+    "displayName": "Pantoloc",
+    "tradeNames": [
+      "Pantoloc"
+    ]
+  },
+  "RX_091": {
+    "molecule": "Famotidine",
+    "displayName": "Pepcid",
+    "tradeNames": [
+      "Pepcid"
+    ]
+  },
+  "RX_092": {
+    "molecule": "Levothyroxine",
+    "displayName": "Synthroid",
+    "tradeNames": [
+      "Synthroid",
+      "Eltroxin"
+    ]
+  },
+  "RX_093": {
+    "molecule": "Prednisone",
+    "displayName": "Deltasone",
+    "tradeNames": [
+      "Deltasone"
+    ]
+  },
+  "RX_094": {
+    "molecule": "Prednisolone",
+    "displayName": "Orapred",
+    "tradeNames": [
+      "Orapred"
+    ]
+  },
+  "RX_095": {
+    "molecule": "Dexamethasone",
+    "displayName": "Decadron",
+    "tradeNames": [
+      "Decadron"
+    ]
+  },
+  "RX_096": {
+    "molecule": "Hydrocortisone",
+    "displayName": "Solu-Cortef",
+    "tradeNames": [
+      "Solu-Cortef"
+    ]
+  },
+  "RX_097": {
+    "molecule": "Fluoxetine",
+    "displayName": "Prozac",
+    "tradeNames": [
+      "Prozac"
+    ]
+  },
+  "RX_098": {
+    "molecule": "Paroxetine",
+    "displayName": "Paxil",
+    "tradeNames": [
+      "Paxil"
+    ]
+  },
+  "RX_099": {
+    "molecule": "Fluvoxamine",
+    "displayName": "Luvox",
+    "tradeNames": [
+      "Luvox"
+    ]
+  },
+  "RX_100": {
+    "molecule": "Duloxetine",
+    "displayName": "Cymbalta",
+    "tradeNames": [
+      "Cymbalta"
+    ]
+  },
+  "RX_101": {
+    "molecule": "Desvenlafaxine",
+    "displayName": "Pristiq",
+    "tradeNames": [
+      "Pristiq"
+    ]
+  },
+  "RX_102": {
+    "molecule": "Propranolol",
+    "displayName": "Inderal",
+    "tradeNames": [
+      "Inderal"
+    ]
+  },
+  "RX_103": {
+    "molecule": "Nadolol",
+    "displayName": "Corgard",
+    "tradeNames": [
+      "Corgard"
+    ]
+  },
+  "RX_104": {
+    "molecule": "Lisinopril",
+    "displayName": "Prinivil",
+    "tradeNames": [
+      "Prinivil",
+      "Zestril"
+    ]
+  },
+  "RX_105": {
+    "molecule": "Enalapril",
+    "displayName": "Vasotec",
+    "tradeNames": [
+      "Vasotec"
+    ]
+  },
+  "RX_106": {
+    "molecule": "Perindopril",
+    "displayName": "Coversyl",
+    "tradeNames": [
+      "Coversyl"
+    ]
+  },
+  "RX_107": {
+    "molecule": "Valsartan",
+    "displayName": "Diovan",
+    "tradeNames": [
+      "Diovan"
+    ]
+  },
+  "RX_108": {
+    "molecule": "Irbesartan",
+    "displayName": "Avapro",
+    "tradeNames": [
+      "Avapro"
+    ]
+  },
+  "RX_109": {
+    "molecule": "Candesartan",
+    "displayName": "Atacand",
+    "tradeNames": [
+      "Atacand"
+    ]
+  },
+  "RX_110": {
+    "molecule": "Telmisartan",
+    "displayName": "Micardis",
+    "tradeNames": [
+      "Micardis"
+    ]
+  },
+  "RX_111": {
+    "molecule": "Glimepiride",
+    "displayName": "Amaryl",
+    "tradeNames": [
+      "Amaryl"
+    ]
+  },
+  "RX_112": {
+    "molecule": "NPH insulin",
+    "displayName": "Humulin N",
+    "tradeNames": [
+      "Humulin N",
+      "Novolin N"
+    ]
+  },
+  "RX_113": {
+    "molecule": "Insulin detemir",
+    "displayName": "Levemir",
+    "tradeNames": [
+      "Levemir"
+    ]
+  },
+  "RX_114": {
+    "molecule": "Insulin degludec",
+    "displayName": "Tresiba",
+    "tradeNames": [
+      "Tresiba"
+    ]
+  },
+  "RX_115": {
+    "molecule": "Torsemide",
+    "displayName": "Demadex",
+    "tradeNames": [
+      "Demadex"
+    ]
+  },
+  "RX_116": {
+    "molecule": "Chlorthalidone",
+    "displayName": "Hygroton",
+    "tradeNames": [
+      "Hygroton"
+    ]
+  },
+  "RX_117": {
+    "molecule": "Indapamide",
+    "displayName": "Lozide",
+    "tradeNames": [
+      "Lozide"
+    ]
+  },
+  "RX_118": {
+    "molecule": "Pravastatin",
+    "displayName": "Pravachol",
+    "tradeNames": [
+      "Pravachol"
+    ]
+  },
+  "RX_119": {
+    "molecule": "Lovastatin",
+    "displayName": "Mevacor",
+    "tradeNames": [
+      "Mevacor"
+    ]
+  },
+  "RX_120": {
+    "molecule": "Desloratadine",
+    "displayName": "Aerius",
+    "tradeNames": [
+      "Aerius"
+    ]
+  },
+  "RX_121": {
+    "molecule": "Esomeprazole",
+    "displayName": "Nexium",
+    "tradeNames": [
+      "Nexium"
+    ]
+  },
+  "RX_122": {
+    "molecule": "Lansoprazole",
+    "displayName": "Prevacid",
+    "tradeNames": [
+      "Prevacid"
+    ]
+  },
+  "RX_123": {
+    "molecule": "Midazolam",
+    "displayName": "Versed",
+    "tradeNames": [
+      "Versed"
+    ]
+  },
+  "RX_124": {
+    "molecule": "Oxazepam",
+    "displayName": "Serax",
+    "tradeNames": [
+      "Serax"
+    ]
+  },
+  "RX_125": {
+    "molecule": "Temazepam",
+    "displayName": "Restoril",
+    "tradeNames": [
+      "Restoril"
+    ]
+  },
+  "RX_126": {
+    "molecule": "Zaleplon",
+    "displayName": "Sonata",
+    "tradeNames": [
+      "Sonata"
+    ]
+  },
+  "RX_127": {
+    "molecule": "Nortriptyline",
+    "displayName": "Aventyl",
+    "tradeNames": [
+      "Aventyl"
+    ]
+  },
+  "RX_128": {
+    "molecule": "Loxapine",
+    "displayName": "Loxapac",
+    "tradeNames": [
+      "Loxapac"
+    ]
+  },
+  "RX_129": {
+    "molecule": "Labetalol",
+    "displayName": "Trandate",
+    "tradeNames": [
+      "Trandate"
+    ]
+  },
+  "RX_130": {
+    "molecule": "Nifedipine",
+    "displayName": "Adalat",
+    "tradeNames": [
+      "Adalat"
+    ]
+  },
+  "RX_131": {
+    "molecule": "Terbutaline",
+    "displayName": "Bricanyl",
+    "tradeNames": [
+      "Bricanyl"
+    ]
+  },
+  "RX_132": {
+    "molecule": "Cephalexin",
+    "displayName": "Keflex",
+    "tradeNames": [
+      "Keflex"
+    ]
+  },
+  "RX_133": {
+    "molecule": "Amoxicillin/clavulanic acid",
+    "displayName": "Clavulin",
+    "tradeNames": [
+      "Clavulin",
+      "Augmentin"
+    ]
+  },
+  "RX_134": {
+    "molecule": "Doxycycline",
+    "displayName": "Vibramycin",
+    "tradeNames": [
+      "Vibramycin"
+    ]
+  },
+  "RX_135": {
+    "molecule": "Clindamycin",
+    "displayName": "Dalacin C",
+    "tradeNames": [
+      "Dalacin C"
+    ]
+  },
+  "RX_136": {
+    "molecule": "Trimethoprim/sulfamethoxazole",
+    "displayName": "Septra",
+    "tradeNames": [
+      "Septra",
+      "Bactrim"
+    ]
+  },
+  "RX_137": {
+    "molecule": "Levofloxacin",
+    "displayName": "Levaquin",
+    "tradeNames": [
+      "Levaquin"
+    ]
+  },
+  "RX_138": {
+    "molecule": "Celecoxib",
+    "displayName": "Celebrex",
+    "tradeNames": [
+      "Celebrex"
+    ]
+  },
+  "RX_139": {
+    "molecule": "Ketorolac",
+    "displayName": "Toradol",
+    "tradeNames": [
+      "Toradol"
+    ]
+  },
+  "RX_140": {
+    "molecule": "Isosorbide mononitrate",
+    "displayName": "Imdur",
+    "tradeNames": [
+      "Imdur"
+    ]
+  },
+  "RX_141": {
+    "molecule": "Isosorbide dinitrate",
+    "displayName": "Isordil",
+    "tradeNames": [
+      "Isordil"
+    ]
+  },
+  "RX_142": {
+    "molecule": "Transdermal buprenorphine",
+    "displayName": "Butrans",
+    "tradeNames": [
+      "Butrans"
+    ]
+  },
+  "RX_143": {
+    "molecule": "Dipyridamole + acetylsalicylic acid",
+    "displayName": "Aggrenox",
+    "tradeNames": [
+      "Aggrenox"
+    ]
+  },
+  "RX_144": {
+    "molecule": "Tinzaparin",
+    "displayName": "Innohep",
+    "tradeNames": [
+      "Innohep"
+    ]
+  },
+  "RX_145": {
+    "molecule": "Baclofen",
+    "displayName": "Baclofen",
+    "tradeNames": [
+      "Baclofen"
+    ]
+  },
+  "RX_146": {
+    "molecule": "Methocarbamol",
+    "displayName": "Robaxin",
+    "tradeNames": [
+      "Robaxin"
+    ]
+  },
+  "RX_147": {
+    "molecule": "Cyclobenzaprine",
+    "displayName": "Flexeril",
+    "tradeNames": [
+      "Flexeril"
+    ]
+  },
+  "RX_148": {
+    "molecule": "Trazodone",
+    "displayName": "Desyrel",
+    "tradeNames": [
+      "Desyrel"
+    ]
+  },
+  "RX_149": {
+    "molecule": "Acetaminophen",
+    "displayName": "Tylenol",
+    "tradeNames": [
+      "Tylenol",
+      "Atasol",
+      "Tempra",
+      "Panadol"
+    ]
+  },
+  "RX_150": {
+    "molecule": "Epinephrine",
+    "displayName": "EpiPen",
+    "tradeNames": [
+      "EpiPen",
+      "Allerject"
+    ]
+  },
+  "RX_151": {
+    "molecule": "Levetiracetam",
+    "displayName": "Keppra",
+    "tradeNames": [
+      "Keppra"
+    ]
+  },
+  "RX_152": {
+    "molecule": "Lithium",
+    "displayName": "Lithobid",
+    "tradeNames": [
+      "Lithobid"
+    ]
+  },
+  "RX_153": {
+    "molecule": "Bupropion",
+    "displayName": "Wellbutrin",
+    "tradeNames": [
+      "Wellbutrin",
+      "Zyban"
+    ]
+  },
+  "RX_154": {
+    "molecule": "Semaglutide",
+    "displayName": "Ozempic",
+    "tradeNames": [
+      "Ozempic",
+      "Wegovy",
+      "Rybelsus"
+    ]
+  },
+  "RX_155": {
+    "molecule": "Empagliflozin",
+    "displayName": "Jardiance",
+    "tradeNames": [
+      "Jardiance"
+    ]
+  },
+  "RX_156": {
+    "molecule": "Ondansetron",
+    "displayName": "Zofran",
+    "tradeNames": [
+      "Zofran"
+    ]
+  },
+  "RX_157": {
+    "molecule": "Valproate",
+    "displayName": "Epival",
+    "tradeNames": [
+      "Epival",
+      "Depakote"
+    ]
+  },
+  "RX_158": {
+    "molecule": "Dexlansoprazole",
+    "displayName": "Dexilant",
+    "tradeNames": [
+      "Dexilant"
+    ]
+  },
+  "RX_159": {
+    "molecule": "Mirtazapine",
+    "displayName": "Remeron",
+    "tradeNames": [
+      "Remeron"
+    ]
+  },
+  "RX_160": {
+    "molecule": "Brivaracetam",
+    "displayName": "Brivlera",
+    "tradeNames": [
+      "Brivlera",
+      "Briviact"
+    ]
+  },
+  "RX_161": {
+    "molecule": "Lacosamide",
+    "displayName": "Vimpat",
+    "tradeNames": [
+      "Vimpat"
+    ]
+  },
+  "RX_164": {
+    "molecule": "Potassium chloride (KCl)",
+    "displayName": "K-Dur",
+    "tradeNames": [
+      "K-Dur"
+    ]
+  },
+  "RX_165": {
+    "molecule": "Sacubitril/valsartan",
+    "displayName": "Entresto",
+    "tradeNames": [
+      "Entresto"
+    ]
+  },
+  "RX_166": {
+    "molecule": "Dapagliflozin",
+    "displayName": "Farxiga",
+    "tradeNames": [
+      "Farxiga",
+      "Forxiga"
+    ]
+  },
+  "RX_167": {
+    "molecule": "Naloxone",
+    "displayName": "Narcan",
+    "tradeNames": [
+      "Narcan"
+    ]
+  },
+  "RX_168": {
+    "molecule": "Hydrocodone/Acetaminophen",
+    "displayName": "Vicodin",
+    "tradeNames": [
+      "Vicodin",
+      "Hysingla"
+    ]
+  },
+  "RX_170": {
+    "molecule": "Clonidine",
+    "displayName": "Catapres",
+    "tradeNames": [
+      "Catapres"
+    ]
+  },
+  "RX_172": {
+    "molecule": "Ranolazine",
+    "displayName": "Ranexa",
+    "tradeNames": [
+      "Ranexa"
+    ]
+  },
+  "RX_173": {
+    "molecule": "Sildenafil",
+    "displayName": "Viagra",
+    "tradeNames": [
+      "Viagra"
+    ]
+  },
+  "RX_174": {
+    "molecule": "Tadalafil",
+    "displayName": "Cialis",
+    "tradeNames": [
+      "Cialis"
+    ]
+  },
+  "RX_175": {
+    "molecule": "Metoclopramide",
+    "displayName": "Maxeran",
+    "tradeNames": [
+      "Maxeran",
+      "Reglan"
+    ]
+  },
+  "RX_176": {
+    "molecule": "Prochlorperazine",
+    "displayName": "Stemetil",
+    "tradeNames": [
+      "Stemetil"
+    ]
+  },
+  "RX_177": {
+    "molecule": "Lamotrigine",
+    "displayName": "Lamictal",
+    "tradeNames": [
+      "Lamictal"
+    ]
+  },
+  "RX_178": {
+    "molecule": "Phenytoin",
+    "displayName": "Dilantin",
+    "tradeNames": [
+      "Dilantin"
+    ]
+  },
+  "RX_180": {
+    "molecule": "Aripiprazole",
+    "displayName": "Abilify",
+    "tradeNames": [
+      "Abilify"
+    ]
+  },
+  "RX_182": {
+    "molecule": "Canagliflozin",
+    "displayName": "Invokana",
+    "tradeNames": [
+      "Invokana"
+    ]
+  },
+  "RX_183": {
+    "molecule": "Sitagliptin",
+    "displayName": "Januvia",
+    "tradeNames": [
+      "Januvia"
+    ]
+  },
+  "RX_184": {
+    "molecule": "Insuline 70/30 (melange)",
+    "displayName": "Humulin 70/30",
+    "tradeNames": [
+      "Humulin 70/30",
+      "Novolin 70/30"
+    ]
+  },
+  "RX_190": {
+    "molecule": "Liraglutide",
+    "displayName": "Victoza",
+    "tradeNames": [
+      "Victoza",
+      "Saxenda"
+    ]
+  },
+  "RX_191": {
+    "molecule": "Dulaglutide",
+    "displayName": "Trulicity",
+    "tradeNames": [
+      "Trulicity"
+    ]
+  },
+  "RX_195": {
+    "molecule": "olmesartan / hydrochlorothiazide",
+    "displayName": "Olmetec Plus",
+    "tradeNames": [
+      "Olmetec Plus"
+    ]
+  },
+  "RX_196": {
+    "molecule": "relugolix",
+    "displayName": "Orgovyx",
+    "tradeNames": [
+      "Orgovyx"
+    ]
+  },
+  "RX_197": {
+    "molecule": "Umeclidinium/vilanterol",
+    "displayName": "Anoro",
+    "tradeNames": [
+      "Anoro"
+    ]
+  },
+  "RX_198": {
+    "molecule": "Fluticasone/umeclidinium/vilanterol",
+    "displayName": "Trelegy",
+    "tradeNames": [
+      "Trelegy"
+    ]
+  },
+  "RX_199": {
+    "molecule": "Rabeprazole",
+    "displayName": "Pariet",
+    "tradeNames": [
+      "Pariet"
+    ]
+  },
+  "RX_200": {
+    "molecule": "Sucralfate",
+    "displayName": "Sulcrate",
+    "tradeNames": [
+      "Sulcrate"
+    ]
+  },
+  "RX_201": {
+    "molecule": "Tizanidine",
+    "displayName": "Zanaflex",
+    "tradeNames": [
+      "Zanaflex"
+    ]
+  },
+  "RX_202": {
+    "molecule": "Hydroxyzine",
+    "displayName": "Atarax",
+    "tradeNames": [
+      "Atarax"
+    ]
+  },
+  "RX_207": {
+    "molecule": "Dronedarone",
+    "displayName": "Multaq",
+    "tradeNames": [
+      "Multaq"
+    ]
+  },
+  "RX_208": {
+    "molecule": "Montelukast",
+    "displayName": "Singulair",
+    "tradeNames": [
+      "Singulair"
+    ]
+  },
+  "RX_209": {
+    "molecule": "Chlordiazepoxide",
+    "displayName": "Librium",
+    "tradeNames": [
+      "Librium"
+    ]
+  },
+  "RX_210": {
+    "molecule": "Indomethacin",
+    "displayName": "Indocin",
+    "tradeNames": [
+      "Indocin"
+    ]
+  },
+  "RX_211": {
+    "molecule": "Cefuroxime",
+    "displayName": "Ceftin",
+    "tradeNames": [
+      "Ceftin"
+    ]
+  },
+  "RX_212": {
+    "molecule": "Metronidazole",
+    "displayName": "Flagyl",
+    "tradeNames": [
+      "Flagyl"
+    ]
+  },
+  "RX_216": {
+    "molecule": "Hydralazine",
+    "displayName": "Apresoline",
+    "tradeNames": [
+      "Apresoline"
+    ]
+  },
+  "RX_217": {
+    "molecule": "Loperamide",
+    "displayName": "Imodium",
+    "tradeNames": [
+      "Imodium"
+    ]
+  },
+  "RX_218": {
+    "molecule": "Polyethylene glycol 3350",
+    "displayName": "RestoraLAX",
+    "tradeNames": [
+      "RestoraLAX",
+      "EMOLAX",
+      "HydraLax",
+      "Option+ HydraLax"
+    ]
+  },
+  "RX_219": {
+    "molecule": "Senna",
+    "displayName": "Senokot",
+    "tradeNames": [
+      "Senokot"
+    ]
+  },
+  "RX_220": {
+    "molecule": "Sodium polystyrene sulfonate",
+    "displayName": "Solystat",
+    "tradeNames": [
+      "Solystat"
+    ]
+  },
+  "RX_221": {
+    "molecule": "Calcitriol",
+    "displayName": "Rocaltrol",
+    "tradeNames": [
+      "Rocaltrol"
+    ]
+  },
+  "RX_222": {
+    "molecule": "Sucroferric oxyhydroxide",
+    "displayName": "Velphoro",
+    "tradeNames": [
+      "Velphoro"
+    ]
+  },
+  "RX_223": {
+    "molecule": "Calcium",
+    "displayName": "Calcium carbonate",
+    "tradeNames": [
+      "Calcium carbonate",
+      "Caltrate",
+      "Tums"
+    ]
+  },
+  "RX_224": {
+    "molecule": "Methyldopa",
+    "displayName": "Aldomet",
+    "tradeNames": [
+      "Aldomet"
+    ]
+  },
+  "RX_225": {
+    "molecule": "Guanfacine",
+    "displayName": "Intuniv",
+    "tradeNames": [
+      "Intuniv"
+    ]
+  },
+  "RX_226": {
+    "molecule": "Linagliptin",
+    "displayName": "Trajenta",
+    "tradeNames": [
+      "Trajenta"
+    ]
+  },
+  "RX_227": {
+    "molecule": "Saxagliptin",
+    "displayName": "Onglyza",
+    "tradeNames": [
+      "Onglyza"
+    ]
+  },
+  "RX_228": {
+    "molecule": "Alogliptin",
+    "displayName": "Nesina",
+    "tradeNames": [
+      "Nesina"
+    ]
+  },
+  "RX_229": {
+    "molecule": "Glucagon",
+    "displayName": "Glucagen",
+    "tradeNames": [
+      "Glucagen",
+      "Baqsimi"
+    ]
+  },
+  "RX_230": {
+    "molecule": "Allopurinol",
+    "displayName": "Zyloprim",
+    "tradeNames": [
+      "Zyloprim"
+    ]
+  },
+  "RX_231": {
+    "molecule": "Colchicine",
+    "displayName": "Colcrys",
+    "tradeNames": [
+      "Colcrys"
+    ]
+  },
+  "RX_232": {
+    "molecule": "Febuxostat",
+    "displayName": "Uloric",
+    "tradeNames": [
+      "Uloric"
+    ]
+  },
+  "RX_233": {
+    "molecule": "Carbidopa/Levodopa",
+    "displayName": "Sinemet",
+    "tradeNames": [
+      "Sinemet",
+      "Prolopa"
+    ]
+  },
+  "RX_234": {
+    "molecule": "Pramipexole",
+    "displayName": "Mirapex",
+    "tradeNames": [
+      "Mirapex"
+    ]
+  },
+  "RX_235": {
+    "molecule": "Ropinirole",
+    "displayName": "Requip",
+    "tradeNames": [
+      "Requip"
+    ]
+  },
+  "RX_236": {
+    "molecule": "Alendronate",
+    "displayName": "Fosamax",
+    "tradeNames": [
+      "Fosamax"
+    ]
+  },
+  "RX_237": {
+    "molecule": "Risedronate",
+    "displayName": "Actonel",
+    "tradeNames": [
+      "Actonel"
+    ]
+  },
+  "RX_238": {
+    "molecule": "Ibandronate",
+    "displayName": "Boniva",
+    "tradeNames": [
+      "Boniva"
+    ]
+  },
+  "RX_239": {
+    "molecule": "Phenazopyridine",
+    "displayName": "Pyridium",
+    "tradeNames": [
+      "Pyridium"
+    ]
+  },
+  "RX_240": {
+    "molecule": "Tamsulosin",
+    "displayName": "Flomax",
+    "tradeNames": [
+      "Flomax"
+    ]
+  },
+  "RX_241": {
+    "molecule": "Finasteride",
+    "displayName": "Proscar",
+    "tradeNames": [
+      "Proscar",
+      "Propecia"
+    ]
+  },
+  "RX_242": {
+    "molecule": "Dutasteride",
+    "displayName": "Avodart",
+    "tradeNames": [
+      "Avodart"
+    ]
+  },
+  "RX_243": {
+    "molecule": "Clobetasol (topique)",
+    "displayName": "Temovate",
+    "tradeNames": [
+      "Temovate"
+    ]
+  },
+  "RX_244": {
+    "molecule": "Mometasone (topique)",
+    "displayName": "Elocon",
+    "tradeNames": [
+      "Elocon"
+    ]
+  },
+  "RX_245": {
+    "molecule": "Betamethasone (topique)",
+    "displayName": "Diprosone",
+    "tradeNames": [
+      "Diprosone",
+      "Ectosone",
+      "Teva-Ectosone",
+      "ratio-Ectosone"
+    ]
+  },
+  "RX_246": {
+    "molecule": "Sitagliptine/Metformine",
+    "displayName": "Janumet",
+    "tradeNames": [
+      "Janumet"
+    ]
+  },
+  "RX_247": {
+    "molecule": "Empagliflozine/Metformine",
+    "displayName": "Synjardy",
+    "tradeNames": [
+      "Synjardy"
+    ]
+  },
+  "RX_248": {
+    "molecule": "Dapagliflozine/Metformine",
+    "displayName": "Xigduo",
+    "tradeNames": [
+      "Xigduo"
+    ]
+  },
+  "RX_249": {
+    "molecule": "Empagliflozine/Linagliptine",
+    "displayName": "Glyxambi",
+    "tradeNames": [
+      "Glyxambi"
+    ]
+  },
+  "RX_250": {
+    "molecule": "Saxagliptine/Metformine",
+    "displayName": "Komboglyze",
+    "tradeNames": [
+      "Komboglyze"
+    ]
+  },
+  "RX_251": {
+    "molecule": "Linagliptine/Metformine",
+    "displayName": "Jentadueto",
+    "tradeNames": [
+      "Jentadueto"
+    ]
+  },
+  "RX_252": {
+    "molecule": "Alogliptine/Metformine",
+    "displayName": "Kazano",
+    "tradeNames": [
+      "Kazano"
+    ]
+  },
+  "RX_253": {
+    "molecule": "Olmesartan",
+    "displayName": "Olmetec",
+    "tradeNames": [
+      "Olmetec"
+    ]
+  },
+  "RX_254": {
+    "molecule": "Valsartan/Hydrochlorothiazide",
+    "displayName": "Diovan HCT",
+    "tradeNames": [
+      "Diovan HCT"
+    ]
+  },
+  "RX_255": {
+    "molecule": "Telmisartan/Hydrochlorothiazide",
+    "displayName": "Micardis HCT",
+    "tradeNames": [
+      "Micardis HCT"
+    ]
+  },
+  "RX_256": {
+    "molecule": "Irbesartan/Hydrochlorothiazide",
+    "displayName": "Avalide",
+    "tradeNames": [
+      "Avalide"
+    ]
+  },
+  "RX_257": {
+    "molecule": "Candesartan/Hydrochlorothiazide",
+    "displayName": "Atacand Plus",
+    "tradeNames": [
+      "Atacand Plus"
+    ]
+  },
+  "RX_258": {
+    "molecule": "Perindopril/indapamide",
+    "displayName": "Coversyl Plus",
+    "tradeNames": [
+      "Coversyl Plus"
+    ]
+  },
+  "RX_259": {
+    "molecule": "Nebivolol",
+    "displayName": "Bystolic",
+    "tradeNames": [
+      "Bystolic"
+    ]
+  },
+  "RX_260": {
+    "molecule": "Eplerenone",
+    "displayName": "Inspra",
+    "tradeNames": [
+      "Inspra"
+    ]
+  },
+  "RX_261": {
+    "molecule": "Tiotropium/olodaterol",
+    "displayName": "Stiolto",
+    "tradeNames": [
+      "Stiolto"
+    ]
+  },
+  "RX_262": {
+    "molecule": "Glycopyrronium/indacaterol",
+    "displayName": "Ultibro",
+    "tradeNames": [
+      "Ultibro"
+    ]
+  },
+  "RX_263": {
+    "molecule": "Fluticasone/Vilanterol",
+    "displayName": "Breo Ellipta",
+    "tradeNames": [
+      "Breo Ellipta"
+    ]
+  },
+  "RX_264": {
+    "molecule": "Budesonide/glycopyrronium/formoterol",
+    "displayName": "Breztri",
+    "tradeNames": [
+      "Breztri"
+    ]
+  },
+  "RX_265": {
+    "molecule": "Umeclidinium",
+    "displayName": "Incruse",
+    "tradeNames": [
+      "Incruse"
+    ]
+  },
+  "RX_266": {
+    "molecule": "Aclidinium",
+    "displayName": "Tudorza",
+    "tradeNames": [
+      "Tudorza"
+    ]
+  },
+  "RX_267": {
+    "molecule": "Alfuzosin",
+    "displayName": "Xatral",
+    "tradeNames": [
+      "Xatral"
+    ]
+  },
+  "RX_268": {
+    "molecule": "Silodosin",
+    "displayName": "Rapaflo",
+    "tradeNames": [
+      "Rapaflo"
+    ]
+  },
+  "RX_269": {
+    "molecule": "Dutasteride/tamsulosin",
+    "displayName": "Jalyn",
+    "tradeNames": [
+      "Jalyn"
+    ]
+  },
+  "RX_270": {
+    "molecule": "Terazosin",
+    "displayName": "Hytrin",
+    "tradeNames": [
+      "Hytrin"
+    ]
+  },
+  "RX_271": {
+    "molecule": "Cholecalciferol",
+    "displayName": "Luxa-D",
+    "tradeNames": [
+      "Luxa-D",
+      "Opus D"
+    ]
+  },
+  "RX_272": {
+    "molecule": "Cyanocobalamin",
+    "displayName": "B12",
+    "tradeNames": [
+      "B12",
+      "Vitamine B12"
+    ]
+  },
+  "RX_273": {
+    "molecule": "Magnesium",
+    "displayName": "Maglucate",
+    "tradeNames": [
+      "Maglucate",
+      "M Magnesium",
+      "M Magnesium Complex",
+      "Jamp Magnesium"
+    ]
+  },
+  "RX_274": {
+    "molecule": "Ferrous sulfate",
+    "displayName": "Ferrous sulfate",
+    "tradeNames": []
+  },
+  "RX_275": {
+    "molecule": "Multivitamin",
+    "displayName": "Centrum",
+    "tradeNames": [
+      "Centrum",
+      "Centrum Femme 50+"
+    ]
+  },
+  "RX_276": {
+    "molecule": "Cod liver oil",
+    "displayName": "Cod Liver Oil",
+    "tradeNames": [
+      "Cod Liver Oil",
+      "Cod Liver Oil ABD"
+    ]
+  },
+  "RX_277": {
+    "molecule": "Melatonin",
+    "displayName": "Melatonin",
+    "tradeNames": [
+      "Option+ Melatonin"
+    ]
+  },
+  "RX_278": {
+    "molecule": "Methylphenidate",
+    "displayName": "Ritalin",
+    "tradeNames": [
+      "Ritalin",
+      "Concerta",
+      "Biphentin"
+    ]
+  },
+  "RX_279": {
+    "molecule": "Methylprednisolone",
+    "displayName": "Medrol",
+    "tradeNames": [
+      "Medrol",
+      "Solu-Medrol"
+    ]
+  },
+  "RX_280": {
+    "molecule": "Losartan/Hydrochlorothiazide",
+    "displayName": "Hyzaar",
+    "tradeNames": [
+      "Hyzaar"
+    ]
+  },
+  "RX_281": {
+    "molecule": "Ranitidine",
+    "displayName": "Zantac",
+    "tradeNames": [
+      "Zantac"
+    ]
+  },
+  "RX_282": {
+    "molecule": "Thiamine (vitamine B1)",
+    "displayName": "Opus Vitamine B1",
+    "tradeNames": [
+      "Opus Vitamine B1"
+    ]
+  },
+  "RX_283": {
+    "molecule": "Vitamine K2",
+    "displayName": "Vitamine K2",
+    "tradeNames": []
+  },
+  "RX_284": {
+    "molecule": "Tolterodine",
+    "displayName": "Detrol",
+    "tradeNames": [
+      "Detrol",
+      "Detrol LA"
+    ]
+  },
+  "RX_285": {
+    "molecule": "Meperidine",
+    "displayName": "Demerol",
+    "tradeNames": [
+      "Demerol"
+    ]
+  },
+  "RX_286": {
+    "molecule": "Bicalutamide",
+    "displayName": "Casodex",
+    "tradeNames": [
+      "Casodex"
+    ]
+  },
+  "RX_287": {
+    "molecule": "Solifenacin",
+    "displayName": "Vesicare",
+    "tradeNames": [
+      "Vesicare"
+    ]
+  },
+  "RX_288": {
+    "molecule": "Mirabegron",
+    "displayName": "Myrbetriq",
+    "tradeNames": [
+      "Myrbetriq"
+    ]
+  },
+  "RX_289": {
+    "molecule": "Tamoxifen",
+    "displayName": "Nolvadex",
+    "tradeNames": [
+      "Nolvadex"
+    ]
+  },
+  "RX_290": {
+    "molecule": "Letrozole",
+    "displayName": "Femara",
+    "tradeNames": [
+      "Femara"
+    ]
+  },
+  "RX_291": {
+    "molecule": "Anastrozole",
+    "displayName": "Arimidex",
+    "tradeNames": [
+      "Arimidex"
+    ]
+  },
+  "RX_292": {
+    "molecule": "Leuprolide",
+    "displayName": "Lupron",
+    "tradeNames": [
+      "Lupron",
+      "Eligard"
+    ]
+  },
+  "RX_293": {
+    "molecule": "Naltrexone",
+    "displayName": "Revia",
+    "tradeNames": [
+      "Revia"
+    ]
+  },
+  "RX_294": {
+    "molecule": "Vortioxetine",
+    "displayName": "Trintellix",
+    "tradeNames": [
+      "Trintellix"
+    ]
+  },
+  "RX_306": {
+    "molecule": "Doxazosin",
+    "displayName": "Cardura",
+    "tradeNames": [
+      "Cardura"
+    ]
+  },
+  "RX_308": {
+    "molecule": "Donepezil",
+    "displayName": "Aricept",
+    "tradeNames": [
+      "Aricept"
+    ]
+  },
+  "RX_309": {
+    "molecule": "Memantine",
+    "displayName": "Ebixa",
+    "tradeNames": [
+      "Ebixa"
+    ]
+  },
+  "RX_310": {
+    "molecule": "Rivastigmine",
+    "displayName": "Exelon",
+    "tradeNames": [
+      "Exelon"
+    ]
+  },
+  "RX_311": {
+    "molecule": "Lisdexamfetamine",
+    "displayName": "Vyvanse",
+    "tradeNames": [
+      "Vyvanse"
+    ]
+  },
+  "RX_312": {
+    "molecule": "Atomoxetine",
+    "displayName": "Strattera",
+    "tradeNames": [
+      "Strattera"
+    ]
+  },
+  "RX_314": {
+    "molecule": "Methotrexate",
+    "displayName": "Methotrexate",
+    "tradeNames": [
+      "Methotrexate"
+    ]
+  },
+  "RX_315": {
+    "molecule": "Folic acid",
+    "displayName": "JAMP Acide folique",
+    "tradeNames": [
+      "JAMP Acide folique"
+    ]
+  },
+  "RX_316": {
+    "molecule": "Nitrofurantoin",
+    "displayName": "Macrobid",
+    "tradeNames": [
+      "Macrobid",
+      "Macrodantin"
+    ]
+  },
+  "RX_317": {
+    "molecule": "Fosfomycin",
+    "displayName": "Monurol",
+    "tradeNames": [
+      "Monurol"
+    ]
+  },
+  "RX_318": {
+    "molecule": "Oxybutynine",
+    "displayName": "Ditropan",
+    "tradeNames": [
+      "Ditropan"
+    ]
+  },
+  "RX_319": {
+    "molecule": "Topiramate",
+    "displayName": "Topamax",
+    "tradeNames": [
+      "Topamax"
+    ]
+  },
+  "RX_320": {
+    "molecule": "Carbamazepine",
+    "displayName": "Tegretol",
+    "tradeNames": [
+      "Tegretol"
+    ]
+  },
+  "RX_321": {
+    "molecule": "Clozapine",
+    "displayName": "Clozaril",
+    "tradeNames": [
+      "Clozaril"
+    ]
+  },
+  "RX_322": {
+    "molecule": "Paliperidone",
+    "displayName": "Invega",
+    "tradeNames": [
+      "Invega"
+    ]
+  },
+  "RX_323": {
+    "molecule": "Tirzepatide",
+    "displayName": "Mounjaro",
+    "tradeNames": [
+      "Mounjaro"
+    ]
+  },
+  "RX_324": {
+    "molecule": "Dextroamphetamine",
+    "displayName": "Dexedrine",
+    "tradeNames": [
+      "Dexedrine"
+    ]
+  },
+  "RX_325": {
+    "molecule": "Mixed amphetamine salts",
+    "displayName": "Adderall XR",
+    "tradeNames": [
+      "Adderall XR"
+    ]
+  },
+  "RX_326": {
+    "molecule": "Ophthalmic timolol",
+    "displayName": "Timoptic",
+    "tradeNames": [
+      "Timoptic"
+    ]
+  },
+  "RX_327": {
+    "molecule": "Latanoprost",
+    "displayName": "Xalatan",
+    "tradeNames": [
+      "Xalatan"
+    ]
+  },
+  "RX_328": {
+    "molecule": "Valacyclovir",
+    "displayName": "Valtrex",
+    "tradeNames": [
+      "Valtrex"
+    ]
+  },
+  "RX_329": {
+    "molecule": "Acyclovir",
+    "displayName": "Zovirax",
+    "tradeNames": [
+      "Zovirax"
+    ]
+  },
+  "RX_330": {
+    "molecule": "Moxifloxacin",
+    "displayName": "Avelox",
+    "tradeNames": [
+      "Avelox"
+    ]
+  },
+  "RX_331": {
+    "molecule": "Fluconazole",
+    "displayName": "Diflucan",
+    "tradeNames": [
+      "Diflucan"
+    ]
+  },
+  "RX_332": {
+    "molecule": "Nystatin",
+    "displayName": "Nilstat",
+    "tradeNames": [
+      "Nilstat"
+    ]
+  },
+  "RX_333": {
+    "molecule": "Clobazam",
+    "displayName": "Frisium",
+    "tradeNames": [
+      "Frisium"
+    ]
+  },
+  "RX_334": {
+    "molecule": "Oxcarbazepine",
+    "displayName": "Trileptal",
+    "tradeNames": [
+      "Trileptal"
+    ]
+  },
+  "RX_335": {
+    "molecule": "Clomipramine",
+    "displayName": "Anafranil",
+    "tradeNames": [
+      "Anafranil"
+    ]
+  },
+  "RX_336": {
+    "molecule": "Doxepin",
+    "displayName": "Sinequan",
+    "tradeNames": [
+      "Sinequan"
+    ]
+  },
+  "RX_337": {
+    "molecule": "Moclobemide",
+    "displayName": "Manerix",
+    "tradeNames": [
+      "Manerix"
+    ]
+  },
+  "RX_338": {
+    "molecule": "Prazosin",
+    "displayName": "Minipress",
+    "tradeNames": [
+      "Minipress"
+    ]
+  },
+  "RX_339": {
+    "molecule": "Fosinopril",
+    "displayName": "Monopril",
+    "tradeNames": [
+      "Monopril"
+    ]
+  },
+  "RX_340": {
+    "molecule": "Trandolapril",
+    "displayName": "Mavik",
+    "tradeNames": [
+      "Mavik"
+    ]
+  },
+  "RX_341": {
+    "molecule": "Lactulose",
+    "displayName": "Lactulose",
+    "tradeNames": [
+      "Lactulose"
+    ]
+  },
+  "RX_342": {
+    "molecule": "Docusate",
+    "displayName": "Colace",
+    "tradeNames": [
+      "Colace"
+    ]
+  },
+  "RX_343": {
+    "molecule": "Dimenhydrinate",
+    "displayName": "Gravol",
+    "tradeNames": [
+      "Gravol"
+    ]
+  },
+  "RX_344": {
+    "molecule": "Domperidone",
+    "displayName": "Motilium",
+    "tradeNames": [
+      "Motilium"
+    ]
+  },
+  "RX_345": {
+    "molecule": "Azathioprine",
+    "displayName": "Imuran",
+    "tradeNames": [
+      "Imuran"
+    ]
+  },
+  "RX_346": {
+    "molecule": "Mycophenolate",
+    "displayName": "CellCept",
+    "tradeNames": [
+      "CellCept"
+    ]
+  },
+  "RX_347": {
+    "molecule": "Tacrolimus",
+    "displayName": "Prograf",
+    "tradeNames": [
+      "Prograf"
+    ]
+  },
+  "RX_348": {
+    "molecule": "Hydroxychloroquine",
+    "displayName": "Plaquenil",
+    "tradeNames": [
+      "Plaquenil"
+    ]
+  },
+  "RX_349": {
+    "molecule": "Ascorbic acid",
+    "displayName": "Vitamin C",
+    "tradeNames": [
+      "Vitamin C"
+    ]
+  },
+  "RX_350": {
+    "molecule": "Finerenone",
+    "displayName": "Kerendia",
+    "tradeNames": [
+      "Kerendia"
+    ]
+  },
+  "RX_351": {
+    "molecule": "Fenofibrate",
+    "displayName": "Lipidil",
+    "tradeNames": [
+      "Lipidil",
+      "Sandoz Fenofibrate E"
+    ]
+  },
+  "RX_352": {
+    "molecule": "Milk thistle",
+    "displayName": "Chardon Marie",
+    "tradeNames": [
+      "Chardon Marie",
+      "Milk thistle"
+    ]
+  }
+}

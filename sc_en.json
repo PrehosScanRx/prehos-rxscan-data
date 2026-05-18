@@ -1,0 +1,579 @@
+{
+  "SC_001_01": {
+    "subtitle": "Oral anticoagulants",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Major bleeding risk",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Recent trauma, fall, or bleeding?",
+      "Neuro signs / head injury / stroke symptoms?",
+      "Which anticoagulant + last dose?",
+      "Recent INR available? (warfarin)"
+    ]
+  },
+  "SC_002_01": {
+    "subtitle": "Antiplatelet agents (ASA)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Bleeding risk in context"
+  },
+  "SC_002_02": {
+    "subtitle": "P2Y12 antiplatelet agents",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "DAPT → bleeding risk ↑"
+  },
+  "SC_003_01": {
+    "subtitle": "Opioid analgesics (short/long acting, patch)",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Respiratory depression risk",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Low RR or altered mental status?",
+      "Other depressants (alcohol/benzos)?",
+      "Drug/dose + last intake?"
+    ]
+  },
+  "SC_003_02": {
+    "subtitle": "Codeine / tramadol (weak / atypical opioids)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Sedation / possible seizures (tramadol)"
+  },
+  "SC_003_03": {
+    "subtitle": "Opioid use disorder treatments (OAT)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "OAT stable / risk with co-ingestions"
+  },
+  "SC_003_04": {
+    "subtitle": "Opioid antidote (naloxone)",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Possible opioid overdose / recurrence",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Naloxone given? total dose? time?",
+      "Clinical response after naloxone?",
+      "RR/SpO2/mental status now?",
+      "Long-acting opioid or patch suspected?"
+    ]
+  },
+  "SC_004_01": {
+    "subtitle": "Benzodiazepines",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Sedation — risk ↑ with combinations",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Altered mental status or fall?",
+      "Associated opioids/alcohol?",
+      "Possible withdrawal (recent stop)?"
+    ]
+  },
+  "SC_004_02": {
+    "subtitle": "Related hypnotics (Z-drugs: zopiclone, zolpidem)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Night fall / confusion"
+  },
+  "SC_005_01": {
+    "subtitle": "SSRIs / SNRIs",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Polypharmacy / agitation (rare)"
+  },
+  "SC_005_02": {
+    "subtitle": "Tricyclics and related agents",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "TCA overdose: QRS / seizure risk",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Possible overdose?",
+      "Syncope, seizures, or palpitations?",
+      "Estimated amount ingested?"
+    ]
+  },
+  "SC_005_03": {
+    "subtitle": "Sedating antidepressants (atypical)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Sedation / hypotension → fall"
+  },
+  "SC_005_04": {
+    "subtitle": "Activating atypical antidepressants (e.g., bupropion)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Seizures if overdose (SR/XL)",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Possible overdose?",
+      "SR/XL formulation? amount?",
+      "Seizures or agitation?",
+      "Other substances involved?"
+    ]
+  },
+  "SC_006_01": {
+    "subtitle": "Antipsychotics (atypical)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Sedation / hypotension / QT risk"
+  },
+  "SC_006_02": {
+    "subtitle": "Antipsychotics (typical)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Dystonia / sedation / arrhythmia risk"
+  },
+  "SC_007_01": {
+    "subtitle": "Beta blockers",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Bradycardia / hypotension"
+  },
+  "SC_007_02": {
+    "subtitle": "ACE inhibitors / ARBs",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Hypotension / renal / hyperK"
+  },
+  "SC_007_03": {
+    "subtitle": "Calcium channel blockers (DHP)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Hypotension / fall"
+  },
+  "SC_007_04": {
+    "subtitle": "Calcium channel blockers (non-DHP)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Bradycardia / possible AV block"
+  },
+  "SC_007_05": {
+    "subtitle": "Central antihypertensives (α2)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Hypotension / brady / rebound risk"
+  },
+  "SC_007_06": {
+    "subtitle": "Alpha blockers",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Orthostatic hypotension / fall"
+  },
+  "SC_007_07": {
+    "subtitle": "Direct antihypertensive vasodilators",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Hypotension / syncope / reflex tachycardia"
+  },
+  "SC_008_01": {
+    "subtitle": "Sulfonylureas",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Possible prolonged hypoglycemia",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Last meal?",
+      "Last dose taken?",
+      "Signs of hypoglycemia?"
+    ]
+  },
+  "SC_008_02": {
+    "subtitle": "Insulins",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Rapid hypoglycemia risk",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Type and last dose?",
+      "Last meal?",
+      "Symptoms of hypoglycemia?"
+    ]
+  },
+  "SC_008_03": {
+    "subtitle": "DPP-4 inhibitors and other low-impact agents",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Rare hypoglycemia / combo risk"
+  },
+  "SC_008_04": {
+    "subtitle": "Metformin",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Rare lactic acidosis if shock / renal failure"
+  },
+  "SC_008_05": {
+    "subtitle": "GLP-1 agonists",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Nausea / vomiting / dehydration"
+  },
+  "SC_008_06": {
+    "subtitle": "SGLT2 inhibitors",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Dehydration / rare ketoacidosis"
+  },
+  "SC_008_07": {
+    "subtitle": "Glucagon",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Severe hypoglycemia marker"
+  },
+  "SC_009_01": {
+    "subtitle": "Heparins / LMWH",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Anticoagulant → bleeding risk",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Last injection?",
+      "Trauma or fall?"
+    ]
+  },
+  "SC_009_02": {
+    "subtitle": "Specialized injectable anticoagulants",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Specialized anticoagulant",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Which agent?",
+      "Last dose?",
+      "Trauma or bleeding?"
+    ]
+  },
+  "SC_010_01": {
+    "subtitle": "Antiarrhythmics",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Arrhythmia / possible bradycardia",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Syncope?",
+      "Palpitations?",
+      "Known treatment?"
+    ]
+  },
+  "SC_010_02": {
+    "subtitle": "Cardiac glycosides (digoxin)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Possible digoxin toxicity",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Bradycardia or syncope?",
+      "Nausea/vomiting/confusion?",
+      "Renal failure?"
+    ]
+  },
+  "SC_011_01": {
+    "subtitle": "Inhaled bronchodilators (beta-2)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Bronchodilator / possible tachycardia"
+  },
+  "SC_011_02": {
+    "subtitle": "Inhaled corticosteroids (maintenance)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Respiratory maintenance therapy"
+  },
+  "SC_011_03": {
+    "subtitle": "Inhaled anticholinergics (SAMA/LAMA)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "COPD / contextual bronchodilator"
+  },
+  "SC_011_04": {
+    "subtitle": "ICS/LABA combinations (maintenance)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Combined respiratory maintenance therapy"
+  },
+  "SC_011_05": {
+    "subtitle": "Leukotriene modifiers",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Asthma / respiratory allergies"
+  },
+  "SC_012_01": {
+    "subtitle": "Loop diuretics",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Dry vs overloaded (HF) → field trap"
+  },
+  "SC_012_02": {
+    "subtitle": "Thiazide diuretics",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Diuretic / electrolytes"
+  },
+  "SC_012_03": {
+    "subtitle": "Potassium-sparing diuretics / aldosterone antagonists",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Possible hyperK → ECG if concerned"
+  },
+  "SC_013_01": {
+    "subtitle": "Statins",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Baseline cardiovascular risk"
+  },
+  "SC_013_02": {
+    "subtitle": "Other lipid-lowering agents",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Baseline cardiovascular risk"
+  },
+  "SC_014_01": {
+    "subtitle": "NSAIDs",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Bleeding ↑ with anticoagulant / dehydration"
+  },
+  "SC_014_02": {
+    "subtitle": "Gout treatments",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Gout / colchicine (GI)"
+  },
+  "SC_015_01": {
+    "subtitle": "Oral antibiotics (beta-lactams and related)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Infection / possible allergy"
+  },
+  "SC_015_02": {
+    "subtitle": "Oral antibiotics (macrolides / quinolones / others)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Infection / possible QT by agent"
+  },
+  "SC_015_03": {
+    "subtitle": "Injectable / IV antibiotics (specialized context)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Severe infection / IV"
+  },
+  "SC_015_04": {
+    "subtitle": "Oral antivirals",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Viral infection / immune-renal context"
+  },
+  "SC_015_05": {
+    "subtitle": "Oral antifungals",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Fungal infection / immunosuppression"
+  },
+  "SC_016_01": {
+    "subtitle": "Antianginals (nitrates and coronary vasodilators)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "⚠ PDE5 + nitrates = severe hypotension",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Last dose (SL, spray, patch)?",
+      "Current chest pain?",
+      "Hypotension or syncope?",
+      "Recent PDE5 use (Viagra/Cialis)?"
+    ]
+  },
+  "SC_016_02": {
+    "subtitle": "PDE5 inhibitors (sildenafil / tadalafil)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Nitrate interaction (PDE5)",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "PDE5 within last 24–48 h?",
+      "Nitrates taken or planned?",
+      "Hypotension or syncope?"
+    ]
+  },
+  "SC_016_03": {
+    "subtitle": "Non-vasodilator antianginals (ranolazine)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Possible QT / interactions"
+  },
+  "SC_017_01": {
+    "subtitle": "Gabapentinoids (gabapentin / pregabalin)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Drowsiness / ataxia / CNS depressants"
+  },
+  "SC_017_02": {
+    "subtitle": "Antiepileptics (general)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Epilepsy → seizure risk if non-adherent"
+  },
+  "SC_017_03": {
+    "subtitle": "Antiepileptics — Levetiracetam",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Epilepsy / non-adherence"
+  },
+  "SC_017_04": {
+    "subtitle": "Antiepileptics — Valproate",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Epilepsy / toxicity if compatible"
+  },
+  "SC_017_05": {
+    "subtitle": "Parkinson’s disease — dopaminergic agents (levodopa/carbidopa)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Parkinson / orthostasis / fall"
+  },
+  "SC_017_06": {
+    "subtitle": "Dementia — cognitive agents (AChE-I / memantine)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Cognitive frailty"
+  },
+  "SC_017_07": {
+    "subtitle": "Antiepileptics — Lamotrigine",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Epilepsy / mood / non-adherence"
+  },
+  "SC_017_08": {
+    "subtitle": "CNS stimulants — ADHD (methylphenidate)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Stimulant / agitation / cardio"
+  },
+  "SC_018_01": {
+    "subtitle": "Non-sedating antihistamines (2nd generation)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Allergic background"
+  },
+  "SC_018_02": {
+    "subtitle": "Sedating antihistamines (1st generation)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Confusion / fall (elderly)"
+  },
+  "SC_019_01": {
+    "subtitle": "PPIs / antacids / gastric protection",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "GI context / gastric protection"
+  },
+  "SC_019_02": {
+    "subtitle": "H2 blockers (acid suppression)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "GERD / ulcer / GI context"
+  },
+  "SC_019_03": {
+    "subtitle": "Antidiarrheals (e.g., loperamide)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Diarrhea / infectious context"
+  },
+  "SC_019_04": {
+    "subtitle": "Laxatives (osmotic / stimulant)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Constipation / bowel transit"
+  },
+  "SC_019_05": {
+    "subtitle": "Antiemetics",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Vomiting / possible QT"
+  },
+  "SC_019_06": {
+    "subtitle": "Antispasmodics / IBS / GI anticholinergics (contextual)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Functional abdominal pain / IBS"
+  },
+  "SC_020_01": {
+    "subtitle": "Hormone replacement therapies (thyroid and others)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Maintenance / replacement therapy"
+  },
+  "SC_021_01": {
+    "subtitle": "Systemic corticosteroids",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Systemic steroid / immunosuppression",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Chronic treatment?",
+      "Recent missed doses or stop?",
+      "Fever or infectious symptoms?"
+    ]
+  },
+  "SC_021_02": {
+    "subtitle": "Topical corticosteroids (dermatologic)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Local use / negligible impact"
+  },
+  "SC_021_03": {
+    "subtitle": "Systemic non-biologic immunomodulators",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Immunosuppression / infection"
+  },
+  "SC_022_01": {
+    "subtitle": "Muscle relaxants",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Sedation / dizziness / fall"
+  },
+  "SC_023_01": {
+    "subtitle": "Epinephrine auto-injector (anaphylaxis)",
+    "mainRiskLabel": "MAIN RISK",
+    "mainRisk": "Anaphylaxis risk",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Symptoms of anaphylaxis?",
+      "Recent exposure?",
+      "Auto-injector used? time? response?"
+    ]
+  },
+  "SC_024_01": {
+    "subtitle": "ADHD treatments (stimulants and non-stimulants)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "ADHD / agitation / cardio"
+  },
+  "SC_025_01": {
+    "subtitle": "Lithium",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Lithium / toxicity",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Recent hydration status?",
+      "Vomiting/diarrhea?",
+      "New medications?",
+      "Neurologic changes?"
+    ]
+  },
+  "SC_026_01": {
+    "subtitle": "Ondansétron (antiémétique 5-HT3)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Vomiting / possible QT"
+  },
+  "SC_026_02": {
+    "subtitle": "Antiemetics / prokinetics (excluding ondansetron)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Vomiting / possible sedation"
+  },
+  "SC_027_01": {
+    "subtitle": "Acetaminophen",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Mainly overdose"
+  },
+  "SC_028_01": {
+    "subtitle": "Potassium exchange resins (anti-hyperkalemia agents)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "CKD / hyperkalemia"
+  },
+  "SC_028_02": {
+    "subtitle": "Phosphate binders (CKD / dialysis)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "CKD / dialysis"
+  },
+  "SC_028_03": {
+    "subtitle": "Active vitamin D / analogs (CKD / dialysis)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Advanced CKD"
+  },
+  "SC_028_04": {
+    "subtitle": "Potassium supplements (KCl)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "K+ disorder → ECG if symptoms"
+  },
+  "SC_029_01": {
+    "subtitle": "BPH / LUTS treatments (alpha-1 and 5-alpha-reductase)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Standing syncope (alpha-1)"
+  },
+  "SC_030_01": {
+    "subtitle": "Vitamins, minerals and nutritional supplements",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Supplement / low impact"
+  },
+  "SC_031_01": {
+    "subtitle": "Parkinson’s disease — dopaminergic agents",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Parkinson / fall"
+  },
+  "SC_031_02": {
+    "subtitle": "Dementia — cognitive agents (AChE-I / memantine)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Cognitive frailty"
+  },
+  "SC_032_01": {
+    "subtitle": "Bisphosphonates",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Osteoporosis / fall-fracture"
+  },
+  "SC_033_01": {
+    "subtitle": "Urinary analgesics",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Urinary symptoms"
+  },
+  "SC_034_01": {
+    "subtitle": "Oncology hormone therapies",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Oncology context / frailty"
+  },
+  "SC_035_01": {
+    "subtitle": "Opioid antagonists (naltrexone)",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Naltrexone / opioids ↓",
+    "quickCheckLabel": "QUICK CHECK",
+    "quickCheck": [
+      "Recent dose?",
+      "Pain despite opioids?",
+      "Addiction treatment context?"
+    ]
+  },
+  "SC_036_01": {
+    "subtitle": "Ophthalmic glaucoma agents",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Glaucoma / possible systemic effects"
+  }
+}
