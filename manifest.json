@@ -1,7 +1,7 @@
 {
-  "version": "2026-05-18-02",
+  "version": "2026-05-18-03",
   "updatedAt": "2026-05-18T18:00:00Z",
-  "datasets": {
+  "files": {
     "rx": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/rx.json",
     "classes": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/classes.json",
     "sous_classes": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/sous_classes.json",
