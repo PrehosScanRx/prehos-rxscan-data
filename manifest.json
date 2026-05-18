@@ -1,18 +1,16 @@
 {
-  "version": "2026-05-18-01",
+  "version": "2026-05-18-02",
   "updatedAt": "2026-05-18T18:00:00Z",
-
   "datasets": {
-    "rx": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/rx.json",
-    "classes": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/classes.json",
-    "sous_classes": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/sous_classes.json",
-    "ocrVariants": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/ocrVariants.json",
-    "profiles": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/profiles.json",
-    "abbreviations": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/abbreviations.json",
-
-    "rx_en": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/rx_en.json",
-    "sc_en": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/sc_en.json",
-    "profiles_en": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/profiles_en.json",
-    "abbreviations_en": "https://raw.githubusercontent.com/XXX/prehos-rxscan-data/main/abbreviations_en.json"
+    "rx": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/rx.json",
+    "classes": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/classes.json",
+    "sous_classes": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/sous_classes.json",
+    "ocrVariants": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/ocrVariants.json",
+    "profiles": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/profiles.json",
+    "abbreviations": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/abbreviations.json",
+    "rx_en": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/rx_en.json",
+    "sc_en": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/sc_en.json",
+    "profiles_en": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/profiles_en.json",
+    "abbreviations_en": "https://raw.githubusercontent.com/PrehosScanRx/prehos-rxscan-data/main/abbreviations_en.json"
   }
 }
