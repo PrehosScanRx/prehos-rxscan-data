@@ -15,6 +15,7 @@
   "PA": "Pression artérielle",
   "TA": "Tension artérielle",
   "FA": "Fibrillation auriculaire",
+  "AF": "Fibrillation auriculaire",
   "HTA": "Hypertension artérielle",
   "IC": "Insuffisance cardiaque",
   "CV": "Cardiovasculaire",
@@ -82,5 +83,6 @@
   "P": "Phosphore",
   "K+": "Potassium",
   "PDE5": "Inhibiteur de la phosphodiestérase de type 5",
-  "CKD-MBD": "Trouble minéral et osseux lié à la maladie rénale chronique"
+  "CKD-MBD": "Trouble minéral et osseux lié à la maladie rénale chronique",
+  "RR": "Respiratory rhythm"
 }
