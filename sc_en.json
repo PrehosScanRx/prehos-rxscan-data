@@ -1272,7 +1272,21 @@
   ],
   "usage": [
     "Osteoporosis"
+  ],
+  "SC_032_02": {
+  "subtitle": "Non-bisphosphonate antiresorptive therapies",
+  "mainRiskLabel": "FIELD IMPACT",
+  "mainRisk": "Osteoporosis / fracture risk",
+  "quickCheckLabel": "KEY POINTS",
+  "quickCheck": [
+    "Fall / fracture",
+    "Bone fragility",
+    "Periodic injectable treatment"
+  ],
+  "usage": [
+    "Osteoporosis"
   ]
+}
 },
 
 "SC_033_01": {

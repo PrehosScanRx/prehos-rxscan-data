@@ -2435,7 +2435,31 @@
   "actif": true,
   "impact_niveau": "FAIBLE"
 },
-
+{
+  "id_sc": "SC_032_02",
+  "nom_sc": "Anti-résorptifs non bisphosphonates",
+  "id_cl_parent": "CL_032",
+  "raison_terrain": "Ostéoporose / fragilité osseuse",
+  "utilisation_courante": [
+    "Ostéoporose"
+  ],
+  "points_cles": [
+    "Chute / fracture",
+    "Fragilité osseuse",
+    "Traitement injectable périodique"
+  ],
+  "grille": {
+    "criteres": {
+      "c1_risque_vital_aigu": false,
+      "c2_impact_protocoles": false,
+      "c3_rapidite_degradation": false,
+      "c4_homogeneite_reflexes": false
+    },
+    "nb_criteres": 0
+  },
+  "actif": true,
+  "impact_niveau": "FAIBLE"
+},
 {
   "id_sc": "SC_033_01",
   "nom_sc": "Analgésiques urinaires",

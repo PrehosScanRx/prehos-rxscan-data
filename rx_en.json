@@ -2288,5 +2288,91 @@
   "tradeNames": [
     "Avastin"
   ]
+},
+"RX_354": {
+  "molecule": "Omega-3 fatty acids",
+  "displayName": "Omega-3 fatty acids",
+  "tradeNames": [
+    "Omega-3",
+    "Fish Oil"
+  ]
+},
+"RX_355": {
+  "molecule": "Coenzyme Q10",
+  "displayName": "Coenzyme Q10",
+  "tradeNames": [
+    "CoQ10"
+  ]
+},
+"RX_356": {
+  "molecule": "Glucosamine",
+  "displayName": "Glucosamine",
+  "tradeNames": [
+    "Glucosamine"
+  ]
+},
+"RX_357": {
+  "molecule": "Glucosamine/Chondroitin",
+  "displayName": "Glucosamine Chondroitin",
+  "tradeNames": [
+    "Glucosamine Chondroitin"
+  ]
+},
+"RX_358": {
+  "molecule": "Denosumab",
+  "displayName": "Prolia",
+  "tradeNames": [
+    "Prolia"
+  ]
+},
+"RX_359": {
+  "molecule": "Metolazone",
+  "displayName": "Zaroxolyn",
+  "tradeNames": ["Zaroxolyn"]
+},
+"RX_360": {
+  "molecule": "Felodipine",
+  "displayName": "Plendil",
+  "tradeNames": ["Plendil", "Renedil"]
+},
+"RX_361": {
+  "molecule": "Salbutamol/Ipratropium",
+  "displayName": "Combivent",
+  "tradeNames": ["Combivent"]
+},
+"RX_362": {
+  "molecule": "Insulin glulisine",
+  "displayName": "Apidra",
+  "tradeNames": ["Apidra"]
+},
+"RX_363": {
+  "molecule": "Repaglinide",
+  "displayName": "Gluconorm",
+  "tradeNames": ["Gluconorm"]
+},
+"RX_364": {
+  "molecule": "Bisacodyl",
+  "displayName": "Dulcolax",
+  "tradeNames": ["Dulcolax"]
+},
+"RX_365": {
+  "molecule": "Psyllium",
+  "displayName": "Metamucil",
+  "tradeNames": ["Metamucil"]
+},
+"RX_366": {
+  "molecule": "Probiotics",
+  "displayName": "Bio-K+",
+  "tradeNames": ["Bio-K+", "Align"]
+},
+"RX_367": {
+  "molecule": "Cranberry",
+  "displayName": "Cranberry",
+  "tradeNames": ["Cranberry"]
+},
+"RX_368": {
+  "molecule": "Nirmatrelvir/Ritonavir",
+  "displayName": "Paxlovid",
+  "tradeNames": ["Paxlovid"]
 }
 }
