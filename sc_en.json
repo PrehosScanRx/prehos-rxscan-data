@@ -1289,16 +1289,17 @@
 },
 
 "SC_034_01": {
-  "subtitle": "Oncology hormone therapies",
+  "subtitle": "Specialized oncology therapies",
   "quickCheckLabel": "KEY POINTS",
   "quickCheck": [
     "Known cancer",
-    "Fever / weakness",
-    "Frailty",
-    "Immunosuppression"
+    "Fever / infection",
+    "Unusual bleeding",
+    "Significant weakness / deterioration"
   ],
   "usage": [
-    "Hormone-sensitive cancer"
+    "Cancer",
+    "Anticancer treatment"
   ]
 },
 

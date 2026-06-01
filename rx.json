@@ -5017,5 +5017,23 @@
     "id_cl": "CL_030",
     "id_sc": "SC_030_01",
     "actif": true
-  }
+  },
+  {
+  "id_rx": "RX_353",
+  "molecule": "Bévacizumab",
+  "displayName": "Avastin",
+  "tradeNames": [
+    "Avastin"
+  ],
+  "alias_ocr": [
+    "bevacizumab",
+    "bévacizumab",
+    "avastin",
+    "mvasi",
+    "zirabev"
+  ],
+  "id_cl": "CL_034",
+  "id_sc": "SC_034_01",
+  "actif": true
+}
 ]

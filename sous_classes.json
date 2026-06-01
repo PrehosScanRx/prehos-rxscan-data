@@ -2464,17 +2464,18 @@
 
 {
   "id_sc": "SC_034_01",
-  "nom_sc": "Hormonothérapies oncologiques",
+  "nom_sc": "Traitements oncologiques spécialisés",
   "id_cl_parent": "CL_034",
-  "raison_terrain": "Contexte oncologique",
+  "raison_terrain": "Contexte oncologique actif",
   "utilisation_courante": [
-    "Cancer hormonodépendant"
+    "Cancer",
+    "Traitement anticancéreux"
   ],
   "points_cles": [
     "Cancer connu",
-    "Fièvre / faiblesse",
-    "Fragilité",
-    "Immunosuppression"
+    "Fièvre / infection",
+    "Saignement inhabituel",
+    "Faiblesse importante / détérioration"
   ],
   "grille": {
     "criteres": {
@@ -2488,7 +2489,6 @@
   "actif": true,
   "impact_niveau": "FAIBLE"
 },
-
 {
   "id_sc": "SC_035_01",
   "nom_sc": "Antagonistes opioïdes (naltrexone)",

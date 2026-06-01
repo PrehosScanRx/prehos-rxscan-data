@@ -2281,5 +2281,12 @@
       "Chardon Marie",
       "Milk thistle"
     ]
-  }
+  },
+  "RX_353": {
+  "molecule": "Bevacizumab",
+  "displayName": "Avastin",
+  "tradeNames": [
+    "Avastin"
+  ]
+}
 }
