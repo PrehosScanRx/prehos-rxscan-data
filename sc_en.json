@@ -3,108 +3,89 @@
     "subtitle": "Oral anticoagulants",
     "mainRiskLabel": "RISK",
     "mainRisk": "Major bleeding risk",
-
     "quickCheckLabel": "KEY POINTS",
     "quickCheck": [
       "Trauma / fall / bleeding",
       "Signs of shock",
       "Neuro signs (head injury / stroke)"
     ],
-
     "usage": [
       "Stroke prevention (AF)"
     ]
   },
-
   "SC_002_01": {
     "subtitle": "Antiplatelet agents (ASA)",
     "mainRiskLabel": "RISK",
     "mainRisk": "Bleeding risk",
-
     "quickCheckLabel": "KEY POINTS",
     "quickCheck": [
       "Trauma / fall / bleeding",
       "ASA + anticoagulant",
       "Dual antiplatelet therapy"
     ],
-
     "usage": [
       "Cardiovascular prevention"
     ]
   },
-
   "SC_002_02": {
     "subtitle": "P2Y12 antiplatelet agents",
     "mainRiskLabel": "RISK",
     "mainRisk": "Bleeding risk",
-
     "quickCheckLabel": "KEY POINTS",
     "quickCheck": [
       "Trauma / fall / bleeding",
       "ASA + P2Y12",
       "P2Y12 + anticoagulant"
     ],
-
     "usage": [
       "After coronary stent"
     ]
   },
-
   "SC_003_01": {
     "subtitle": "Opioid analgesics",
     "mainRiskLabel": "RISK",
     "mainRisk": "Respiratory depression",
-
     "quickCheckLabel": "KEY POINTS",
     "quickCheck": [
       "Low RR / slow breathing",
       "Drowsiness / altered mental status",
       "Alcohol / benzodiazepines / other depressants"
     ],
-
     "usage": [
       "Acute pain",
       "Chronic pain"
     ]
   },
-
   "SC_003_02": {
-  "subtitle": "Codeine / tramadol (weak / atypical opioids)",
-
-  "mainRiskLabel": "RISK",
-  "mainRisk": "Sedation / possible seizures (tramadol)",
-
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness / altered mental status",
-    "Slow breathing / respiratory depression",
-    "Seizure risk with tramadol"
-  ],
-
-  "usage": [
-    "Moderate pain",
-    "Chronic pain"
-  ]
-},
-
- "SC_003_03": {
-  "subtitle": "Opioid use disorder treatments (OAT)",
-
-  "mainRiskLabel": "RISK",
-  "mainRisk": "Risk with co-ingestions / respiratory depression",
-
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Alcohol / benzodiazepines / other depressants",
-    "Drowsiness / respiratory depression",
-    "Last dose / treatment adherence"
-  ],
-
-  "usage": [
-    "Opioid use disorder treatment",
-    "Withdrawal prevention"
-  ]
-},
+    "subtitle": "Codeine / tramadol (weak / atypical opioids)",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Sedation / possible seizures (tramadol)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness / altered mental status",
+      "Slow breathing / respiratory depression",
+      "Seizure risk with tramadol"
+    ],
+    "usage": [
+      "Moderate pain",
+      "Chronic pain"
+    ]
+  },
+  "SC_003_03": {
+    "subtitle": "Opioid use disorder treatments (OAT)",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Risk with co-ingestions / respiratory depression",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Alcohol / benzodiazepines / other depressants",
+      "Drowsiness / respiratory depression",
+      "Last dose / treatment adherence"
+    ],
+    "usage": [
+      "Opioid use disorder treatment",
+      "Withdrawal prevention"
+    ]
+  },
   "SC_003_04": {
     "subtitle": "Opioid antidote (naloxone)",
     "mainRiskLabel": "MAIN RISK",
@@ -117,7 +98,6 @@
       "Long-acting opioid or patch suspected?"
     ]
   },
-
   "SC_004_01": {
     "subtitle": "Benzodiazepines",
     "mainRiskLabel": "FIELD IMPACT",
@@ -129,35 +109,32 @@
       "Possible withdrawal (recent stop)?"
     ]
   },
-
   "SC_004_02": {
-  "subtitle": "Z-drug hypnotics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Confusion / disorientation",
-    "Fall / trauma",
-    "Alcohol / opioids combination",
-    "Recent nighttime dose"
-  ],
-  "usage": [
-    "Insomnia"
-  ]
-},
-
-  "SC_005_01": {
-  "subtitle": "SSRIs / SNRIs",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Psychiatric polypharmacy",
-    "Agitation / confusion",
-    "Possible overdose",
-    "Hyperthermia / tremors (rare)"
-  ],
-  "usage": [
-    "Depression / anxiety"
-  ]
+    "subtitle": "Z-drug hypnotics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Confusion / disorientation",
+      "Fall / trauma",
+      "Alcohol / opioids combination",
+      "Recent nighttime dose"
+    ],
+    "usage": [
+      "Insomnia"
+    ]
   },
-
+  "SC_005_01": {
+    "subtitle": "SSRIs / SNRIs",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Psychiatric polypharmacy",
+      "Agitation / confusion",
+      "Possible overdose",
+      "Hyperthermia / tremors (rare)"
+    ],
+    "usage": [
+      "Depression / anxiety"
+    ]
+  },
   "SC_005_02": {
     "subtitle": "Tricyclics and related agents",
     "mainRiskLabel": "FIELD IMPACT",
@@ -169,22 +146,20 @@
       "Estimated amount ingested?"
     ]
   },
-
   "SC_005_03": {
-  "subtitle": "Sedating antidepressants",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness / sedation",
-    "Hypotension / dizziness",
-    "Fall / trauma",
-    "Alcohol / sedatives combination"
-  ],
-  "usage": [
-    "Depression",
-    "Insomnia"
-  ]
+    "subtitle": "Sedating antidepressants",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness / sedation",
+      "Hypotension / dizziness",
+      "Fall / trauma",
+      "Alcohol / sedatives combination"
+    ],
+    "usage": [
+      "Depression",
+      "Insomnia"
+    ]
   },
-
   "SC_005_04": {
     "subtitle": "Activating atypical antidepressants (e.g., bupropion)",
     "mainRiskLabel": "FIELD IMPACT",
@@ -197,1154 +172,1086 @@
       "Other substances involved?"
     ]
   },
-
   "SC_006_01": {
-  "subtitle": "Atypical antipsychotics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness / altered mental status",
-    "Hypotension / syncope",
-    "QT prolongation / arrhythmia",
-    "Fever / rigidity / confusion (rare)"
-  ],
-  "usage": [
-    "Psychosis",
-    "Mood disorders"
-  ]
+    "subtitle": "Atypical antipsychotics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness / altered mental status",
+      "Hypotension / syncope",
+      "QT prolongation / arrhythmia",
+      "Fever / rigidity / confusion (rare)"
+    ],
+    "usage": [
+      "Psychosis",
+      "Mood disorders"
+    ]
   },
-
   "SC_006_02": {
-  "subtitle": "Typical antipsychotics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Rigidity / dystonia",
-    "Drowsiness / altered mental status",
-    "Hypotension / syncope",
-    "QT prolongation / arrhythmia"
-  ],
-  "usage": [
-    "Psychosis"
-  ]
+    "subtitle": "Typical antipsychotics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Rigidity / dystonia",
+      "Drowsiness / altered mental status",
+      "Hypotension / syncope",
+      "QT prolongation / arrhythmia"
+    ],
+    "usage": [
+      "Psychosis"
+    ]
   },
-
   "SC_007_01": {
-  "subtitle": "Beta blockers",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Bradycardia",
-    "Hypotension",
-    "Dizziness / syncope",
-    "Bronchospasm (non-selective)"
-  ],
-  "usage": [
-    "Hypertension / AF",
-    "Heart failure"
-  ]
-},
-
-"SC_007_02": {
-  "subtitle": "ACE inhibitors / ARBs",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Hypotension",
-    "Dehydration",
-    "Kidney failure",
-    "Hyperkalemia"
-  ],
-  "usage": [
-    "Hypertension / heart failure",
-    "Kidney protection"
-  ] 
-},
-
-"SC_007_03": {
-  "subtitle": "Calcium channel blockers (DHP)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Hypotension",
-    "Dizziness",
-    "Fall / trauma",
-    "Nitrate combination"
-  ],
-  "usage": [
-    "Hypertension / angina"
-  ]
-},
-
-"SC_007_04": {
-  "subtitle": "Calcium channel blockers (non-DHP)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Bradycardia",
-    "AV block",
-    "Hypotension",
-    "Beta blocker combination"
-  ],
-  "usage": [
-    "Hypertension",
-    "Angina",
-    "Atrial fibrillation"
-  ]
-},
-
-"SC_007_05": {
-  "subtitle": "Central antihypertensives (α2)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Bradycardia",
-    "Hypotension",
-    "Sedation",
-    "Rebound hypertension"
-  ],
-  "usage": [
-    "Hypertension",
-    "Withdrawal"
-  ]
-},
-
-"SC_007_06": {
-  "subtitle": "Alpha blockers",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Orthostatic hypotension",
-    "Dizziness",
-    "Syncope",
-    "Fall / trauma"
-  ],
-  "usage": [
-    "BPH / LUTS"
-  ]
-},
-
-"SC_007_07": {
-  "subtitle": "Direct antihypertensive vasodilators",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Hypotension",
-    "Syncope",
-    "Reflex tachycardia",
-    "Fall / trauma"
-  ],
-  "usage": [
-    "Severe hypertension"
-  ]
- },
-
- "SC_008_01": {
-  "subtitle": "Sulfonylureas",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Hypoglycemia",
-    "Altered mental status",
-    "Last meal",
-    "Possible recurrence"
-  ],
-  "usage": [
-    "Type 2 diabetes"
-  ]
-},
-
-"SC_008_02": {
-  "subtitle": "Insulins",
-  "mainRiskLabel": "RISK",
-  "mainRisk": "Possible severe hypoglycemia",
-
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Hypoglycemia",
-    "Altered mental status",
-    "Last dose",
-    "Last meal"
-  ],
-  "usage": [
-    "Insulin-treated diabetes"
-  ]
-},
-
-"SC_008_03": {
-  "subtitle": "DPP-4 inhibitors and other low-impact agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Insulin / sulfonylurea combination",
-    "Rare hypoglycemia",
-    "Polypharmacy"
-  ],
-  "usage": [
-    "Type 2 diabetes"
-  ]
-},
-
-"SC_008_04": {
-  "subtitle": "Metformin",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Kidney failure",
-    "Shock / hypoxia",
-    "Severe acute illness"
-  ],
-  "usage": [
-    "Type 2 diabetes"
-  ]
-},
-
-"SC_008_05": {
-  "subtitle": "GLP-1 agonists",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Vomiting",
-    "Dehydration",
-    "Reduced intake"
-  ],
-  "usage": [
-    "Type 2 diabetes",
-    "Weight loss"
-  ]
-},
-
-"SC_008_06": {
-  "subtitle": "SGLT2 inhibitors",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Dehydration",
-    "Acute illness / infection",
-    "Rapid breathing",
-    "Reduced intake"
-  ],
-  "usage": [
-    "Type 2 diabetes"
-  ]
-},
-
-"SC_008_07": {
-  "subtitle": "Glucagon",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Possible recurrence",
-    "Repeat glucose checks",
-    "Altered mental status",
-    "Food intake resumed"
-  ],
-  "usage": [
-    "Severe hypoglycemia"
-  ]
-
-},
-
+    "subtitle": "Beta blockers",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Bradycardia",
+      "Hypotension",
+      "Dizziness / syncope",
+      "Bronchospasm (non-selective)"
+    ],
+    "usage": [
+      "Hypertension / AF",
+      "Heart failure"
+    ]
+  },
+  "SC_007_02": {
+    "subtitle": "ACE inhibitors / ARBs",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Hypotension",
+      "Dehydration",
+      "Kidney failure",
+      "Hyperkalemia"
+    ],
+    "usage": [
+      "Hypertension / heart failure",
+      "Kidney protection"
+    ]
+  },
+  "SC_007_03": {
+    "subtitle": "Calcium channel blockers (DHP)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Hypotension",
+      "Dizziness",
+      "Fall / trauma",
+      "Nitrate combination"
+    ],
+    "usage": [
+      "Hypertension / angina"
+    ]
+  },
+  "SC_007_04": {
+    "subtitle": "Calcium channel blockers (non-DHP)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Bradycardia",
+      "AV block",
+      "Hypotension",
+      "Beta blocker combination"
+    ],
+    "usage": [
+      "Hypertension",
+      "Angina",
+      "Atrial fibrillation"
+    ]
+  },
+  "SC_007_05": {
+    "subtitle": "Central antihypertensives (α2)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Bradycardia",
+      "Hypotension",
+      "Sedation",
+      "Rebound hypertension"
+    ],
+    "usage": [
+      "Hypertension",
+      "Withdrawal"
+    ]
+  },
+  "SC_007_06": {
+    "subtitle": "Alpha blockers",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Orthostatic hypotension",
+      "Dizziness",
+      "Syncope",
+      "Fall / trauma"
+    ],
+    "usage": [
+      "BPH / LUTS"
+    ]
+  },
+  "SC_007_07": {
+    "subtitle": "Direct antihypertensive vasodilators",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Hypotension",
+      "Syncope",
+      "Reflex tachycardia",
+      "Fall / trauma"
+    ],
+    "usage": [
+      "Severe hypertension"
+    ]
+  },
+  "SC_008_01": {
+    "subtitle": "Sulfonylureas",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Hypoglycemia",
+      "Altered mental status",
+      "Last meal",
+      "Possible recurrence"
+    ],
+    "usage": [
+      "Type 2 diabetes"
+    ]
+  },
+  "SC_008_02": {
+    "subtitle": "Insulins",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Possible severe hypoglycemia",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Hypoglycemia",
+      "Altered mental status",
+      "Last dose",
+      "Last meal"
+    ],
+    "usage": [
+      "Insulin-treated diabetes"
+    ]
+  },
+  "SC_008_03": {
+    "subtitle": "DPP-4 inhibitors and other low-impact agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Insulin / sulfonylurea combination",
+      "Rare hypoglycemia",
+      "Polypharmacy"
+    ],
+    "usage": [
+      "Type 2 diabetes"
+    ]
+  },
+  "SC_008_04": {
+    "subtitle": "Metformin",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Kidney failure",
+      "Shock / hypoxia",
+      "Severe acute illness"
+    ],
+    "usage": [
+      "Type 2 diabetes"
+    ]
+  },
+  "SC_008_05": {
+    "subtitle": "GLP-1 agonists",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Vomiting",
+      "Dehydration",
+      "Reduced intake"
+    ],
+    "usage": [
+      "Type 2 diabetes",
+      "Weight loss"
+    ]
+  },
+  "SC_008_06": {
+    "subtitle": "SGLT2 inhibitors",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Dehydration",
+      "Acute illness / infection",
+      "Rapid breathing",
+      "Reduced intake"
+    ],
+    "usage": [
+      "Type 2 diabetes"
+    ]
+  },
+  "SC_008_07": {
+    "subtitle": "Glucagon",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Possible recurrence",
+      "Repeat glucose checks",
+      "Altered mental status",
+      "Food intake resumed"
+    ],
+    "usage": [
+      "Severe hypoglycemia"
+    ]
+  },
   "SC_009_01": {
-  "subtitle": "Heparins / LMWH",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Trauma / fall / bleeding",
-    "Recent injection",
-    "Signs of shock",
-    "Possible internal bleeding"
-  ],
-  "usage": [
-    "Anticoagulation"
-  ]
-},
-
-"SC_009_02": {
-  "subtitle": "Specialized injectable anticoagulants",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Trauma / bleeding",
-    "Last dose",
-    "Signs of shock",
-    "Possible internal bleeding"
-  ],
-  "usage": [
-    "Anticoagulation"
-  ]
-},
-
-"SC_010_01": {
-  "subtitle": "Antiarrhythmics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Bradycardia",
-    "Syncope",
-    "Palpitations",
-    "Hypotension"
-  ],
-  "usage": [
-    "Arrhythmia"
-  ]
-},
-
-"SC_010_02": {
-  "subtitle": "Cardiac glycosides (digoxin)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Bradycardia / syncope",
-    "Nausea / vomiting",
-    "Confusion",
-    "Kidney failure"
-  ],
-  "usage": [
-    "Heart failure",
-    "Atrial fibrillation"
-  ]
-},
-    
+    "subtitle": "Heparins / LMWH",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Trauma / fall / bleeding",
+      "Recent injection",
+      "Signs of shock",
+      "Possible internal bleeding"
+    ],
+    "usage": [
+      "Anticoagulation"
+    ]
+  },
+  "SC_009_02": {
+    "subtitle": "Specialized injectable anticoagulants",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Trauma / bleeding",
+      "Last dose",
+      "Signs of shock",
+      "Possible internal bleeding"
+    ],
+    "usage": [
+      "Anticoagulation"
+    ]
+  },
+  "SC_010_01": {
+    "subtitle": "Antiarrhythmics",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Bradycardia / possible arrhythmia",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Bradycardia",
+      "Syncope",
+      "Palpitations",
+      "Hypotension"
+    ],
+    "usage": [
+      "Arrhythmia"
+    ]
+  },
+  "SC_010_02": {
+    "subtitle": "Cardiac glycosides (digoxin)",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Possible digoxin toxicity",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Bradycardia / syncope",
+      "Nausea / vomiting",
+      "Confusion",
+      "Kidney failure"
+    ],
+    "usage": [
+      "Heart failure",
+      "Atrial fibrillation"
+    ]
+  },
   "SC_011_01": {
-  "subtitle": "Inhaled bronchodilators (beta-2)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Dyspnea / wheezing",
-    "Tachycardia / palpitations",
-    "Repeated use",
-    "Chest pain"
-  ],
-  "usage": [
-    "Asthma / COPD",
-    "Dyspnea"
-  ]
-},
-
-"SC_011_02": {
-  "subtitle": "Inhaled corticosteroids",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Chronic asthma / COPD",
-    "Recent exacerbation",
-    "Rescue inhaler",
-    "Poor adherence"
-  ],
-  "usage": [
-    "Asthma / COPD",
-    "Respiratory maintenance"
-  ]
-},
-
-"SC_011_03": {
-  "subtitle": "Inhaled anticholinergics (SAMA/LAMA)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "COPD / asthma",
-    "Dyspnea / worsening",
-    "Rescue inhaler",
-    "Respiratory polypharmacy"
-  ],
-  "usage": [
-    "COPD / asthma",
-    "Respiratory maintenance"
-  ]
-},
-
-"SC_011_04": {
-  "subtitle": "ICS/LABA combinations",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Chronic asthma / COPD",
-    "Recent exacerbations",
-    "Rescue inhaler",
-    "Current dyspnea"
-  ],
-  "usage": [
-    "Asthma / COPD",
-    "Respiratory maintenance"
-  ]
-},
-
-"SC_011_05": {
-  "subtitle": "Leukotriene modifiers",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Known asthma",
-    "Respiratory allergies",
-    "Dyspnea / wheezing",
-    "Rescue inhaler"
-  ],
-  "usage": [
-    "Asthma",
-    "Respiratory allergies"
-  ]
-},
-  
+    "subtitle": "Inhaled bronchodilators (beta-2)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Dyspnea / wheezing",
+      "Tachycardia / palpitations",
+      "Repeated use",
+      "Chest pain"
+    ],
+    "usage": [
+      "Asthma / COPD",
+      "Dyspnea"
+    ]
+  },
+  "SC_011_02": {
+    "subtitle": "Inhaled corticosteroids",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Chronic asthma / COPD",
+      "Recent exacerbation",
+      "Rescue inhaler",
+      "Poor adherence"
+    ],
+    "usage": [
+      "Asthma / COPD",
+      "Respiratory maintenance"
+    ]
+  },
+  "SC_011_03": {
+    "subtitle": "Inhaled anticholinergics (SAMA/LAMA)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "COPD / asthma",
+      "Dyspnea / worsening",
+      "Rescue inhaler",
+      "Respiratory polypharmacy"
+    ],
+    "usage": [
+      "COPD / asthma",
+      "Respiratory maintenance"
+    ]
+  },
+  "SC_011_04": {
+    "subtitle": "ICS/LABA combinations",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Chronic asthma / COPD",
+      "Recent exacerbations",
+      "Rescue inhaler",
+      "Current dyspnea"
+    ],
+    "usage": [
+      "Asthma / COPD",
+      "Respiratory maintenance"
+    ]
+  },
+  "SC_011_05": {
+    "subtitle": "Leukotriene modifiers",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Known asthma",
+      "Respiratory allergies",
+      "Dyspnea / wheezing",
+      "Rescue inhaler"
+    ],
+    "usage": [
+      "Asthma",
+      "Respiratory allergies"
+    ]
+  },
   "SC_012_01": {
-  "subtitle": "Loop diuretics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Dehydration",
-    "Hypotension",
-    "Dyspnea / fluid overload",
-    "Weakness / cramps"
-  ],
-  "usage": [
-    "Heart failure / fluid overload",
-    "Edema"
-  ]
-},
-
-"SC_012_02": {
-  "subtitle": "Thiazide diuretics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Dehydration",
-    "Orthostatic hypotension",
-    "Weakness / cramps",
-    "Confusion"
-  ],
-  "usage": [
-    "Hypertension / edema"
-  ]
-},
-
-"SC_012_03": {
-  "subtitle": "Potassium-sparing diuretics / aldosterone antagonists",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Hyperkalemia",
-    "Kidney failure",
-    "Weakness / bradycardia",
-    "ACE inhibitor / ARB / potassium combination"
-  ],
-  "usage": [
-    "Heart failure / fluid overload",
-    "Potassium sparing"
-  ]
-},
- 
+    "subtitle": "Loop diuretics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Dehydration",
+      "Hypotension",
+      "Dyspnea / fluid overload",
+      "Weakness / cramps"
+    ],
+    "usage": [
+      "Heart failure / fluid overload",
+      "Edema"
+    ]
+  },
+  "SC_012_02": {
+    "subtitle": "Thiazide diuretics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Dehydration",
+      "Orthostatic hypotension",
+      "Weakness / cramps",
+      "Confusion"
+    ],
+    "usage": [
+      "Hypertension / edema"
+    ]
+  },
+  "SC_012_03": {
+    "subtitle": "Potassium-sparing diuretics / aldosterone antagonists",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Hyperkalemia",
+      "Kidney failure",
+      "Weakness / bradycardia",
+      "ACE inhibitor / ARB / potassium combination"
+    ],
+    "usage": [
+      "Heart failure / fluid overload",
+      "Potassium sparing"
+    ]
+  },
   "SC_013_01": {
-  "subtitle": "Statins",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Cardiovascular risk",
-    "Muscle pain",
-    "Polypharmacy"
-  ],
-  "usage": [
-    "Cardiovascular prevention"
-  ]
-},
-
-"SC_013_02": {
-  "subtitle": "Other lipid-lowering agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Cardiovascular risk",
-    "Polypharmacy"
-  ],
-  "usage": [
-    "Dyslipidemia",
-    "Cardiovascular prevention"
-  ]
-},
-
-"SC_014_01": {
-  "subtitle": "NSAIDs",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "GI bleeding",
-    "Anticoagulant / antiplatelet combination",
-    "Dehydration",
-    "Kidney failure"
-  ],
-  "usage": [
-    "Pain / inflammation"
-  ]
-},
-
-"SC_014_02": {
-  "subtitle": "Gout treatments",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Diarrhea / vomiting",
-    "Dehydration",
-    "Kidney failure"
-  ],
-  "usage": [
-    "Gout",
-    "Inflammatory joint flare"
-  ]
-},
-
-"SC_015_01": {
-  "subtitle": "Oral antibiotics (beta-lactams and related)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Allergy / anaphylaxis",
-    "Fever / chills",
-    "Signs of sepsis"
-  ],
-  "usage": [
-    "Infection"
-  ]
-},
-
-"SC_015_02": {
-  "subtitle": "Oral antibiotics (macrolides / quinolones / others)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Allergy",
-    "Polypharmacy",
-    "QT prolongation / arrhythmia",
-    "Signs of sepsis"
-  ],
-  "usage": [
-    "Infection"
-  ]
-},
-
-"SC_015_03": {
-  "subtitle": "Injectable / IV antibiotics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Possible sepsis",
-    "Perfusion / hypotension",
-    "Allergy / anaphylaxis",
-    "IV treatment"
-  ],
-  "usage": [
-    "Severe infection"
-  ]
-},
-
-"SC_015_04": {
-  "subtitle": "Oral antivirals",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Immunosuppression",
-    "Kidney failure",
-    "Fever / clinical deterioration"
-  ],
-  "usage": [
-    "Viral infection"
-  ]
-},
-
-"SC_015_05": {
-  "subtitle": "Oral antifungals",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Immunosuppression",
-    "Fever / clinical deterioration",
-    "Persistent infection"
-  ],
-  "usage": [
-    "Candidiasis",
-    "Fungal infection"
-  ]
-},
-
+    "subtitle": "Statins",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Cardiovascular risk",
+      "Muscle pain",
+      "Polypharmacy"
+    ],
+    "usage": [
+      "Cardiovascular prevention"
+    ]
+  },
+  "SC_013_02": {
+    "subtitle": "Other lipid-lowering agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Cardiovascular risk",
+      "Polypharmacy"
+    ],
+    "usage": [
+      "Dyslipidemia",
+      "Cardiovascular prevention"
+    ]
+  },
+  "SC_014_01": {
+    "subtitle": "NSAIDs",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "GI bleeding",
+      "Anticoagulant / antiplatelet combination",
+      "Dehydration",
+      "Kidney failure"
+    ],
+    "usage": [
+      "Pain / inflammation"
+    ]
+  },
+  "SC_014_02": {
+    "subtitle": "Gout treatments",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Diarrhea / vomiting",
+      "Dehydration",
+      "Kidney failure"
+    ],
+    "usage": [
+      "Gout",
+      "Inflammatory joint flare"
+    ]
+  },
+  "SC_015_01": {
+    "subtitle": "Oral antibiotics (beta-lactams and related)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Allergy / anaphylaxis",
+      "Fever / chills",
+      "Signs of sepsis"
+    ],
+    "usage": [
+      "Infection"
+    ]
+  },
+  "SC_015_02": {
+    "subtitle": "Oral antibiotics (macrolides / quinolones / others)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Allergy",
+      "Polypharmacy",
+      "QT prolongation / arrhythmia",
+      "Signs of sepsis"
+    ],
+    "usage": [
+      "Infection"
+    ]
+  },
+  "SC_015_03": {
+    "subtitle": "Injectable / IV antibiotics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Possible sepsis",
+      "Perfusion / hypotension",
+      "Allergy / anaphylaxis",
+      "IV treatment"
+    ],
+    "usage": [
+      "Severe infection"
+    ]
+  },
+  "SC_015_04": {
+    "subtitle": "Oral antivirals",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Immunosuppression",
+      "Kidney failure",
+      "Fever / clinical deterioration"
+    ],
+    "usage": [
+      "Viral infection"
+    ]
+  },
+  "SC_015_05": {
+    "subtitle": "Oral antifungals",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Immunosuppression",
+      "Fever / clinical deterioration",
+      "Persistent infection"
+    ],
+    "usage": [
+      "Candidiasis",
+      "Fungal infection"
+    ]
+  },
   "SC_016_01": {
-  "subtitle": "Antianginals (nitrates)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Chest pain",
-    "Hypotension / syncope",
-    "Recent nitrate use",
-    "Recent PDE5 use"
-  ],
-  "usage": [
-    "Angina",
-    "Chest pain",
-    "Heart failure"
-  ]
-},
-
-"SC_016_02": {
-  "subtitle": "PDE5 inhibitors",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Recent PDE5 use",
-    "Nitrates given / planned",
-    "Hypotension / syncope"
-  ],
-  "usage": [
-    "Erectile dysfunction",
-    "Pulmonary hypertension"
-  ]
-},
-
-"SC_016_03": {
-  "subtitle": "Non-vasodilator antianginals",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Syncope",
-    "Palpitations",
-    "QT prolongation risk",
-    "Polypharmacy"
-  ],
-  "usage": [
-    "Chronic angina"
-  ]
-},
-
-"SC_017_01": {
-  "subtitle": "Gabapentinoids",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness",
-    "Dizziness / ataxia",
-    "Falls",
-    "Opioid / benzo / alcohol combination"
-  ],
-  "usage": [
-    "Neuropathic pain",
-    "Epilepsy"
-  ]
-},
-
-"SC_017_02": {
-  "subtitle": "Antiepileptics (general)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Missed doses",
-    "Recent seizure",
-    "Altered mental status",
-    "Associated trauma"
-  ],
-  "usage": [
-    "Epilepsy"
-  ]
-},
-
-"SC_017_03": {
-  "subtitle": "Antiepileptics — Levetiracetam",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Missed doses",
-    "Recent seizure",
-    "Drowsiness",
-    "Associated trauma"
-  ],
-  "usage": [
-    "Epilepsy"
-  ]
-},
-
-"SC_017_04": {
-  "subtitle": "Antiepileptics — Valproate",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Missed doses",
-    "Possible overdose",
-    "Altered mental status"
-  ],
-  "usage": [
-    "Epilepsy",
-    "Bipolar disorder"
-  ]
-},
-
-"SC_017_05": {
-  "subtitle": "Parkinson dopaminergic agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Orthostatic hypotension",
-    "Falls",
-    "Missed doses",
-    "Syncope"
-  ],
-  "usage": [
-    "Parkinson disease"
-  ]
-},
-
-"SC_017_06": {
-  "subtitle": "Dementia cognitive agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Cognitive impairment",
-    "Falls",
-    "Altered mental status"
-  ],
-  "usage": [
-    "Dementia"
-  ]
-},
-
-"SC_017_07": {
-  "subtitle": "Antiepileptics — Lamotrigine",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Missed doses",
-    "Recent seizure",
-    "Severe rash",
-    "Associated trauma"
-  ],
-  "usage": [
-    "Epilepsy",
-    "Bipolar disorder"
-  ]
-},
-
-"SC_017_08": {
-  "subtitle": "CNS stimulants (ADHD)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Tachycardia",
-    "Hypertension",
-    "Agitation",
-    "Other stimulants"
-  ],
-  "usage": [
-    "ADHD",
-    "Narcolepsy"
-  ]
-},
+    "subtitle": "Antianginals (nitrates)",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Hypotension / PDE5 interaction",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Chest pain",
+      "Hypotension / syncope",
+      "Recent nitrate use",
+      "Recent PDE5 use"
+    ],
+    "usage": [
+      "Angina",
+      "Chest pain",
+      "Heart failure"
+    ]
+  },
+  "SC_016_02": {
+    "subtitle": "PDE5 inhibitors",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Nitrate interaction",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Recent PDE5 use",
+      "Nitrates given / planned",
+      "Hypotension / syncope"
+    ],
+    "usage": [
+      "Erectile dysfunction",
+      "Pulmonary hypertension"
+    ]
+  },
+  "SC_016_03": {
+    "subtitle": "Non-vasodilator antianginals",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "QT prolongation / drug interactions",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Syncope",
+      "Palpitations",
+      "QT prolongation risk",
+      "Polypharmacy"
+    ],
+    "usage": [
+      "Chronic angina"
+    ]
+  },
+  "SC_017_01": {
+    "subtitle": "Gabapentinoids",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness",
+      "Dizziness / ataxia",
+      "Falls",
+      "Opioid / benzo / alcohol combination"
+    ],
+    "usage": [
+      "Neuropathic pain",
+      "Epilepsy"
+    ]
+  },
+  "SC_017_02": {
+    "subtitle": "Antiepileptics (general)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Missed doses",
+      "Recent seizure",
+      "Altered mental status",
+      "Associated trauma"
+    ],
+    "usage": [
+      "Epilepsy"
+    ]
+  },
+  "SC_017_03": {
+    "subtitle": "Antiepileptics — Levetiracetam",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Missed doses",
+      "Recent seizure",
+      "Drowsiness",
+      "Associated trauma"
+    ],
+    "usage": [
+      "Epilepsy"
+    ]
+  },
+  "SC_017_04": {
+    "subtitle": "Antiepileptics — Valproate",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Missed doses",
+      "Possible overdose",
+      "Altered mental status"
+    ],
+    "usage": [
+      "Epilepsy",
+      "Bipolar disorder"
+    ]
+  },
+  "SC_017_05": {
+    "subtitle": "Parkinson dopaminergic agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Orthostatic hypotension",
+      "Falls",
+      "Missed doses",
+      "Syncope"
+    ],
+    "usage": [
+      "Parkinson disease"
+    ]
+  },
+  "SC_017_06": {
+    "subtitle": "Dementia cognitive agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Cognitive impairment",
+      "Falls",
+      "Altered mental status"
+    ],
+    "usage": [
+      "Dementia"
+    ]
+  },
+  "SC_017_07": {
+    "subtitle": "Antiepileptics — Lamotrigine",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Missed doses",
+      "Recent seizure",
+      "Severe rash",
+      "Associated trauma"
+    ],
+    "usage": [
+      "Epilepsy",
+      "Bipolar disorder"
+    ]
+  },
+  "SC_017_08": {
+    "subtitle": "CNS stimulants (ADHD)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Tachycardia",
+      "Hypertension",
+      "Agitation",
+      "Other stimulants"
+    ],
+    "usage": [
+      "ADHD",
+      "Narcolepsy"
+    ]
+  },
   "SC_018_01": {
-  "subtitle": "Non-sedating antihistamines",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Active allergic reaction",
-    "Hives / dyspnea",
-    "Signs of anaphylaxis"
-  ],
-  "usage": [
-    "Allergies / rhinitis"
-  ]
-},
-
-"SC_018_02": {
-  "subtitle": "Sedating antihistamines",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness / confusion",
-    "Falls",
-    "Other CNS depressants",
-    "Elderly patient"
-  ],
-  "usage": [
-    "Allergies / itching",
-    "Insomnia / sedation"
-  ]
-},
-
-"SC_019_01": {
-  "subtitle": "PPIs / antacids / gastric protection",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "GI bleeding symptoms",
-    "NSAIDs / anticoagulants",
-    "Abdominal pain"
-  ],
-  "usage": [
-    "Reflux / gastric protection"
-  ]
-},
-
-"SC_019_02": {
-  "subtitle": "H2 blockers",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "GI bleeding symptoms",
-    "NSAIDs / anticoagulants",
-    "Abdominal pain"
-  ],
-  "usage": [
-    "Reflux / dyspepsia"
-  ]
-},
-
-"SC_019_03": {
-  "subtitle": "Antidiarrheals",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Severe diarrhea",
-    "Dehydration",
-    "Fever / blood in stool",
-    "Recent antibiotics"
-  ],
-  "usage": [
-    "Diarrhea"
-  ]
-},
-
-"SC_019_04": {
-  "subtitle": "Laxatives",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Severe abdominal pain",
-    "Distension",
-    "No stool / gas",
-    "Associated opioids"
-  ],
-  "usage": [
-    "Constipation"
-  ]
-},
-
-"SC_019_05": {
-  "subtitle": "Antiemetics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Persistent vomiting",
-    "Syncope / palpitations",
-    "QT prolongation risk",
-    "Possible dehydration"
-  ],
-  "usage": [
-    "Nausea / vomiting"
-  ]
-},
-
-"SC_019_06": {
-  "subtitle": "GI antispasmodics / IBS agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Severe abdominal pain",
-    "Confusion / tachycardia",
-    "Urinary retention",
-    "Elderly patient"
-  ],
-  "usage": [
-    "Abdominal cramps",
-    "IBS"
-  ]
-},
-
-"SC_020_01": {
-  "subtitle": "Hormone replacement therapy",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Recent missed doses",
-    "Alternative clinical cause",
-    "Chronic treatment"
-  ],
-  "usage": [
-    "Hypothyroidism",
-    "Hormone replacement"
-  ]
-},
-
-"SC_021_01": {
-  "subtitle": "Systemic corticosteroids",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Chronic steroid use",
-    "Recent missed doses",
-    "Fever / infection",
-    "Unexplained hypotension"
-  ],
-  "usage": [
-    "COPD / asthma",
-    "Inflammatory disease"
-  ]
-},
-
-"SC_021_02": {
-  "subtitle": "Topical corticosteroids",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Topical use only",
-    "Localized treatment",
-    "Minimal systemic impact"
-  ],
-  "usage": [
-    "Eczema / dermatitis"
-  ]
-},
-
-"SC_021_03": {
-  "subtitle": "Systemic non-biologic immunomodulators",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Immunosuppression",
-    "Fever / infection",
-    "Methotrexate or similar",
-    "Weekly dosing schedule"
-  ],
-  "usage": [
-    "Rheumatoid arthritis",
-    "Autoimmune disease",
-    "Immunomodulation"
-  ]
-},
-
+    "subtitle": "Non-sedating antihistamines",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Active allergic reaction",
+      "Hives / dyspnea",
+      "Signs of anaphylaxis"
+    ],
+    "usage": [
+      "Allergies / rhinitis"
+    ]
+  },
+  "SC_018_02": {
+    "subtitle": "Sedating antihistamines",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness / confusion",
+      "Falls",
+      "Other CNS depressants",
+      "Elderly patient"
+    ],
+    "usage": [
+      "Allergies / itching",
+      "Insomnia / sedation"
+    ]
+  },
+  "SC_019_01": {
+    "subtitle": "PPIs / antacids / gastric protection",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "GI bleeding symptoms",
+      "NSAIDs / anticoagulants",
+      "Abdominal pain"
+    ],
+    "usage": [
+      "Reflux / gastric protection"
+    ]
+  },
+  "SC_019_02": {
+    "subtitle": "H2 blockers",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "GI bleeding symptoms",
+      "NSAIDs / anticoagulants",
+      "Abdominal pain"
+    ],
+    "usage": [
+      "Reflux / dyspepsia"
+    ]
+  },
+  "SC_019_03": {
+    "subtitle": "Antidiarrheals",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Severe diarrhea",
+      "Dehydration",
+      "Fever / blood in stool",
+      "Recent antibiotics"
+    ],
+    "usage": [
+      "Diarrhea"
+    ]
+  },
+  "SC_019_04": {
+    "subtitle": "Laxatives",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Severe abdominal pain",
+      "Distension",
+      "No stool / gas",
+      "Associated opioids"
+    ],
+    "usage": [
+      "Constipation"
+    ]
+  },
+  "SC_019_05": {
+    "subtitle": "Antiemetics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Persistent vomiting",
+      "Syncope / palpitations",
+      "QT prolongation risk",
+      "Possible dehydration"
+    ],
+    "usage": [
+      "Nausea / vomiting"
+    ]
+  },
+  "SC_019_06": {
+    "subtitle": "GI antispasmodics / IBS agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Severe abdominal pain",
+      "Confusion / tachycardia",
+      "Urinary retention",
+      "Elderly patient"
+    ],
+    "usage": [
+      "Abdominal cramps",
+      "IBS"
+    ]
+  },
+  "SC_020_01": {
+    "subtitle": "Hormone replacement therapy",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Recent missed doses",
+      "Alternative clinical cause",
+      "Chronic treatment"
+    ],
+    "usage": [
+      "Hypothyroidism",
+      "Hormone replacement"
+    ]
+  },
+  "SC_021_01": {
+    "subtitle": "Systemic corticosteroids",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Possible adrenal suppression",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Chronic steroid use",
+      "Recent missed doses",
+      "Fever / infection",
+      "Unexplained hypotension"
+    ],
+    "usage": [
+      "COPD / asthma",
+      "Inflammatory disease"
+    ]
+  },
+  "SC_021_02": {
+    "subtitle": "Topical corticosteroids",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Topical use only",
+      "Localized treatment",
+      "Minimal systemic impact"
+    ],
+    "usage": [
+      "Eczema / dermatitis"
+    ]
+  },
+  "SC_021_03": {
+    "subtitle": "Systemic non-biologic immunomodulators",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Immunosuppression",
+      "Fever / infection",
+      "Methotrexate or similar",
+      "Weekly dosing schedule"
+    ],
+    "usage": [
+      "Rheumatoid arthritis",
+      "Autoimmune disease",
+      "Immunomodulation"
+    ]
+  },
   "SC_022_01": {
-  "subtitle": "Muscle relaxants",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness / confusion",
-    "Dizziness",
-    "Falls",
-    "Associated CNS depressants"
-  ],
-  "usage": [
-    "Muscle spasms",
-    "Musculoskeletal pain"
-  ]
-},
-
-"SC_023_01": {
-  "subtitle": "Epinephrine auto-injector",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Active anaphylaxis",
-    "Dyspnea / wheezing",
-    "Hypotension / shock",
-    "Auto-injector used"
-  ],
-  "usage": [
-    "Anaphylaxis",
-    "Severe allergies"
-  ]
-},
-
-"SC_024_01": {
-  "subtitle": "ADHD treatments",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Tachycardia",
-    "Hypertension",
-    "Agitation",
-    "Other stimulants"
-  ],
-  "usage": [
-    "ADHD",
-    "Narcolepsy"
-  ]
-},
-
-"SC_025_01": {
-  "subtitle": "Lithium",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Dehydration",
-    "Vomiting / diarrhea",
-    "Neurologic changes",
-    "Kidney failure"
-  ],
-  "usage": [
-    "Bipolar disorder"
-  ]
-},
-
-"SC_026_01": {
-  "subtitle": "Ondansetron",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Persistent vomiting",
-    "Syncope / palpitations",
-    "Possible QT prolongation",
-    "Dehydration"
-  ],
-  "usage": [
-    "Nausea / vomiting"
-  ]
-},
-
-"SC_026_02": {
-  "subtitle": "Antiemetics / prokinetics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Drowsiness",
-    "Severe vomiting",
-    "Dizziness",
-    "CNS polypharmacy"
-  ],
-  "usage": [
-    "Nausea / vomiting",
-    "Gastroparesis"
-  ]
-},
-
-"SC_027_01": {
-  "subtitle": "Acetaminophen",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Possible overdose",
-    "Multiple APAP products",
-    "Liver disease"
-  ],
-  "usage": [
-    "Pain / fever"
-  ]
-},
-
-"SC_028_01": {
-  "subtitle": "Potassium exchange resins",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "CKD / dialysis",
-    "Weakness / palpitations",
-    "Other hyperK medications",
-    "ECG if symptomatic"
-  ],
-  "usage": [
-    "Hyperkalemia"
-  ]
-},
-
-"SC_028_02": {
-  "subtitle": "Phosphate binders",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Recent dialysis",
-    "Fluid overload / dehydration",
-    "Renal context"
-  ],
-  "usage": [
-    "Hyperphosphatemia",
-    "Dialysis / CKD"
-  ]
-},
-
-"SC_028_03": {
-  "subtitle": "Active vitamin D / analogs",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Recent dialysis",
-    "Other renal medications",
-    "Advanced CKD"
-  ],
-  "usage": [
-    "Hypocalcemia",
-    "Dialysis / CKD"
-  ]
-},
-
-"SC_028_04": {
-  "subtitle": "Potassium supplements (KCl)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Associated diuretics",
-    "Known CKD",
-    "Palpitations / cramps",
-    "ECG if symptomatic"
-  ],
-  "usage": [
-    "Hypokalemia"
-  ]
-},
-
-"SC_029_01": {
-  "subtitle": "BPH / LUTS treatments",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Standing dizziness",
-    "Syncope / falls",
-    "Orthostatic hypotension",
-    "Associated PDE5 / antihypertensives"
-  ],
-  "usage": [
-    "BPH / LUTS"
-  ]
-},
-
-"SC_030_01": {
-  "subtitle": "Vitamins / minerals / supplements",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Low clinical impact",
-    "Contextual information"
-  ],
-  "usage": [
-    "Nutritional supplements"
-  ]
-},
-
-"SC_031_01": {
-  "subtitle": "Parkinson dopaminergic agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Orthostatic hypotension",
-    "Falls",
-    "Last dose",
-    "Motor worsening"
-  ],
-  "usage": [
-    "Parkinson disease"
-  ]
-},
-
-"SC_031_02": {
-  "subtitle": "Dementia cognitive agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Cognitive impairment",
-    "Bradycardia / syncope",
-    "Falls"
-  ],
-  "usage": [
-    "Dementia / cognition"
-  ]
-},
-
-"SC_032_01": {
-  "subtitle": "Bisphosphonates",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Recent fall",
-    "Possible fracture",
-    "Osteoporotic patient"
-  ],
-  "usage": [
-    "Osteoporosis"
-  ],
+    "subtitle": "Muscle relaxants",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness / confusion",
+      "Dizziness",
+      "Falls",
+      "Associated CNS depressants"
+    ],
+    "usage": [
+      "Muscle spasms",
+      "Musculoskeletal pain"
+    ]
+  },
+  "SC_023_01": {
+    "subtitle": "Epinephrine auto-injector",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Active anaphylaxis",
+      "Dyspnea / wheezing",
+      "Hypotension / shock",
+      "Auto-injector used"
+    ],
+    "usage": [
+      "Anaphylaxis",
+      "Severe allergies"
+    ]
+  },
+  "SC_024_01": {
+    "subtitle": "ADHD treatments",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Tachycardia",
+      "Hypertension",
+      "Agitation",
+      "Other stimulants"
+    ],
+    "usage": [
+      "ADHD",
+      "Narcolepsy"
+    ]
+  },
+  "SC_025_01": {
+    "subtitle": "Lithium",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Dehydration",
+      "Vomiting / diarrhea",
+      "Neurologic changes",
+      "Kidney failure"
+    ],
+    "usage": [
+      "Bipolar disorder"
+    ]
+  },
+  "SC_026_01": {
+    "subtitle": "Ondansetron",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Persistent vomiting",
+      "Syncope / palpitations",
+      "Possible QT prolongation",
+      "Dehydration"
+    ],
+    "usage": [
+      "Nausea / vomiting"
+    ]
+  },
+  "SC_026_02": {
+    "subtitle": "Antiemetics / prokinetics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Drowsiness",
+      "Severe vomiting",
+      "Dizziness",
+      "CNS polypharmacy"
+    ],
+    "usage": [
+      "Nausea / vomiting",
+      "Gastroparesis"
+    ]
+  },
+  "SC_027_01": {
+    "subtitle": "Acetaminophen",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Possible overdose",
+      "Multiple APAP products",
+      "Liver disease"
+    ],
+    "usage": [
+      "Pain / fever"
+    ]
+  },
+  "SC_028_01": {
+    "subtitle": "Potassium exchange resins",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "CKD / dialysis",
+      "Weakness / palpitations",
+      "Other hyperK medications",
+      "ECG if symptomatic"
+    ],
+    "usage": [
+      "Hyperkalemia"
+    ]
+  },
+  "SC_028_02": {
+    "subtitle": "Phosphate binders",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Recent dialysis",
+      "Fluid overload / dehydration",
+      "Renal context"
+    ],
+    "usage": [
+      "Hyperphosphatemia",
+      "Dialysis / CKD"
+    ]
+  },
+  "SC_028_03": {
+    "subtitle": "Active vitamin D / analogs",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Recent dialysis",
+      "Other renal medications",
+      "Advanced CKD"
+    ],
+    "usage": [
+      "Hypocalcemia",
+      "Dialysis / CKD"
+    ]
+  },
+  "SC_028_04": {
+    "subtitle": "Potassium supplements (KCl)",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Associated diuretics",
+      "Known CKD",
+      "Palpitations / cramps",
+      "ECG if symptomatic"
+    ],
+    "usage": [
+      "Hypokalemia"
+    ]
+  },
+  "SC_029_01": {
+    "subtitle": "BPH / LUTS treatments",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Standing dizziness",
+      "Syncope / falls",
+      "Orthostatic hypotension",
+      "Associated PDE5 / antihypertensives"
+    ],
+    "usage": [
+      "BPH / LUTS"
+    ]
+  },
+  "SC_030_01": {
+    "subtitle": "Vitamins / minerals / supplements",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Low clinical impact",
+      "Contextual information"
+    ],
+    "usage": [
+      "Nutritional supplements"
+    ]
+  },
+  "SC_031_01": {
+    "subtitle": "Parkinson dopaminergic agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Orthostatic hypotension",
+      "Falls",
+      "Last dose",
+      "Motor worsening"
+    ],
+    "usage": [
+      "Parkinson disease"
+    ]
+  },
+  "SC_031_02": {
+    "subtitle": "Dementia cognitive agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Cognitive impairment",
+      "Bradycardia / syncope",
+      "Falls"
+    ],
+    "usage": [
+      "Dementia / cognition"
+    ]
+  },
+  "SC_032_01": {
+    "subtitle": "Bisphosphonates",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Recent fall",
+      "Possible fracture",
+      "Osteoporotic patient"
+    ],
+    "usage": [
+      "Osteoporosis"
+    ]
+  },
+  "SC_033_01": {
+    "subtitle": "Urinary analgesics",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Urinary pain",
+      "Fever",
+      "Urinary retention"
+    ],
+    "usage": [
+      "Dysuria / urinary pain"
+    ]
+  },
+  "SC_034_01": {
+    "subtitle": "Specialized oncology therapies",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Known cancer",
+      "Fever / infection",
+      "Unusual bleeding",
+      "Significant weakness / deterioration"
+    ],
+    "usage": [
+      "Cancer",
+      "Anticancer treatment"
+    ]
+  },
+  "SC_035_01": {
+    "subtitle": "Opioid antagonists (naltrexone)",
+    "mainRiskLabel": "RISK",
+    "mainRisk": "Reduced opioid effectiveness",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Recent dose",
+      "Pain despite opioids",
+      "Addiction treatment context",
+      "Reduced analgesic effect"
+    ],
+    "usage": [
+      "Relapse prevention"
+    ]
+  },
+  "SC_036_01": {
+    "subtitle": "Ophthalmic glaucoma agents",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Timolol",
+      "Bradycardia / hypotension",
+      "Reduced vision",
+      "Falls"
+    ],
+    "usage": [
+      "Glaucoma"
+    ]
+  },
   "SC_032_02": {
-  "subtitle": "Non-bisphosphonate antiresorptive therapies",
-  "mainRiskLabel": "FIELD IMPACT",
-  "mainRisk": "Osteoporosis / fracture risk",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Fall / fracture",
-    "Bone fragility",
-    "Periodic injectable treatment"
-  ],
-  "usage": [
-    "Osteoporosis"
-  ]
-}
-},
-
-"SC_033_01": {
-  "subtitle": "Urinary analgesics",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Urinary pain",
-    "Fever",
-    "Urinary retention"
-  ],
-  "usage": [
-    "Dysuria / urinary pain"
-  ]
-},
-
-"SC_034_01": {
-  "subtitle": "Specialized oncology therapies",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Known cancer",
-    "Fever / infection",
-    "Unusual bleeding",
-    "Significant weakness / deterioration"
-  ],
-  "usage": [
-    "Cancer",
-    "Anticancer treatment"
-  ]
-},
-
-"SC_035_01": {
-  "subtitle": "Opioid antagonists (naltrexone)",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Recent dose",
-    "Pain despite opioids",
-    "Addiction treatment context",
-    "Reduced analgesic effect"
-  ],
-  "usage": [
-    "Relapse prevention"
-  ]
-},
-
-"SC_036_01": {
-  "subtitle": "Ophthalmic glaucoma agents",
-  "quickCheckLabel": "KEY POINTS",
-  "quickCheck": [
-    "Timolol",
-    "Bradycardia / hypotension",
-    "Reduced vision",
-    "Falls"
-  ],
-  "usage": [
-    "Glaucoma"
-  ]
-}
-
+    "subtitle": "Non-bisphosphonate antiresorptive therapies",
+    "mainRiskLabel": "FIELD IMPACT",
+    "mainRisk": "Osteoporosis / fracture risk",
+    "quickCheckLabel": "KEY POINTS",
+    "quickCheck": [
+      "Fall / fracture",
+      "Bone fragility",
+      "Periodic injectable treatment"
+    ],
+    "usage": [
+      "Osteoporosis"
+    ]
+  }
 }
