@@ -346,6 +346,9 @@
 
 "SC_008_02": {
   "subtitle": "Insulins",
+  "mainRiskLabel": "RISK",
+  "mainRisk": "Possible severe hypoglycemia",
+
   "quickCheckLabel": "KEY POINTS",
   "quickCheck": [
     "Hypoglycemia",
@@ -354,8 +357,7 @@
     "Last meal"
   ],
   "usage": [
-    "Type 1 diabetes",
-    "Type 2 diabetes"
+    "Insulin-treated diabetes"
   ]
 },
 

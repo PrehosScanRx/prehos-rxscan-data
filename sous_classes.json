@@ -629,10 +629,10 @@
   "id_sc": "SC_008_02",
   "nom_sc": "Insulines",
   "id_cl_parent": "CL_008",
-  "raison_terrain": "Hypoglycémie rapide possible",
+  "raison_terrain": "Hypoglycémie sévère possible",
   "utilisation_courante": [
-    "Diabète type 1",
-    "Diabète type 2"
+    "Diabète insulinotraité"
+
   ],
   "points_cles": [
     "Hypoglycémie",
