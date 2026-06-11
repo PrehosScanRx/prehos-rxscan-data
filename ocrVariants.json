@@ -8690,7 +8690,20 @@
     "levodopa",
     "levodopa 100",
     "levodopa 250",
-    "carbidopa levodopa 100 25"
+    "carbidopa levodopa 100 25",
+    "levocarb",
+    "jamp levocarb",
+    "levocarb cr",
+    "jamp levocarb cr",
+    "apo levocarb",
+    "apolevocarb",
+    "jamplevocarb",
+    "levocarb 100 25",
+    "levocarb 100mg 25mg",
+    "levocarb cr 200 50",
+    "levocarb cr 200mg 50mg",
+    "carbidopa levodopa 100mg 25mg",
+    "carbidopa levodopa 200mg 50mg"
   ],
   "RX_234": [
     "apo mirapex",
