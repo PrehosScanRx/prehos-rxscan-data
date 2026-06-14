@@ -331,7 +331,9 @@
     ],
     "sous_classes_ids": [
       "SC_018_01",
-      "SC_018_02"
+      "SC_018_02",
+      "SC_018_03"
+    
     ],
     "actif": true
   },
@@ -561,6 +563,7 @@
       "Douleur osseuse / rachidienne (contexte)"
     ],
     "sous_classes_ids": [
+      "SC_032_01",
       "SC_032_01"
     ],
     "actif": true

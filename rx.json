@@ -5035,203 +5035,305 @@
     "actif": true
   },
   {
-  "id_rx": "RX_353",
-  "molecule": "Bévacizumab",
-  "displayName": "Avastin",
-  "tradeNames": [
-    "Avastin"
-  ],
-  "alias_ocr": [
-    "bevacizumab",
-    "bévacizumab",
-    "avastin",
-    "mvasi",
-    "zirabev"
-  ],
-  "id_cl": "CL_034",
-  "id_sc": "SC_034_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_354",
-  "molecule": "Oméga-3",
-  "noms_commerciaux": [
-    "Oméga-3",
-    "Huile de poisson"
-  ],
-  "alias_ocr": [
-    "Omega 3",
-    "Oméga 3",
-    "Omega-3",
-    "Oméga-3",
-    "Fish oil",
-    "Huile de poisson",
-    "Webber Naturals Omega-3",
-    "Jamieson Omega-3"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_355",
-  "molecule": "Coenzyme Q10",
-  "noms_commerciaux": [
-    "CoQ10",
-    "Coenzyme Q10"
-  ],
-  "alias_ocr": [
-    "CoQ10",
-    "Co Q10",
-    "Coenzyme Q10",
-    "Ubiquinone",
-    "Webber Naturals CoQ10",
-    "Jamieson CoQ10"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_356",
-  "molecule": "Glucosamine",
-  "noms_commerciaux": [
-    "Glucosamine"
-  ],
-  "alias_ocr": [
-    "Glucosamine",
-    "Glucosamine sulfate",
-    "Sulfate de glucosamine"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_357",
-  "molecule": "Glucosamine/Chondroïtine",
-  "noms_commerciaux": [
-    "Glucosamine Chondroïtine"
-  ],
-  "alias_ocr": [
-    "Glucosamine chondroitine",
-    "Glucosamine chondroïtine",
-    "Glucosamine + chondroitine",
-    "Glucosamine + chondroïtine",
-    "Glucosamine/chondroitine",
-    "Glucosamine/chondroïtine",
-    "Chondroitine",
-    "Chondroïtine"
-  ],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_358",
-  "molecule": "Dénosumab",
-  "noms_commerciaux": [
-    "Prolia"
-  ],
-  "alias_ocr": [
-    "Denosumab",
-    "Dénosumab",
-    "Prolia",
-    "Prolia injection",
-    "Prolia 60 mg"
-  ],
-  "id_cl": "CL_032",
-  "id_sc": "SC_032_02",
-  "actif": true
-},
-{
-  "id_rx": "RX_359",
-  "molecule": "Métolazone",
-  "noms_commerciaux": ["Zaroxolyn"],
-  "alias_ocr": ["Metolazone", "Métolazone", "Zaroxolyn"],
-  "id_cl": "CL_012",
-  "id_sc": "SC_012_02",
-  "actif": true
-},
-{
-  "id_rx": "RX_360",
-  "molecule": "Félodipine",
-  "noms_commerciaux": ["Plendil", "Renedil"],
-  "alias_ocr": ["Felodipine", "Félodipine", "Plendil", "Renedil"],
-  "id_cl": "CL_007",
-  "id_sc": "SC_007_03",
-  "actif": true
-},
-{
-  "id_rx": "RX_361",
-  "molecule": "Salbutamol/Ipratropium",
-  "noms_commerciaux": ["Combivent"],
-  "alias_ocr": ["Combivent", "Salbutamol Ipratropium", "Salbutamol/Ipratropium", "Ipratropium Salbutamol"],
-  "id_cl": "CL_011",
-  "id_sc": "SC_011_03",
-  "actif": true
-},
-{
-  "id_rx": "RX_362",
-  "molecule": "Insuline glulisine",
-  "noms_commerciaux": ["Apidra"],
-  "alias_ocr": ["Apidra", "Insulin glulisine", "Insuline glulisine", "Apidra SoloStar"],
-  "id_cl": "CL_008",
-  "id_sc": "SC_008_02",
-  "actif": true
-},
-{
-  "id_rx": "RX_363",
-  "molecule": "Répaglinide",
-  "noms_commerciaux": ["Gluconorm"],
-  "alias_ocr": ["Repaglinide", "Répaglinide", "Gluconorm"],
-  "id_cl": "CL_008",
-  "id_sc": "SC_008_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_364",
-  "molecule": "Bisacodyl",
-  "noms_commerciaux": ["Dulcolax"],
-  "alias_ocr": ["Bisacodyl", "Dulcolax", "Dulcolax 5 mg"],
-  "id_cl": "CL_019",
-  "id_sc": "SC_019_04",
-  "actif": true
-},
-{
-  "id_rx": "RX_365",
-  "molecule": "Psyllium",
-  "noms_commerciaux": ["Metamucil"],
-  "alias_ocr": ["Psyllium", "Metamucil", "Métamucil"],
-  "id_cl": "CL_019",
-  "id_sc": "SC_019_04",
-  "actif": true
-},
-{
-  "id_rx": "RX_366",
-  "molecule": "Probiotiques",
-  "noms_commerciaux": ["Bio-K+", "Align"],
-  "alias_ocr": ["Probiotique", "Probiotiques", "Probiotic", "Probiotics", "Bio-K+", "Bio K", "Bio-K", "Align"],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_367",
-  "molecule": "Canneberge",
-  "noms_commerciaux": ["Canneberge", "Cranberry"],
-  "alias_ocr": ["Canneberge", "Cranberry", "Cranberry extract", "Extrait de canneberge"],
-  "id_cl": "CL_030",
-  "id_sc": "SC_030_01",
-  "actif": true
-},
-{
-  "id_rx": "RX_368",
-  "molecule": "Nirmatrelvir/Ritonavir",
-  "noms_commerciaux": ["Paxlovid"],
-  "alias_ocr": ["Paxlovid", "Nirmatrelvir", "Ritonavir", "Nirmatrelvir Ritonavir", "Nirmatrelvir/Ritonavir"],
-  "id_cl": "CL_015",
-  "id_sc": "SC_015_04",
-  "actif": true
-}
+    "id_rx": "RX_353",
+    "molecule": "Bévacizumab",
+    "displayName": "Avastin",
+    "tradeNames": [
+      "Avastin"
+    ],
+    "alias_ocr": [
+      "bevacizumab",
+      "bévacizumab",
+      "avastin",
+      "mvasi",
+      "zirabev"
+    ],
+    "id_cl": "CL_034",
+    "id_sc": "SC_034_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_354",
+    "molecule": "Oméga-3",
+    "noms_commerciaux": [
+      "Oméga-3",
+      "Huile de poisson"
+    ],
+    "alias_ocr": [
+      "Omega 3",
+      "Oméga 3",
+      "Omega-3",
+      "Oméga-3",
+      "Fish oil",
+      "Huile de poisson",
+      "Webber Naturals Omega-3",
+      "Jamieson Omega-3"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_355",
+    "molecule": "Coenzyme Q10",
+    "noms_commerciaux": [
+      "CoQ10",
+      "Coenzyme Q10"
+    ],
+    "alias_ocr": [
+      "CoQ10",
+      "Co Q10",
+      "Coenzyme Q10",
+      "Ubiquinone",
+      "Webber Naturals CoQ10",
+      "Jamieson CoQ10"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_356",
+    "molecule": "Glucosamine",
+    "noms_commerciaux": [
+      "Glucosamine"
+    ],
+    "alias_ocr": [
+      "Glucosamine",
+      "Glucosamine sulfate",
+      "Sulfate de glucosamine"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_357",
+    "molecule": "Glucosamine/Chondroïtine",
+    "noms_commerciaux": [
+      "Glucosamine Chondroïtine"
+    ],
+    "alias_ocr": [
+      "Glucosamine chondroitine",
+      "Glucosamine chondroïtine",
+      "Glucosamine + chondroitine",
+      "Glucosamine + chondroïtine",
+      "Glucosamine/chondroitine",
+      "Glucosamine/chondroïtine",
+      "Chondroitine",
+      "Chondroïtine"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_358",
+    "molecule": "Dénosumab",
+    "noms_commerciaux": [
+      "Prolia"
+    ],
+    "alias_ocr": [
+      "Denosumab",
+      "Dénosumab",
+      "Prolia",
+      "Prolia injection",
+      "Prolia 60 mg"
+    ],
+    "id_cl": "CL_032",
+    "id_sc": "SC_032_02",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_359",
+    "molecule": "Métolazone",
+    "noms_commerciaux": [
+      "Zaroxolyn"
+    ],
+    "alias_ocr": [
+      "Metolazone",
+      "Métolazone",
+      "Zaroxolyn"
+    ],
+    "id_cl": "CL_012",
+    "id_sc": "SC_012_02",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_360",
+    "molecule": "Félodipine",
+    "noms_commerciaux": [
+      "Plendil",
+      "Renedil"
+    ],
+    "alias_ocr": [
+      "Felodipine",
+      "Félodipine",
+      "Plendil",
+      "Renedil"
+    ],
+    "id_cl": "CL_007",
+    "id_sc": "SC_007_03",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_361",
+    "molecule": "Salbutamol/Ipratropium",
+    "noms_commerciaux": [
+      "Combivent"
+    ],
+    "alias_ocr": [
+      "Combivent",
+      "Salbutamol Ipratropium",
+      "Salbutamol/Ipratropium",
+      "Ipratropium Salbutamol"
+    ],
+    "id_cl": "CL_011",
+    "id_sc": "SC_011_03",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_362",
+    "molecule": "Insuline glulisine",
+    "noms_commerciaux": [
+      "Apidra"
+    ],
+    "alias_ocr": [
+      "Apidra",
+      "Insulin glulisine",
+      "Insuline glulisine",
+      "Apidra SoloStar"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_02",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_363",
+    "molecule": "Répaglinide",
+    "noms_commerciaux": [
+      "Gluconorm"
+    ],
+    "alias_ocr": [
+      "Repaglinide",
+      "Répaglinide",
+      "Gluconorm"
+    ],
+    "id_cl": "CL_008",
+    "id_sc": "SC_008_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_364",
+    "molecule": "Bisacodyl",
+    "noms_commerciaux": [
+      "Dulcolax"
+    ],
+    "alias_ocr": [
+      "Bisacodyl",
+      "Dulcolax",
+      "Dulcolax 5 mg"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_04",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_365",
+    "molecule": "Psyllium",
+    "noms_commerciaux": [
+      "Metamucil"
+    ],
+    "alias_ocr": [
+      "Psyllium",
+      "Metamucil",
+      "Métamucil"
+    ],
+    "id_cl": "CL_019",
+    "id_sc": "SC_019_04",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_366",
+    "molecule": "Probiotiques",
+    "noms_commerciaux": [
+      "Bio-K+",
+      "Align"
+    ],
+    "alias_ocr": [
+      "Probiotique",
+      "Probiotiques",
+      "Probiotic",
+      "Probiotics",
+      "Bio-K+",
+      "Bio K",
+      "Bio-K",
+      "Align"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_367",
+    "molecule": "Canneberge",
+    "noms_commerciaux": [
+      "Canneberge",
+      "Cranberry"
+    ],
+    "alias_ocr": [
+      "Canneberge",
+      "Cranberry",
+      "Cranberry extract",
+      "Extrait de canneberge"
+    ],
+    "id_cl": "CL_030",
+    "id_sc": "SC_030_01",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_368",
+    "molecule": "Nirmatrelvir/Ritonavir",
+    "noms_commerciaux": [
+      "Paxlovid"
+    ],
+    "alias_ocr": [
+      "Paxlovid",
+      "Nirmatrelvir",
+      "Ritonavir",
+      "Nirmatrelvir Ritonavir",
+      "Nirmatrelvir/Ritonavir"
+    ],
+    "id_cl": "CL_015",
+    "id_sc": "SC_015_04",
+    "actif": true
+  },
+  {
+    "id_rx": "RX_369",
+    "molecule": "Doxylamine / pyridoxine",
+    "noms_commerciaux": [
+      "Diclectin"
+    ],
+    "alias_ocr": [
+      "Doxylamine",
+      "Pyridoxine",
+      "Doxylamine Pyridoxine",
+      "Doxylamine/Pyridoxine",
+      "Pyridoxine HCL",
+      "Pyridoxine Hydrochloride",
+      "Diclectin",
+      "Diclectin DR",
+      "Diclectin Delayed Release",
+      "PMS Doxylamine Pyridoxine",
+      "PMS-Doxylamine/Pyridoxine",
+      "Doxylamine Succinate",
+      "Doxylamine-Pyridoxine",
+      "Doxylamine Succinate/Pyridoxine HCL",
+      "Doxylamine Succinate Pyridoxine HCL",
+      "PMS Doxylamine Succinate Pyridoxine HCL"
+    ],
+    "id_cl": "CL_018",
+    "id_sc": "SC_018_03",
+    "actif": true
+  }
 ]

@@ -2,10 +2,10 @@
   "RX_001": [
     "5andozapixaban",
     "apixabn",
-    "APIXABAAN",
-    "AP1XABAAN",
-    "AP1XABAN",
-    "APIXABAN",
+    "apixabaan",
+    "ap1xabaan",
+    "ap1xaban",
+    "apixaban",
     "jamp apixabn",
     "aixaban",
     "apxaban",
@@ -1315,7 +1315,7 @@
   "RX_034": [
     "1opressor",
     "aometoprolol",
-    "metoprolI",
+    "metoproli",
     "ap0metoprolol",
     "apmetoprolol",
     "apo lopressor",
@@ -8958,12 +8958,12 @@
     "phenazopyridine 200"
   ],
   "RX_240": [
-    "Tamsulosin",
+    "tamsulosin",
     "tamsulosine",
     "tamsulosin hcl",
     "tamsulosin 0 4",
     "tamsulosin 0 8",
-    "Flomax",
+    "flomax",
     "fl0max",
     "f1omax",
     "fiomax",
@@ -10593,30 +10593,30 @@
     "trintellix 20"
   ],
   "RX_306": [
-    "Doxazosin",
-    "Cardura",
+    "doxazosin",
+    "cardura",
     "doxazosine",
     "apo doxazosin",
     "teva doxazosin"
   ],
   "RX_308": [
-    "Donepezil",
-    "Aricept",
+    "donepezil",
+    "aricept",
     "donepezil hcl",
     "apo donepezil",
     "teva donepezil",
     "sandoz donepezil"
   ],
   "RX_309": [
-    "Memantine",
-    "Ebixa",
+    "memantine",
+    "ebixa",
     "memantin",
     "apo memantine",
     "teva memantine"
   ],
   "RX_310": [
-    "Rivastigmine",
-    "Exelon",
+    "rivastigmine",
+    "exelon",
     "rivastigmin",
     "patch exelon"
   ],
@@ -10963,26 +10963,220 @@
     "vitamine c"
   ],
   "RX_350": [
-    "Kerendia",
-    "Kerendia 10mg",
-    "Kerendia 10 mg",
-    "Kerendia 20mg",
-    "Kerendia 20 mg"
+    "kerendia",
+    "kerendia 10mg",
+    "kerendia 10 mg",
+    "kerendia 20mg",
+    "kerendia 20 mg"
   ],
   "RX_351": [
-    "Fenofibrate",
-    "Fenofibrate E",
-    "Sandoz Fenofibrate",
-    "Sandoz Fenofibrate E",
-    "Sandoz Fenofibrate E 145mg",
-    "Sandoz Fenofibrate E 145 mg",
+    "fenofibrate",
+    "fenofibrate e",
+    "sandoz fenofibrate",
+    "sandoz fenofibrate e",
+    "sandoz fenofibrate e 145mg",
+    "sandoz fenofibrate e 145 mg",
     "fenofibratee",
-    "Lipidil"
+    "lipidil"
   ],
   "RX_352": [
-    "Chardon Marie",
-    "Milk thistle",
-    "Silymarin",
-    "Silymarine"
+    "chardon marie",
+    "milk thistle",
+    "silymarin",
+    "silymarine",
+    "chardon-marie",
+    "silybum marianum"
+  ],
+  "RX_353": [
+    "bevacizumab",
+    "bévacizumab",
+    "avastin",
+    "mvasi",
+    "zirabev",
+    "bevaci2umab",
+    "bevacizum4b",
+    "bevacizumab inj",
+    "avastin inj",
+    "avastin injection"
+  ],
+  "RX_354": [
+    "omega 3",
+    "oméga 3",
+    "omega-3",
+    "oméga-3",
+    "omega3",
+    "fish oil",
+    "huile de poisson",
+    "webber naturals omega-3",
+    "jamieson omega-3",
+    "omega 3 fatty acids",
+    "omega-3 fatty acids",
+    "acides gras omega 3"
+  ],
+  "RX_355": [
+    "coq10",
+    "co q10",
+    "co-q10",
+    "coenzyme q10",
+    "coenzyme-q10",
+    "ubiquinone",
+    "webber naturals coq10",
+    "jamieson coq10"
+  ],
+  "RX_356": [
+    "glucosamine",
+    "glucosamine sulfate",
+    "sulfate de glucosamine",
+    "glucosamine sulphate",
+    "glucosamine hcl",
+    "glucosamine hydrochloride"
+  ],
+  "RX_357": [
+    "glucosamine chondroitine",
+    "glucosamine chondroïtine",
+    "glucosamine chondroitin",
+    "glucosamine + chondroitine",
+    "glucosamine + chondroïtine",
+    "glucosamine + chondroitin",
+    "glucosamine/chondroitine",
+    "glucosamine/chondroïtine",
+    "glucosamine/chondroitin",
+    "chondroitine",
+    "chondroïtine",
+    "chondroitin"
+  ],
+  "RX_358": [
+    "denosumab",
+    "dénosumab",
+    "prolia",
+    "prolia injection",
+    "prolia 60 mg",
+    "prolia 60mg",
+    "prolia inj",
+    "denosumab injection"
+  ],
+  "RX_359": [
+    "metolazone",
+    "métolazone",
+    "zaroxolyn",
+    "metolazone 2.5 mg",
+    "metolazone 5 mg",
+    "metolazone 2.5mg",
+    "metolazone 5mg"
+  ],
+  "RX_360": [
+    "felodipine",
+    "félodipine",
+    "plendil",
+    "renedil",
+    "felodipine er",
+    "felodipine xr",
+    "felodipine 5 mg",
+    "felodipine 10 mg",
+    "felodipine 5mg",
+    "felodipine 10mg"
+  ],
+  "RX_361": [
+    "combivent",
+    "combivent respimat",
+    "salbutamol ipratropium",
+    "salbutamol/ipratropium",
+    "ipratropium salbutamol",
+    "ipratropium/salbutamol",
+    "albuterol ipratropium",
+    "albuterol/ipratropium",
+    "ipratropium albuterol"
+  ],
+  "RX_362": [
+    "apidra",
+    "apidra solostar",
+    "insulin glulisine",
+    "insuline glulisine",
+    "glulisine",
+    "apidra pen",
+    "apidra inj",
+    "apidra injection"
+  ],
+  "RX_363": [
+    "repaglinide",
+    "répaglinide",
+    "gluconorm",
+    "repaglinide 0.5 mg",
+    "repaglinide 1 mg",
+    "repaglinide 2 mg",
+    "repaglinide 0.5mg",
+    "repaglinide 1mg",
+    "repaglinide 2mg"
+  ],
+  "RX_364": [
+    "bisacodyl",
+    "dulcolax",
+    "dulcolax 5 mg",
+    "dulcolax 5mg",
+    "bisacodyl 5 mg",
+    "bisacodyl 5mg",
+    "bisacodyl supp",
+    "dulcolax supp"
+  ],
+  "RX_365": [
+    "psyllium",
+    "metamucil",
+    "métamucil",
+    "psyllium husk",
+    "fibres psyllium",
+    "fibre psyllium",
+    "metamucil fibre",
+    "metamucil fiber"
+  ],
+  "RX_366": [
+    "probiotique",
+    "probiotiques",
+    "probiotic",
+    "probiotics",
+    "bio-k+",
+    "bio k+",
+    "bio k",
+    "bio-k",
+    "biok",
+    "align",
+    "probaclac",
+    "florastor",
+    "culturelle"
+  ],
+  "RX_367": [
+    "canneberge",
+    "cranberry",
+    "cranberry extract",
+    "extrait de canneberge",
+    "cranberry capsule",
+    "cranberry caps",
+    "canneberge capsule",
+    "canneberge caps"
+  ],
+  "RX_368": [
+    "paxlovid",
+    "nirmatrelvir",
+    "ritonavir",
+    "nirmatrelvir ritonavir",
+    "nirmatrelvir/ritonavir",
+    "nirmatrelvir-ritonavir",
+    "paxlovid dose pack",
+    "paxlovid treatment"
+  ],
+  "RX_369": [
+    "doxylamine",
+    "pyridoxine",
+    "pyridoxine hcl",
+    "doxylamine pyridoxine",
+    "doxylamine/pyridoxine",
+    "doxylamine-pyridoxine",
+    "diclectin",
+    "diclectin dr",
+    "diclectin delayed release",
+    "pms doxylamine pyridoxine",
+    "pms-doxylamine/pyridoxine",
+    "pms doxylamine/pyridoxine",
+    "pms-doxylamine-pyridoxine",
+    "doxylamine succinate"
   ]
 }

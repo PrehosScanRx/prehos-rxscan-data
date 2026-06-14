@@ -846,6 +846,24 @@
       "Insomnia / sedation"
     ]
   },
+  "SC_018_03": {
+  "subtitle": "Doxylamine / pyridoxine",
+  "mainRiskLabel": "FIELD IMPACT",
+  "mainRisk": "Possible pregnancy",
+
+  "quickCheckLabel": "KEY POINTS",
+
+  "quickCheck": [
+    "Possible pregnancy",
+    "Drowsiness",
+    "Dehydration if significant vomiting",
+    "Obstetrical assessment if relevant"
+  ],
+
+  "usage": [
+    "Pregnancy-related nausea and vomiting"
+  ]
+},
   "SC_019_01": {
     "subtitle": "PPIs / antacids / gastric protection",
     "quickCheckLabel": "KEY POINTS",

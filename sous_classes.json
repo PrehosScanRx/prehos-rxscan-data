@@ -1728,6 +1728,33 @@
 },
 
 {
+  "id_sc": "SC_018_03",
+  "nom_sc": "Doxylamine / pyridoxine",
+  "id_cl_parent": "CL_018",
+  "raison_terrain": "Grossesse possible / nausées importantes",
+  "utilisation_courante": [
+    "Nausées et vomissements de grossesse"
+  ],
+  "points_cles": [
+    "Grossesse possible",
+    "Somnolence",
+    "Vomissements importants / déshydratation",
+    "Évaluation obstétricale au besoin"
+  ],
+  "grille": {
+    "criteres": {
+      "c1_risque_vital_aigu": false,
+      "c2_impact_protocoles": false,
+      "c3_rapidite_degradation": false,
+      "c4_homogeneite_reflexes": true
+    },
+    "nb_criteres": 1
+  },
+  "actif": true,
+  "impact_niveau": "FAIBLE"
+},
+
+{
   "id_sc": "SC_019_01",
   "nom_sc": "IPP / antiacides / protection gastrique",
   "id_cl_parent": "CL_019",
