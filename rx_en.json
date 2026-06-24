@@ -2407,5 +2407,20 @@
       "Diclectin",
       "Diclectin DR"
     ]
-  }
+  },
+  "RX_370": {
+  "molecule": "Riboflavin",
+  "displayName": "Vitamin B2",
+  "tradeNames": ["Vitamin B2"]
+},
+"RX_371": {
+  "molecule": "Hyaluronan / ocular lubricant",
+  "displayName": "iDrop",
+  "tradeNames": ["iDrop"]
+},
+"RX_372": {
+  "molecule": "Eyelid hygiene",
+  "displayName": "Lid hygiene gel",
+  "tradeNames": ["Lid hygiene gel"]
+}
 }

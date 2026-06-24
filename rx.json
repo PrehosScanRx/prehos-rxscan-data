@@ -5035,23 +5035,24 @@
     "actif": true
   },
   {
-    "id_rx": "RX_353",
-    "molecule": "Bévacizumab",
-    "displayName": "Avastin",
-    "tradeNames": [
-      "Avastin"
-    ],
-    "alias_ocr": [
-      "bevacizumab",
-      "bévacizumab",
-      "avastin",
-      "mvasi",
-      "zirabev"
-    ],
-    "id_cl": "CL_034",
-    "id_sc": "SC_034_01",
-    "actif": true
-  },
+  "id_rx": "RX_353",
+  "molecule": "Bévacizumab",
+  "noms_commerciaux": [
+    "Avastin",
+    "Mvasi",
+    "Zirabev"
+  ],
+  "alias_ocr": [
+    "bevacizumab",
+    "bévacizumab",
+    "avastin",
+    "mvasi",
+    "zirabev"
+  ],
+  "id_cl": "CL_034",
+  "id_sc": "SC_034_01",
+  "actif": true
+},
   {
     "id_rx": "RX_354",
     "molecule": "Oméga-3",
@@ -5335,5 +5336,32 @@
     "id_cl": "CL_018",
     "id_sc": "SC_018_03",
     "actif": true
-  }
+  },
+  {
+  "id_rx": "RX_370",
+  "molecule": "Riboflavine",
+  "noms_commerciaux": ["Vitamine B2"],
+  "alias_ocr": ["vitamin b2", "vitamine b2", "b2", "riboflavin", "riboflavine"],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_371",
+  "molecule": "Hyaluronan / lubrifiant oculaire",
+  "noms_commerciaux": ["iDrop"],
+  "alias_ocr": ["idrop", "idrop pur", "i drop", "hyaluronan", "hyaluronane", "viscoadaptive hyaluronan"],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+},
+{
+  "id_rx": "RX_372",
+  "molecule": "Hygiène des paupières",
+  "noms_commerciaux": ["Lid hygiene gel"],
+  "alias_ocr": ["lid hygiene", "lid hygiene gel", "lid hyglono", "cleansing gel", "blepharitis product"],
+  "id_cl": "CL_030",
+  "id_sc": "SC_030_01",
+  "actif": true
+}
 ]
