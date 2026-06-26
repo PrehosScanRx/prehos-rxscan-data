@@ -1674,6 +1674,35 @@
 },
 
 {
+  "id_sc": "SC_017_09",
+  "nom_sc": "Antiépileptiques barbituriques / primidone",
+  "id_cl_parent": "CL_017",
+  "raison_terrain": "Sédation / ataxie / chute",
+  "utilisation_courante": [
+    "Épilepsie",
+    "Tremblement essentiel"
+  ],
+  "points_cles": [
+    "Somnolence / conscience altérée",
+    "Ataxie / démarche instable",
+    "Chute récente",
+    "Oubli de doses",
+    "Autres dépresseurs SNC associés"
+  ],
+  "grille": {
+    "criteres": {
+      "c1_risque_vital_aigu": false,
+      "c2_impact_protocoles": false,
+      "c3_rapidite_degradation": false,
+      "c4_homogeneite_reflexes": true
+    },
+    "nb_criteres": 1
+  },
+  "actif": true,
+  "impact_niveau": "FAIBLE"
+},
+
+{
   "id_sc": "SC_018_01",
   "nom_sc": "Antihistaminiques non sédatifs",
   "id_cl_parent": "CL_018",

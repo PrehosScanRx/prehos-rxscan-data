@@ -820,6 +820,20 @@
       "Narcolepsy"
     ]
   },
+  "SC_017_09": {
+  "subtitle": "Barbiturate antiepileptic (Primidone)",
+  "quickCheckLabel": "KEY POINTS",
+  "quickCheck": [
+    "Drowsiness",
+    "Ataxia",
+    "Recent fall",
+    "Other CNS depressants"
+  ],
+  "usage": [
+    "Epilepsy",
+    "Essential tremor"
+  ]
+},
   "SC_018_01": {
     "subtitle": "Non-sedating antihistamines",
     "quickCheckLabel": "KEY POINTS",

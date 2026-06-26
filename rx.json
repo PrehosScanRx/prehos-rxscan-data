@@ -5363,5 +5363,24 @@
   "id_cl": "CL_030",
   "id_sc": "SC_030_01",
   "actif": true
+},
+{
+  "id_rx": "RX_373",
+  "molecule": "Primidone",
+  "noms_commerciaux": [
+    "Mysoline"
+  ],
+  "alias_ocr": [
+    "Primidone",
+    "Mysoline",
+    "Primidone 125",
+    "Primidone 250",
+    "Apo Primidone",
+    "Teva Primidone",
+    "Sandoz Primidone"
+  ],
+  "id_cl": "CL_017",
+  "id_sc": "SC_017_02",
+  "actif": true
 }
 ]

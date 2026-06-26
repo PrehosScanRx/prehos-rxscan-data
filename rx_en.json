@@ -2422,5 +2422,12 @@
   "molecule": "Eyelid hygiene",
   "displayName": "Lid hygiene gel",
   "tradeNames": ["Lid hygiene gel"]
+},
+"RX_373": {
+  "molecule": "Primidone",
+  "displayName": "Mysoline",
+  "tradeNames": [
+    "Mysoline"
+  ]
 }
 }
