@@ -918,7 +918,11 @@
       "Amoxil"
     ],
     "alias_ocr": [
-      "Amoxicillin"
+      "Amoxicillin",
+      "Amoxicicapsule",
+      "Amoxici capsule",
+      "Amoxicicapsule 500",
+      "AMOXICICAPSULE 500 MG"
     ],
     "id_cl": "CL_015",
     "id_sc": "SC_015_01",
