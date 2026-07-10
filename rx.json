@@ -5006,7 +5006,8 @@
     "molecule": "Fenofibrate",
     "noms_commerciaux": [
       "Lipidil",
-      "Sandoz Fenofibrate E"
+      "Sandoz Fenofibrate E",
+      "Feno-micro"
     ],
     "alias_ocr": [
       "Fenofibrate",
@@ -5015,7 +5016,15 @@
       "Sandoz Fenofibrate E",
       "Sandoz Fenofibrate E 145mg",
       "Sandoz Fenofibrate E 145 mg",
-      "fenofibratee"
+      "fenofibratee",
+      "Feno-micro",
+      "Feno micro",
+      "Fenomicro",
+      "FenO-micro",
+      "3Feno-micro",
+      "3FenO-micro",
+      "Feno-micro 200",
+      "Fenofibrate 200"
     ],
     "id_cl": "CL_013",
     "id_sc": "SC_013_02",
